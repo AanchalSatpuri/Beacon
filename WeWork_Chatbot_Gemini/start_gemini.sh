@@ -1,0 +1,61 @@
+#!/bin/bash
+
+# WeWork Chatbot Gemini Startup Script
+
+echo "🚀 Starting WeWork Chatbot with Gemini..."
+echo "========================================="
+
+# Check if conda is available
+if ! command -v conda &> /dev/null; then
+    echo "❌ Conda not found. Please install Conda first."
+    exit 1
+fi
+
+# Check if environment exists
+if ! conda env list | grep -q "wework-gemini"; then
+    echo "📦 Creating conda environment..."
+    conda create -n wework-gemini python=3.9 -y
+fi
+
+# Activate environment
+echo "🔧 Activating environment..."
+source $(conda info --base)/etc/profile.d/conda.sh
+conda activate wework-gemini
+
+# Install dependencies
+echo "📥 Installing dependencies..."
+cd RAG
+pip install -r requirements.txt
+
+# Check for API key
+if [ ! -f ".env" ]; then
+    echo "⚠️  No .env file found. Please create one from api_key_template.txt"
+    echo "📋 Run: cp api_key_template.txt .env"
+    echo "✏️  Then edit .env with your Gemini API key"
+    exit 1
+fi
+
+# Start backend
+echo "🔥 Starting Gemini backend..."
+python flask_api.py &
+BACKEND_PID=$!
+
+# Wait a moment for backend to start
+sleep 5
+
+# Start frontend
+echo "🌐 Starting chatbot UI..."
+cd ../Chatbot_UI
+python3 server.py &
+FRONTEND_PID=$!
+
+echo ""
+echo "✅ WeWork Chatbot is now running!"
+echo "🔵 Backend (Gemini): http://localhost:5000"
+echo "🔵 Frontend: http://localhost:8080"
+echo ""
+echo "🛑 Press Ctrl+C to stop both servers"
+
+# Wait for user to stop
+trap "echo '🛑 Stopping servers...' && kill $BACKEND_PID $FRONTEND_PID 2>/dev/null" SIGINT
+wait

@@ -1,0 +1,56 @@
+[
+  {
+    "question": "How do I update the address on my invoice?",
+    "answer": "To update the address on your invoices, please submit a support request with the new address you would like displayed, along with proof of the updated address (any government-issued document with address proof will suffice).\nFor accounts with multiple offices and locations, each location can have a unique address, depending on the provided address proof.",
+    "user_type": "All Members",
+    "tags": ["invoice", "address update", "support request", "proof of address"]
+  },
+  {
+    "question": "Can I use a WeWork address on my invoice?",
+    "answer": "Yes, Private Office members may use a WeWork address on their invoices.",
+    "user_type": "Private Office Members",
+    "tags": ["invoice", "WeWork address", "location address"]
+  },
+  {
+    "question": "How do I update the company name on my invoice?",
+    "answer": "To update your company name on WeWork invoices, the current primary member should submit a support request with the new company name and provide a valid supporting document for the name change. After this, a name change addendum must be signed by all relevant stakeholders (the old entity, the new entity, and WeWork India Management Pvt. Ltd.). The updated company name will appear on your invoices once all parties have signed the addendum.",
+    "user_type": "All Members",
+    "tags": ["company name", "invoice update", "supporting documents", "addendum"]
+  },
+  {
+    "question": "Why do I need an active payment method?",
+    "answer": "All WeWork accounts (except for some members in India) require an active payment method for each location.",
+    "user_type": "All Members",
+    "tags": ["payment method", "active payment", "requirement"]
+  },
+  {
+    "question": "What payment methods are available?",
+    "answer": "WeWork India accepts payments via:\n\n* Wire transfers (NEFT, IMPS, etc.)\n* Payment links\n* Credit/debit card swipes at locations (EDC transfer)\n\nThe primary member can update or remove payment methods on the Account Central page in the member portal.",
+    "user_type": "All Members",
+    "tags": ["payment options", "wire transfers", "payment links", "card payments"]
+  },
+  {
+    "question": "Who can update payment information?",
+    "answer": "Only the primary member can update payment information.",
+    "user_type": "All Members",
+    "tags": ["payment information", "update permissions", "primary member"]
+  },
+  {
+    "question": "How do I update my payment method?",
+    "answer": "1. In Account Central, go to 'Payment Settings'\n2. Click 'Add Payment Method'\n* To set a method as default, select Set as default next to that payment method.\n* To remove a method, click Remove next to the payment method.\n3. Choose the payment method and click 'Next'\n4. Select 'Add new credit card' or 'Add new bank account'\n\nNeed additional support?\nYou can speak with your on-site Community team or submit a support request for further assistance.",
+    "user_type": "All Members",
+    "tags": ["payment method", "update process", "account central", "default payment"]
+  },
+  {
+    "question": "When are late fees applied?",
+    "answer": "If there is an outstanding balance for the current month and the payment is not received within the stipulated timeline, the primary member will receive a non-payment notice with a 48-hour deadline to make the payment. Failure to do so will result in a late fee charge, calculated according to the percentage specified in your membership agreement, which will be added to the next month's invoice.\n\nIf payment remains outstanding, additional non-payment notices will be sent, which may lead to keycard deactivation or eviction.\n\nThink you were charged a late fee by mistake?\nIf you believe a late payment notice was issued in error and you've already completed the payment, please submit a support request with your bank payment confirmation as proof.",
+    "user_type": "All Members",
+    "tags": ["late fees", "non-payment", "deadlines", "penalties"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po\nAll Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus\nAll Access Pay Per Use - aappu, all access pay per use, aa pay per use\nVirtual Office - VO, WeWork VO, vo\nWeWork Labs - WW Labs, WWL, wwl, wwlabs\nOn-demand - OD, WeWork OD, od\nOn-demand meeting rooms - conference rooms, od meeting rooms\nManaged Offices - managed offices, mo, MO \nWeWork Business Solutions - WBS, wework business solutions\nAdvertise at WeWork - advertise at wework, advertise at ww\nStudios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology"]
+  }
+] 

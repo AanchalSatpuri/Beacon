@@ -1,0 +1,767 @@
+﻿How do I cancel a meeting room or workspace that I have reserved?
+
+
+What are the rules for canceling reservations?
+
+
+Coworking members
+* Cancellation of meeting room bookings must be made at least one hour before the reservation start time.
+* Cancelation of workspace bookings must be made by 11:59 PM, the day before the reservation.
+* Cancellations that fall outside of these times may not be refundable.
+* Once canceled, you will receive a confirmation email.
+
+
+On-demand users
+* Cancellation of meeting room and workspace bookings must be made at least 24 hours before the reservation start time.
+* Cancellations of on-the-day reservations have a window of five minutes from confirming the booking.
+* Cancellations that fall outside of these times may not be refundable.
+* Once canceled, you will receive a confirmation email.
+Canceling via the WeWork app:
+1. In the WeWork app, tap on the Upcoming icon. Locate and select the booking.
+ wework app - upcoming booking 
+
+
+
+2. Tap on Cancel reservation.
+ wework app - view booking 
+
+
+
+3. Tap on Cancel reservation again to confirm.
+ wework app - confirm booking cancelation 
+
+
+
+4. A confirmation of booking Cancelation will be shown. Tap on Done.
+ wework app - booking canceled confirmation.png 
+
+Canceling via the member web:
+1. In the member web, click on Your bookings. Locate the booking in the ;Upcoming; section.
+ member web - your bookings 
+
+
+
+2. In the top-right of the reservation, click on the three dots and select Cancel.
+ member web - cancel booking 
+
+
+
+3. Click on Yes, cancel to confirm.
+ member web - confirm cancel booking 
+
+Need additional support?
+If you need any support, please visit your local Community team or submit a support request.
+
+
+
+
+How do I view the details of a WeWork location?
+View the details of the building in the WeWork Member App or member web.
+
+
+Information that you can view:
+* Location contact information such as the address, opening hours, and details of the Community team
+* Available Amenities
+* Meeting rooms and how to book
+* Workspaces and how to book
+* Guest information and how to register a guest
+Via the WeWork app:
+1. In the WeWork app, search for the WeWork location.
+You can also search by area such as “New York”.
+ WeWork app - search for location 
+
+ 
+2. Select the location and view the details.
+ WeWork app View location details 
+
+Via the member web:
+In the member web , click on Home.
+
+
+ member web home page 
+
+How do I update my location?
+See the article ‘How do I update my WeWork profile?’
+
+
+If you are a member that has Private Office, remember to switch your profile back to your home location.
+Need further assistance?
+Please visit the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+How do I view the Community team?
+Every WeWork location open to members has a Community team on-site to support you during your time in the building, and they are the point of contact for any questions you may have.
+How do I view the Community team?
+Via the WeWork app:
+1. In the WeWork App, search for the location.
+ WeWork app - Searching for a location 
+
+
+
+2. Select that location. The Community host will show under the “Community” section.
+ WeWork app - Community section 
+
+Via the member web:
+1. In the member web, click Home.
+ member web - home tab 
+
+
+
+2. The Community team is listed under the “Meet the Community Team” section.
+ member web - meet the Community team section 
+
+Need to change your location?
+Follow the steps in the article ‘How do I view the details of a WeWork location?’ to change your location.
+Need further assistance?
+Please visit the on-site Community team or submit a support request.
+
+
+
+
+How do I update my WeWork profile?
+Keeping your profile updated is recommended so you can:
+* Receive updates from your local Community team
+* See what amenities are available in your building
+* Discover events that are happening in your building
+Via the WeWork app
+Here you can update your:
+* Profile picture
+* Name
+* Phone number
+* Password
+
+
+1. In the WeWork app, tap on the Account icon > Edit Profile.
+ App Account-Edit profile 
+
+
+
+2. Make your updates, and tap on Save.
+ App Profile Page.png 
+
+Via the member web
+Here you can change your:
+* Location
+* Password
+* Profile picture
+1. In the member web, click on your avatar and select My profile.
+ Avatar - My Profile 
+
+
+
+2. Make your updates.
+If you are updating your password, remember to click on Change Password for the changes to take effect.
+ member web my profile page 
+
+Need additional support?
+Please visit the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+How do I register guests? What happens when they arrive?
+Registering guests before their visit ensures an email is sent to them that includes:
+* The date, time, and location.
+* Arrival instructions and a QR code for faster check-in.
+* Information on connecting to the WeWorkGuest WiFi and amenities available to them.
+Who can register guests?
+Any WeWork member can register guests. You are required to have a space reserved for their visit.
+* If you have a private office, you can host your guests in your office space. 
+   * Another option is to book a meeting room.
+* If you do not have a private office at that location, book a meeting room.
+Wherever you host your guests, please make sure that the number of people in the space does not exceed its capacity.
+
+
+View WeWork’s guest policy.
+Register guests via the WeWork app:
+1. In the WeWork app, tap on the Upcoming icon > + Add guest.
+ WeWork App - Upcoming - Add Guest 
+
+ 
+2. Enter the details of your guest. Tap on Next.
+There is an option to add a guest from your contacts.
+You can also select a recent guest you had.
+ WeWork App - Register Guests 
+
+
+
+3. Confirm the details of your guest and their visit. Tap on Register.
+To add more guests, tap on + Add another guest.
+ WeWork App - Confirm Guest 
+
+
+
+4. A confirmation page will show. Tap on Done.
+
+
+You can keep track of your guests in the “Upcoming” section of the WeWork app.
+ wework app - upcoming guests 
+
+Register guests via the member web:
+1. In the member web, click on Register guests.
+If it is a recent guest, you can select their details and add the time and location.
+ member web - register guests 
+
+
+
+2. Enter the details of your guest and the visit details in the ‘Register a guest’ form.
+ member web - register a guest form 
+
+
+
+3. Click on Register guest. Repeat to add more guests.
+
+
+You can keep track of your guests in the "Upcoming Guests" section with options to book a meeting room or cancel.
+ member web - upcoming guests 
+
+What happens when guests arrive?
+* Guests must sign in at the Community Bar when they arrive.
+* Once signed in, the host receives a notification to collect their guest.
+* The host must be present to receive their guests. WeWork will not accept guests if they do not have a host to greet them.
+* The host is responsible for their guests during their visit. Guests and members are to follow WeWork’s expectations.
+Need further assistance?
+Please visit the on-site Community team or submit a support request.
+How do I book a workspace? What happens once I make a reservation?
+Booking via the WeWork app:
+1. In the WeWork App, tap on the search icon > Desks.
+ WeWork app - Book workspace 
+
+
+
+2.  Search for the city where you want to book a workspace.
+You can also drag the pin to an area on the map and tap on Search here.
+ wework app - search for workspace 
+
+
+
+3. Use the filters to select a date. Tap on Done.
+ wework app - book a desk - choose a date 
+
+
+
+4. Select a location to see its amenities, meeting rooms, and other details. Tap on Book desk.
+ wework app - viewing a location 
+
+
+
+5. Review the booking details and tap on Complete booking.
+On-demand users are shown a monetary charge.
+ wework app - confirm desk booking 
+
+Booking via the member web:
+1. In the member web, click on Book space > Desks.
+ member web - book a desk 
+
+
+
+2. Use the filters to select the city, date, and amenities you need.
+ member web - book a desk 
+
+
+
+3. Select the location either using the list or the map, and click on Book a desk.
+ member web - select location 
+
+
+
+4. Review the booking details and click on Book for # credits.
+On-demand users are shown a monetary charge.
+ member web - book a desk - confirm booking 
+
+Important information:
+* Once the booking is confirmed, you will receive an email confirmation of your reservation along with a visit checklist to help you on the day.
+* You can add the workspace booking to your calendar and view and manage upcoming bookings in the member web or WeWork app.
+* Availability may vary by location and is shown when booking.
+* The total credit amount for the workspace is shown before you confirm the booking.
+   * On-demand will show the monetary cost of the workspace booking.
+* The person who books the workspace is the one that will use it as it will be their keycard that is activated.
+* Make sure to book a workspace at least one hour before arrival to ensure your keycard is activated.
+* If you plan to bring guests to this space, a private office or meeting room booking is required. The number of guests is limited to the capacity of the space booked.
+* All upcoming reservations can be viewed and managed on the ‘Your bookings’ section of the member web or the ‘Upcoming’ section of the WeWork app.
+* You can cancel up to 11:59 PM - the day before the reservation.
+   * On-demand users must cancel 24 hours before the start time of their reservation. Or within 5 minutes of booking on-the-day reservations.
+* If you are booking a workspace on a weekend or national holiday, the Community team may not be in the building and might have reduced amenities.
+Need further assistance?
+Please visit the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+How do I remove a team member from my account?
+Primary and Admin members who have access to Account Central can remove team members from their account(s).
+How do I deactivate a team member?
+Within the ‘Team’ section of Account Central, it is possible to search for a member via the search field. Selecting a member will enable options for you to edit or deactivate them.
+ 
+1. In Account Central, click on Team.
+2. Locate the member you would like to deactivate and click on their name.
+3. Click Deactivate member at the bottom of the sidebar.
+4. Confirm the removal by clicking Deactivate member.
+ 
+ Deactivate member (member invite flow).gif.gif 
+
+
+
+The member will be removed from your account and their keycard automatically deactivated.
+Need additional support?
+Please visit the Community team on-site or submit a support request.
+
+
+How can I view past and upcoming bookings?
+On the Member Network, you can view your previous, current, and future bookings under the “Your Bookings” section.
+Upcoming bookings
+ Future or upcoming bookings or reservations 
+
+On ‘Your Bookings’ page, click on the Upcoming tab. Here, you can see the following details of your future bookings:
+* Room number
+* Date and time of the booking
+* Location and the building’s postcode
+* The number of people the room can accommodate
+* The amenities in the room 
+* The number of credits to be charged
+
+
+On this page, you can also perform the following actions by clicking the three dots on the top right of the booking:
+* Add to calendar:  Add the booking to your calendar.
+* Register guests: Invite guests to conference room bookings.* 
+* Get directions: View map directions on how to get to the location.
+* Cancel: Cancel the booking**.
+* Depending on the available capacity. 
+** Within the given cancellation time. Within one hour of the start time for meeting rooms and before 11.59 PM the day before for workspace bookings.
+Past Bookings
+ pas bookings or reservations 
+
+
+
+On the ‘Your Bookings’ page, click on the Past tab. Here, you can see the following details of your previous bookings:
+* Room number.
+* Date and time of the booking.
+* Location and the building’s postcode.
+* The number of people the room accommodated.
+* The amenities in the room. 
+* The number of credits charged for the booking.
+* An option to book a conference room or desk again.
+
+
+If you need assistance or have any questions, please visit your local Community on-site or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+How Can I Locate my Membership Agreement?
+Membership Agreements can be viewed by the Primary Member, the assigned Billing Contact, or the assigned Account Admins in  Account Central. Membership Agreements can be located in the Manage Membership section by following the steps below:
+ 
+1. In Account Central, on the left-hand side click Manage Membership.
+2. To the right-hand side of the office you would like to view, click the three dots and select View Details.
+3. Save the Membership Agreement.
+ 
+If you’re still having trouble after following these steps, submit a support request here - https://members.wework.com/workplaceone/content2/wework-support and a member of Global Support will assist you.
+
+
+How Do I Change The Language On The Member Network?
+The steps below detail how you can change the language on your Member Network account:
+ 
+1. In the Member Network, in the top-right, click on the down arrow and select Settings and Notifications.
+2. Under the “Language Preferences” section, select your preferred language.
+3. Click Save.
+
+
+If you’re still having trouble after following these steps, submit a support request here - https://members.wework.com/workplaceone/content2/wework-support and a member of Global Support will assist you.
+
+
+
+
+I’m logged into the Member Network, but I’m running into issues and getting errors. What is causing this?
+Are you running into errors? You might be using unsupported web browsers and devices.
+The Member Network supports Safari, Chrome, and Firefox. At the moment, it does not support Internet Explorer.
+The WeWork app will run successfully on the most up-to-date operating systems for Android and iOS mobile devices. Currently, there isn’t a WeWork app for Windows phones.
+
+
+
+
+MY BUILDING
+
+
+SECURITY
+
+
+Does WeWork have an emergency call center?
+WeWork Emergency Call Center
+For emergencies or security-related issues members are instructed to call the WeWork Emergency Call Center. This center is here to assist all members of the WeWork community 24-hours a day, 365 days a year.  
+Please see below on how to reach the call center from your location, when the center should be contacted, and how to follow up.
+When Should I Contact The Emergency Call Center?
+Please contact us for any issues related to safety or security, including keycard lockouts and access issues into your building. If you are unsure, please contact us and we will always assist you.
+How To Get Help
+If there is imminent danger to yourself or others, call your local emergency services number immediately. Then when it is safe to do so, call the WeWork Emergency Call Center. 
+Otherwise, call the WeWork Emergency Call Center at one of the following numbers, depending on your location. Translation services will be available for all major languages.
+
+
+See below for the numbers for your region:
+India: 000800 100 4404
+US/Canada
+* US/Canada: 1-855-855-0865
+* Quebec: 1-888-855-9060
+Latin America
+* Argentina: 0800 333 6229
+* Brazil: 0800 878 5029
+* Chile: (+56) 800 914 173
+* Colombia: 01800 913 2116
+* Costa Rica: 0800-032-0011
+* Mexico: 01800 269 4446
+* Peru: 080078195
+* Uruguay: 0004 16204 7777
+EMEA
+* Belgium: 0800 26 537
+* Czech: +420 800 021 029
+* France: 0805 080 622
+* Germany: 0307 262 19676
+* Ireland: 1800 816 280
+* Israel: *3053
+* Italy: (+39) 800 743 036
+* Netherlands: 020 705 9564
+* Norway: 800 25 130
+* Poland: (+48) 800 012 196
+* Russia: +7 800 222 4683
+* South Africa: (+27) 080 017 2967
+* Spain: 900 838 989
+* Sweden: (+46) 020-10 93 85
+* UK: 0203 514 8266
+ South East Asia And Pacific
+* Australia: 1800 142 874
+* Indonesia: 007 803 321 8012
+* Malaysia: (+60) 1 800 81 6304
+* Philippines: +63 (02) 8626 3132
+* Singapore: 800 130 1850
+* South Korea: 0030 813 1352
+* Thailand: (+66) 1800 013 200
+* Vietnam: (+84) 12032593
+ Greater China Region
+* China: 4000 401 581
+* Hong Kong: 800 900 154
+* Taiwan: 080 149 1395
+Japan: 0800 111 0050
+
+
+
+
+
+
+What is WeWork’s event policy for alcohol and security?
+If you’re hosting an event at a WeWork space, here are some general guidelines to note:
+* If an event contains alcohol, no one under the legal drinking age is permitted to consume alcohol.
+* If any member participates in planning and/or hosting an event, that person is deemed the Event Host, and must sign WeWork’s event agreement. Please submit a support request with background information on the event and your Community Manager will provide you with the agreement.
+* The Event Host must provide a list of attendees to the Community team at least 3 hours prior to the event. 
+* Only individuals listed on the attendee list will be permitted into the event.
+* Please note: there are often fees and security deposits associated with events, which vary by location.
+
+
+
+
+How does WeWork keep my workplace safe?
+WeWork has both technical and physical security solutions to ensure the protection of our Members, their employees, and the confidential information that is handled within our spaces. WeWork deploys video management and access control systems globally, to ensure only authorized employees and/or Members have proper access privileges.
+How does WeWork secure our Members' data?
+* WeWork is ISO 27001 certified.
+* ISO 27001 is an industry leading standard regulating best practices for an Information Security Management System (ISMS). The ISMS is a security program made up of a set of policies, procedures, and controls to manage, monitor, and improve an organization’s information security practices.
+* You can view WeWork's ISO 27001 certificate by visiting this page and entering our certificate number: 1146845-4. 
+If you have any questions, please raise a support request here - https://members.wework.com/workplaceone/content2/wework-support with our Global Support Team. 
+
+
+
+
+Would WeWork ask me for my personal or financial information?
+* In order to protect our members from being the victims of phishing campaigns and the potential release of private information, WeWork prohibits personnel from asking members for their personal or financial information over the phone or via email. Phishing is a form of a social engineering attack attempting to obtain sensitive information by posing as a trustworthy entity via email or phone call.
+* To help prevent our members from being exposed to these scams, we have compiled a list of ways to identify a fake email or phone call:
+   * A phishing email may contain grammatical, spelling, or punctuation errors. WeWork’s external communication goes through strict quality assurance protocols before being delivered to our members. Therefore grammatical, spelling, or punctuation errors are highly unlikely from an authorized WeWork email.
+   * A phishing email or phone call may include an urgent request for personal or financial information. WeWork will NEVER ask our members to provide their Social Security Number, passwords, or credit card number via email or over the phone.
+   * A phishing email may ask our members to click on an embedded link. As a precaution, WeWork members should hold their mouse over masked links to reveal the actual web address before clicking through.
+
+
+What do I do if I see a door that doesn’t seem secure?
+If you notice a door that’s not secure, please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support with the exact door location and provide as much information as possible. We will work to address it immediately.
+
+
+
+
+BUILDING/FACILITIES
+An arcade game is not working. What should I do?
+Report arcade issues to the on-site Community team for an engineer can be called.
+
+
+Please do not try fixing the issue yourself. Please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support with the exact issue and provide as much information as possible. We will work to address it immediately.
+What if the Community team is not on-site?
+Please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support. If it is out of hours, there may be a delay to the reply.
+You can also notify the security personnel at the community bar, in case of an emergency.
+
+
+
+
+What do I do if I need to use the freight elevator?
+Please visit your on-site ​​Community team, at the Community Bar if you need to access the freight elevator. They will work with you to arrange a time. 
+ 
+Please try to provide at least 48 hours' notice of when you need to use the freight elevator.  Exceptions apply.
+ 
+After-hours pricing for the freight varies from site to site. Speak to your Community team for details. 
+What if the Community team is not in my building?
+Please submit a ​​support request. If it is out of hours, there may be a delay in the reply.
+You can also notify the security personnel at the community bar, in case of an emergency.
+What do I do if I see a drip, leak, or flood at my building?
+During building opening hours, please notify your on-site Community team as soon as possible by visiting the Community Bar. 
+ 
+When notifying the ​​Community team, please describe the type of leak you are reporting:
+* Non-urgent leaks: Poses no damage to people, their property, or to the building as a whole.
+* Urgent leaks: Can cause serious damage to people, their property, or to the building as a whole.
+What if the Community team is not in the building? 
+Please call the WeWork Emergency Call Center.
+
+
+To find the number for your region, please see the article Does WeWork have an emergency call center?
+How do I adjust the timers of the lights in my office?
+All lights in the WeWork buildings are equipped with a timer, except the emergency lights.
+How can I tell if my lights are adjustable?
+Locate the light switch for the light and hold it down.
+ 
+* If your lights are adjustable, a light on the switch will blink.
+   * Blinks once: timer set to 15 minutes
+   * Blinks twice: timer set for 30 minutes
+   * Blinks three times: timer set for 45 minutes
+ 
+* If your lights are not adjustable, there will be no light blinking on the switch.
+How do I adjust the timer of my lights?
+Please visit your on-site Community team to request that your office lights be adjusted. The minimum time for lights is 15 minutes. The maximum time is 45 minutes.
+
+
+Require further assistance?
+Please visit your on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+How do I request maintenance work for my office? Who completes the work?
+WeWork maintenance requests are fulfilled by our Facilities team. Members cannot do the work themselves.
+What can the Maintenance team do?
+* TV mounting
+* Furniture assembly
+* Picture or shelves Installation
+* General handyman services 
+
+
+Member-specific maintenance requests that require alteration to their office include fees for setup and removal associated with them.
+How do I request maintenance work?
+If you would like maintenance services for your office, please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+Additional information:
+* Approval from the Primary Member for all work involving costs is required.
+* Confirmation of prices on the support request is required.
+* Fees are determined by:
+   * Scope of work
+   * Materials
+   * The length of time needed to address the request
+* Fee is assigned once the work is completed and appears on your following monthly statement.
+* WeWork typically bills for additional maintenance services by the time it takes to complete the request. Work for the first hour is automatic and then measured in hourly increments.
+* The cost of work per hour will vary slightly by location. For more information, please ask your on-site Community team.
+* The Maintenance team prioritizes their work depending on urgency. There could be some time between having the request approved and completed.
+Require further assistance?
+Please see the on-site Community team or submit a support request.
+How do I get notified of a Mail and Package delivery?
+As soon as a package is delivered, the Community team sends the recipient an email notification letting the member know. They’ll specify the location and best times to pick it up.
+Please note: Packages are scanned as soon as local couriers drop them off, between Monday-Friday (9AM-6PM). It’s best to wait for a notification from your Community team (and not the courier) before you come to pick up your package.
+
+
+I lost my keycard, what do I do?
+If your keycard is lost or missing, please inform the Community Management Team or your Primary Member immediately. A member of the team can replace your keycard at the community bar.
+Please confirm with your primary member since a replacement fee will be applied to the company. Your local team can provide more information on the fee.
+Please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support, cc the Primary Member straight on the email chain to pass this over to the Community team.
+
+
+What is the voltage of the outlets in my office?
+The voltage of the outlets in WeWork offices vary by location. Please connect with your local community team for assistance or submit a support request.
+
+
+
+
+
+
+PANTRY
+What is WeWork’s refrigerator policy?
+WeWork refrigerators operate at a temperature of under five (5) degrees per our food safety standard operating procedure.
+When are refrigerators cleared out?
+Refrigerators are cleared out weekly* to keep the fridge fresh, organized, and spacious for the following week.
+*3 pm on Fridays for most regions
+ 
+Any items left in the refrigerator without a note after this time will be removed, including the container.
+What if I want to leave something in the refrigerator over the weekend?
+Please attach a sticky note stating to keep it in the refrigerator along with your name.
+Need further assistance?
+Please visit your on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+A kitchen appliance in the pantry is not working. What should I do?
+Please report any issues to the on-site Community team so an engineer can be called to investigate.
+
+
+Kitchen appliances include:
+* Microwaves
+* Refrigerators
+* Water coolers
+* Ice machine
+
+
+Please use appliances in other pantries on other floors in the meantime.
+Community team not on site?
+Please submit a support request. You may not get a reply straight away if submitted outside of the building’s opening hours.
+
+
+
+
+HONESTY MARKET
+OFFICE
+How do I add or remove WeWork furniture from my office?
+WeWork offices come with desks, chairs, and filing cabinets. 
+Removing furniture
+1. Check with other people in your office if they want the furniture first.
+2. Label the unwanted furniture with post-its.
+3. Notify your on-site Community team at the Community Bar. 
+Adding furniture
+Please visit the Community team.
+How do I adjust the temperature in my office?
+The ability to set a specific temperature varies office-to-office depending on the heating, ventilation, and air conditioning (HVAC) system and how it may affect neighboring offices in your temperature zone.
+ 
+Temperatures set in communal areas are at a level for the comfort of all members using that space.
+What can I do to ensure my HVAC system is running effectively?
+HVAC systems are programmed to provide you comfort and save energy and our planet. We suggest the following to help your HVAC system runs effectively:
+* Check that doors and windows are closed.
+* Please do not use personal heaters, kettles, or coffee makers if possible. These can increase temperatures and affect the sensors for HVAC systems.
+* Please check that temperature sensors are not blocked or next to heat sources.
+* If you are working outside standard working hours, we try to save energy by altering the operation of our HVAC systems. Please see the on-site Community team for more information.
+I have done the above and still want to change the temperature. What should I do?
+Please check with members in your office to determine if there is an agreement to change the temperature. If there is an agreement, please see the on-site Community team to request that the temperature be changed.
+ 
+It may take some time for the HVAC system to adjust the temperature. We appreciate your patience during this time.
+Need further assistance? 
+Please see the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+I need more passes, desks, or space. How do I request this?
+You can increase your passes, desks, or space at any time - one of the benefits of month-to-month flexibility. Existing members have priority to move internally and to new WeWork locations as they open.
+How do I request more passes, desks, or space?
+Please visit the on-site Community team or submit a support request to inquire about availability. Members who have an Account Manager can also reach out directly to them.
+ 
+Only the Primary Member of the account can request additional passes, desks, or space.
+Not yet a member and want to be?
+Please visit the “Contact us” page on our website.
+
+
+What is WeWork's office signage policy?
+Want your company name or logo on your office door?
+
+
+WeWork supplies one complimentary piece of company signage per office, unless otherwise specified. The signage is an adhesive that is placed on your office window facing outwards towards the hallway, usually featuring your company name and logo.
+
+
+To order one, submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+If you would like to order an additional logo (because you updated the style of your logo, or you would like to request multiple logos for multiple windows) then a fee will apply and this varies by location. Please contact your Community team or submit a support request to find out more.
+
+
+How often will my office be cleaned?
+The health and safety of our members and global communities are our number one priority. That’s why we continue to take steps to enhance our spaces and services—ensuring that you can continue working with peace of mind.
+
+
+Please view our Health and Safety commitment for more details. 
+
+
+Note: Specific policies and practices may vary by country and city. We will monitor local regulations, and adapt our local policies and practices as necessary.
+Can I add additional privacy vinyl or bring in blinds to make the space more private?
+To ensure all members get natural light regardless of where their office is located, we don’t allow members to put anything up above the privacy vinyl line.
+
+
+
+
+How are office sizes measured at WeWork?
+WeWork determines office size by desk capacity instead of the typical square foot measurement. The offices are designed specifically for the number of people that are allowed to occupy the space at a given time.
+
+
+RESERVING WORKSPACE ON WEWORK.COM
+MEMBER EXPECTATIONS 
+What is WeWork's guest policy?
+As a WeWork member*, you are welcome to invite guests into our buildings.
+
+
+
+
+Pre-register your guests before arrival to optimize their experience. Guests will need to sign in at the front desk upon arrival. WeWork uses its proprietary system to document all guests entering a WeWork-operated location. Please make sure the guest brings their photo ID to check-in.
+
+
+
+
+As a member, you are responsible for all actions conducted by your guests. You are required to be present in the building when your guests visit. Guests are not allowed in the building if the member is not there to collect them.
+
+
+
+
+*Please note if you have an All Access Plus (including Global Access), or On-demand Membership, it is required you have a meeting room booked to host guests at any WeWork location. You can book meeting rooms on the member web or the WeWork app.
+
+
+
+
+If you have any questions or require assistance, please see the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+Are there rules and expectations for members and guests of members when on WeWork properties? 
+Yes, member safety and satisfaction are incredibly important to us. Therefore, members are not allowed to use WeWork locations (including offices, coworking space, and amenities) for retail, medical, or non-business purposes — as well as anything else that would involve frequent non-member (public) visits.
+Members should always treat one another with respect and are not allowed to misrepresent or make false claims about themselves or their guests to the WeWork community, whether  in person or within the Member Network. We also don’t allow members to use WeWork buildings, workspace, or amenities for illegal or offensive activities.
+For more context, below is an excerpt from our Membership Agreement, which all members are required to agree to before joining:
+ 
+Members may not: 
+i.        use the Services, the Premises or the Office Space to conduct or pursue any illegal or offensive activities or comport themselves to the community in a similar manner; all Members shall act in a respectful manner towards other Member Companies and our and their employees and guests;
+ii.       misrepresent himself or herself to the WeWork community, either in person or on the WeWork Member Network;
+iii.       use the Office Space in a retail, medical, or other capacity involving frequent visits by members of the public, as a residential or living space, or for any exclusively non-business purpose;
+
+
+
+
+
+
+
+
+REFUNDS
+When can I start booking meeting rooms and workspaces? When do I get access to WeWork locations?
+You can book meeting rooms and workspaces from your membership start date. You can view your start date on your Membership Agreement*. Your start date is also when you can obtain a keycard to access WeWork locations**.
+ 
+
+
+* If you have signed up for an All Access Plus membership or are an On-demand user, you can book meeting rooms and workspaces immediately.
+ 
+
+
+** Keycards can be obtained during open hours. You may need to book a meeting room or workspace to access a WeWork location.
+
+
+
+
+What is WeWork Business Solutions?
+
+
+ WeWork Business Solutions is a suite of services, including HR and payroll services, tax and compliance, insurance, IT services, and more, so you can focus on doing what you love while we take care of the rest! With exclusive offers and benefits, our services include:
+
+
+* Hardware Rental
+* Cloud Services & SaaS
+* Employee Health and Wellness
+* Corporate Travel
+* Digital Marketing
+* Gifting Services
+* Event Management
+* Advertise with WeWork
+* Recruitment and executive search
+* And more.
+
+
+
+
+
+
+
+
+
+
+List of product abbreviations
+Private Office -  PO, WeWork PO, WeWork Private Office, po
+All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus
+All Access Pay Per Use -, aappu, all access pay per use, aa pay per use
+Virtual Office - VO, WeWork VO, vo
+WeWork Labs - WW Labs, WWL, wwl, wwlabs
+On-demand - OD, WeWork OD, od
+On-demand meeting rooms - conference rooms, od meeting rooms
+Managed Offices - managed offices, mo, MO 
+WeWork Business Solutions - WBS, wework business solutions
+Advertise at WeWork - advertise at wework, advertise at ww,
+Studios - WeWork Studios, wwstudios, wws

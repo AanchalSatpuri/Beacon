@@ -1,0 +1,81 @@
+﻿Updating Invoice Information
+How do I update the address on my invoice?
+To update the address on your invoices, please submit a support request with the new address you would like displayed, along with proof of the updated address (any government-issued document with address proof will suffice).
+For accounts with multiple offices and locations, each location can have a unique address, depending on the provided address proof.  
+Can I use a WeWork address on my invoice? 
+Yes, Private Office members may use a WeWork address on their invoices.
+Updating company name on invoices
+How do I update the company name on my invoice?[a][b][c][d][e]
+To update your company name on WeWork invoices, the current primary member should submit a support request with the new company name and provide a valid supporting document for the name change. After this, a name change addendum must be signed by all relevant stakeholders (the old entity, the new entity, and WeWork India Management Pvt. Ltd.). The updated company name will appear on your invoices once all parties have signed the addendum.
+Updating payment information
+Why do I need an active payment method?
+All WeWork accounts (except for some members in India) require an active payment method for each location.
+What payment methods are available?
+WeWork India accepts payments via:
+
+
+* Wire transfers (NEFT, IMPS, etc.)
+* Payment links
+* Credit/debit card swipes at locations (EDC transfer)
+
+
+The primary member can update or remove payment methods on the Account Central page in the member portal.
+Who can update payment information?
+Only the primary member can update payment information.
+How do I update my payment method?
+1. In Account Central, go to ‘Payment Settings’
+2. Click ‘Add Payment Method’
+* To set a method as default, select Set as default next to that payment method.
+* To remove a method, click Remove next to the payment method.
+3. Choose the payment method and click ‘Next’
+4. Select ‘Add new credit card’ or ‘Add new bank account’
+
+
+Need additional support?
+You can speak with your on-site Community team or submit a support request for further assistance.
+Late Fees
+When are late fees applied?
+If there is an outstanding balance for the current month and the payment is not received within the stipulated timeline, the primary member will receive a non-payment notice with a 48-hour deadline to make the payment. Failure to do so will result in a late fee charge, calculated according to the percentage specified in your membership agreement, which will be added to the next month’s invoice.
+
+
+If payment remains outstanding, additional non-payment notices will be sent, which may lead to keycard deactivation or eviction.
+
+
+Think you were charged a late fee by mistake?
+If you believe a late payment notice was issued in error and you’ve already completed the payment, please submit a support request with your bank payment confirmation as proof.
+
+
+
+
+
+
+
+
+
+
+
+
+List of WeWork product abbreviations
+Private Office -  PO, WeWork PO, WeWork Private Office, po
+All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus
+All Access Pay Per Use -, aappu, all access pay per use, aa pay per use
+Virtual Office - VO, WeWork VO, vo
+WeWork Labs - WW Labs, WWL, wwl, wwlabs
+On-demand - OD, WeWork OD, od
+On-demand meeting rooms - conference rooms, od meeting rooms
+Managed Offices - managed offices, mo, MO 
+WeWork Business Solutions - WBS, wework business solutions
+Advertise at WeWork - advertise at wework, advertise at ww,
+Studios - WeWork Studios, wwstudios, wws
+[a]@vamsi.sreerangam@wework.co.in can you verify this? This will be used in WeWork chatbot. 
+
+
+In the FAQ sheet, we have:
+To update your company name on WeWork invoices, the current Primary Member should submit a support request with the new company name and provide a valid supporting document for the name change. After this, a name change addendum must be signed by all relevant stakeholders (the old entity, the new entity, and WeWork India Management Pvt. Ltd.). The updated company name will appear on your invoices once all parties have signed the addendum.
+[b]This is correct
+[c]what my comment or the doc content :P
+
+
+Should i remove whats nexts and After the update section?
+[d]Oh.. yes, please!
+[e]you can remove both the sections

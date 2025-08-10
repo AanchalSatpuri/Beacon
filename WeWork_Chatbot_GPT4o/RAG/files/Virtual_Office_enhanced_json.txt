@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What is Virtual Office by WeWork?",
+    "answer": "Virtual Office by WeWork provides your business with a premium address without the overhead costs of a physical space. Choose from various Virtual Office solutions, including the Business Address Plan, GST Registration Plan, and Business Registration Plan.",
+    "user_type": "Prospective Members",
+    "tags": ["virtual office", "premium address", "business address", "plans", "overview"]
+  },
+  {
+    "question": "How do I become a member of Virtual Office by WeWork?",
+    "answer": "Becoming a member is simple. Visit our website, select one of our 40+ locations, choose your tenure, provide your KYC details, and you're all set to join us as a virtual office member.",
+    "user_type": "Prospective Members",
+    "tags": ["signup", "membership", "joining process", "virtual office"]
+  },
+  {
+    "question": "Which Virtual Office plan is best for me?",
+    "answer": "Explore our Virtual Office plans and pick one that meets your business needs:\n\n1. Business Address Plan:\nGet a premium address in under 15 minutes, with mail and package handling services and other benefits, ideal for those who require a prestigious business address for mail and package handling.\n\n2. GST Registration Plan:\nScale your business with a premium address and government-compliant documents for GST registration, suitable for those needing a professional business address for an Additional Place of Business (APOB).\n\n3. Business Registration Plan:\nEstablish your business with a premium address and receive government-compliant documentation for company registration, perfect for those looking to incorporate their business.",
+    "user_type": "Prospective Members",
+    "tags": ["plans", "comparison", "business address", "GST registration", "business registration"]
+  },
+  {
+    "question": "How does the signup process work for Virtual Office by WeWork?",
+    "answer": "You can register in four simple steps:\n\n1) Visit the website: https://wework.co.in/workspaces/virtual-office/\n2) Select a plan that suits your business needs.\n3) Choose your preferred location and duration.\n4) Complete the payment.\n\nAfter your purchase, log in to your dashboard to complete the KYC process. You'll need the director's KYC details (PAN, Aadhar, or passport) for account verification.",
+    "user_type": "Prospective Members",
+    "tags": ["signup process", "registration", "KYC", "payment"]
+  },
+  {
+    "question": "What are the accepted payment methods for Virtual Office by WeWork?",
+    "answer": "We accept payments via Debit/Credit cards, UPI, and net banking.",
+    "user_type": "Prospective Members",
+    "tags": ["payment methods", "debit card", "credit card", "UPI", "net banking"]
+  },
+  {
+    "question": "Will I get a refund if my registration application is rejected for Virtual Office by WeWork?",
+    "answer": "WeWork will provide you with all the essential documents needed to apply for business registrations; however, the responsibility for obtaining these registrations lies solely with you. WeWork India will not be liable for any rejections from the authorities. In the unlikely event that your registrations are not accepted due to unforeseen circumstances, we will issue a full refund for the membership to the original payment method.",
+    "user_type": "Prospective Members",
+    "tags": ["refund", "application rejection", "registration", "documents"]
+  },
+  {
+    "question": "How does mail and package handling work for Virtual Office by WeWork members?",
+    "answer": "We gladly accept mail on your behalf and will notify you via email whenever we receive a package for you. Please pick it up within 30 days of notification. Note that we can only accept mail and packages up to 5 kgs. We can also have mail-forwarding partners receive this on behalf of the member.\n\nAdditionally, please note that members must be present to collect any official and government documents. The Security and Community teams are not authorised to sign for or collect these documents on behalf of members.",
+    "user_type": "Virtual Office Members",
+    "tags": ["mail handling", "package handling", "notification", "weight limit"]
+  },
+  {
+    "question": "Can I upgrade my Virtual Office by WeWork membership?",
+    "answer": "Yes, you can renew or upgrade your membership with your current active plan. For renewals, you will be charged in full for the additional period, with your new plan commencing after the current plan expires. For upgrades, you will be charged on a pro-rata basis of the current plan.",
+    "user_type": "Virtual Office Members",
+    "tags": ["upgrade", "renewal", "pro-rata charging", "membership changes"]
+  },
+  {
+    "question": "How to book conference rooms and day passes for Virtual Office by WeWork?",
+    "answer": "To book a day pass or conference room in any WeWork building:\n1) Log into your dashboard.\n2) Under the Booking Details tab, click 'Book now.'\n3) Select your preferred city and building.\n4) Choose your preferred date(s).\n5) Complete the checkout process.\nAlternatively, you can visit this link to make new bookings.",
+    "user_type": "Virtual Office Members",
+    "tags": ["conference rooms", "day passes", "booking process", "dashboard"]
+  },
+  {
+    "question": "Can I book conference rooms and invite guests with Virtual Office by WeWork?",
+    "answer": "Yes, your membership includes exclusive workspace access, allowing you to book premium conference rooms and invite guests up to the maximum capacity of the respective meeting room. Please ensure guests are pre-registered during your booking.",
+    "user_type": "Virtual Office Members",
+    "tags": ["conference rooms", "guests", "capacity", "registration"]
+  },
+  {
+    "question": "Can I cancel my Virtual Office by WeWork membership?",
+    "answer": "We hope you don't leave us but if you do decide to cancel your membership, you must share a copy of your business de-registration or proof of a change in business address. Please note, Virtual Office memberships are non-refundable.",
+    "user_type": "Virtual Office Members",
+    "tags": ["cancellation", "de-registration", "refund policy", "address change"]
+  },
+  {
+    "question": "Whom do I contact for billing or operational issues related to my Virtual Office by WeWork membership?",
+    "answer": "If something isn't right, please reach out to us at contactwwvo@myhq.in",
+    "user_type": "Virtual Office Members",
+    "tags": ["contact", "billing issues", "operational issues", "support email"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po\nAll Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus\nAll Access Pay Per Use - aappu, all access pay per use, aa pay per use\nVirtual Office - VO, WeWork VO, vo\nWeWork Labs - WW Labs, WWL, wwl, wwlabs\nOn-demand - OD, WeWork OD, od\nOn-demand meeting rooms - conference rooms, od meeting rooms\nManaged Offices - managed offices, mo, MO \nWeWork Business Solutions - WBS, wework business solutions\nAdvertise at WeWork - advertise at wework, advertise at ww\nStudios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology"]
+  }
+] 

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeWork India Agent</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Main page content (demo) -->
+    <div class="main-content">
+        <div class="demo-content">
+            <h1>Welcome to WeWork India</h1>
+            <p>This is a demo page. The chatbot widget is available in the bottom right corner.</p>
+            <div class="demo-cards">
+                <div class="demo-card">
+                    <h3>Book a Meeting Room</h3>
+                    <p>Reserve spaces for your team meetings and collaborations.</p>
+                </div>
+                <div class="demo-card">
+                    <h3>Technical Support</h3>
+                    <p>Get help with Wi-Fi, printing, and other technical issues.</p>
+                </div>
+                <div class="demo-card">
+                    <h3>Billing Support</h3>
+                    <p>Questions about your membership and payment details.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating Chat Button -->
+    <div class="chat-button" id="chatButton" onclick="toggleChatbot()">
+        <div class="chat-button-icon">
+            <span class="we-text">we</span>
+        </div>
+        <div class="chat-button-close" style="display: none;">
+            <i class="fas fa-times"></i>
+        </div>
+    </div>
+
+    <!-- Chatbot Container (hidden by default) -->
+    <div class="chatbot-container" id="chatbotContainer" style="display: none;">
+        <!-- Header -->
+        <div class="chatbot-header">
+            <div class="header-content">
+                <div class="we-logo">
+                    <span class="we-text">we</span>
+                </div>
+                <div class="header-info">
+                    <h1>WeWork India Agent</h1>
+                </div>
+                <button class="refresh-btn" onclick="refreshChat()">
+                    <i class="fas fa-redo"></i>
+                </button>
+                <button class="close-btn" onclick="toggleChatbot()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Welcome Section -->
+        <div class="welcome-section" id="welcomeSection">
+            <div class="we-logo-large">
+                <span class="we-text-large">we</span>
+            </div>
+            <h2>WeWork India Agent</h2>
+            <p>How can I help you today?</p>
+        </div>
+
+        <!-- Chat Messages -->
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                <div class="message-avatar">
+                    <span class="we-text">we</span>
+                </div>
+                <div class="message-content">
+                    Hello, how can I help you today?
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Input -->
+        <div class="chat-input-container">
+            <div class="chat-input">
+                <input type="text" id="messageInput" placeholder="Message..." autocomplete="off">
+                <button class="send-btn" id="sendBtn" onclick="sendMessage()">
+                    <i class="fas fa-arrow-up"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

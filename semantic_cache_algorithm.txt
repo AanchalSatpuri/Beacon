@@ -1,0 +1,36 @@
+Semantic Cache Algorithm for RAG System
+
+This document outlines the semantic caching approach used in the WeWork chatbot to improve response times and reduce API calls.
+
+## Overview
+The semantic cache stores previously computed responses based on semantic similarity of queries rather than exact string matches. This allows the system to reuse responses for similar questions even if they're phrased differently.
+
+## Implementation Strategy
+
+1. **Query Embedding**: Convert incoming queries to vector embeddings using the same model as the RAG system
+2. **Similarity Search**: Compare new query embeddings with cached query embeddings
+3. **Threshold Matching**: If similarity score exceeds threshold (e.g., 0.85), return cached response
+4. **Cache Update**: Store new query-response pairs for future use
+
+## Benefits
+- Reduced API calls to LLM providers
+- Faster response times for similar queries
+- Consistent answers for semantically equivalent questions
+- Cost optimization for production deployment
+
+## Cache Structure
+```
+{
+  "query_embedding": [vector],
+  "original_query": "string",
+  "response": "string", 
+  "timestamp": "datetime",
+  "usage_count": integer
+}
+```
+
+## Future Enhancements
+- TTL (Time To Live) for cache entries
+- Cache size management
+- Response quality scoring
+- Context-aware caching

@@ -1,0 +1,524 @@
+[
+  {
+    "question": "What F&B services or Community Cafeterias does WeWork provide across buildings?",
+    "answer": "The WeWork F&B team provides a variety of food and beverage services across buildings to enhance the member experience, including Community Cafeterias, Event Catering Support, Vending Machines, Rotating Food Pop-Ups, Coffee & Tea options, and Employee Meal Programs.",
+    "user_type": "General Information",
+    "tags": ["f&b services", "community cafeterias", "wework"]
+  },
+  {
+    "question": "What are Community Cafeterias at WeWork?",
+    "answer": "Most WeWork buildings have an in-house Community Cafe serving breakfast, lunch, and snacks. Cafes are operated by different food vendors, offering freshly prepared meals. Cafes are set up in different layouts, including tuckshops, community kitchens, and kiosks based on the building.",
+    "user_type": "Community Cafeteria",
+    "tags": ["community cafe", "food vendors", "layouts"]
+  },
+  {
+    "question": "What Event Catering Support does WeWork provide?",
+    "answer": "Members can request catering for team lunches, festivals, corporate events, and private gatherings within WeWork spaces. The F&B team helps in coordinating with vendors, customizing menus, and ensuring smooth service.",
+    "user_type": "Event Catering",
+    "tags": ["catering", "corporate events", "team lunches"]
+  },
+  {
+    "question": "Are vending machines available in WeWork buildings?",
+    "answer": "Yes, every building has vending machines stocked with snacks, drinks, and select beverages. They are available 24/7 for quick grab-and-go options.",
+    "user_type": "Vending Services",
+    "tags": ["vending machines", "24/7 access", "snacks"]
+  },
+  {
+    "question": "What are Rotating Food Pop-Ups at WeWork?",
+    "answer": "WeWork regularly hosts food pop-ups, featuring different cuisines and new vendors. Members can explore different food options without leaving the building. These pop-ups are flexible—some are short-term, while others run for weeks/months.",
+    "user_type": "Food Pop-Ups",
+    "tags": ["pop-ups", "different cuisines", "flexible duration"]
+  },
+  {
+    "question": "What Coffee & Tea options are available?",
+    "answer": "Self-service machines are available in various buildings for freshly brewed coffee and tea. Some locations have branded coffee kiosks like Costa, Blue Tokai, and Moonwalk Coffee. Select buildings have Chai Bars, where members can enjoy complimentary tea and coffee throughout the day.",
+    "user_type": "Coffee & Tea Services",
+    "tags": ["coffee machines", "chai bars", "branded kiosks"]
+  },
+  {
+    "question": "What Employee Meal Programs does WeWork offer?",
+    "answer": "The F&B team can facilitate meal programs based on company requirements. This can include daily meal plans, prepaid food credits, or bulk catering options. Additional amenities such as dry pantry setups, fresh fruit supply, or customized snack stations can be arranged on a chargeable basis.",
+    "user_type": "Employee Meal Programs",
+    "tags": ["meal plans", "corporate programs", "dry pantry"]
+  },
+  {
+    "question": "What F&B services are available at the OC-1st floor WeWork building in Mumbai?",
+    "answer": "The WeWork building at OC-1st floor, Mumbai features services by Dietico. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "oc-1st floor", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Zenia WeWork building in Mumbai?",
+    "answer": "The WeWork building at Zenia, Mumbai features services by Simply Fresh. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "zenia", "simply fresh", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Raheja Platinum WeWork building in Mumbai?",
+    "answer": "The WeWork building at Raheja Platinum, Mumbai features services by Dietico. The available offering is: Community cafe + chai bar, set up in a Community kitchen layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "raheja platinum", "dietico", "community kitchen"]
+  },
+  {
+    "question": "What F&B services are available at the Chromium WeWork building in Mumbai?",
+    "answer": "The WeWork building at Chromium, Mumbai features services by Dietico. The available offering is: Community cafe, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "chromium", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Enam Sambhav-BKC WeWork building in Mumbai?",
+    "answer": "The WeWork building at Enam Sambhav-BKC, Mumbai features services by Costa Coffee. The available offering is: Cafe Costa coffee, set up in a Coffee kiosk/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "enam sambhav-bkc", "costa coffee", "coffee kiosk"]
+  },
+  {
+    "question": "What F&B services are available at the Enam Sambhav-BKC (Dietico) WeWork building in Mumbai?",
+    "answer": "The WeWork building at Enam Sambhav-BKC, Mumbai also features services by Dietico. The available offering is: Community cafe, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "enam sambhav-bkc", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Spectrum WeWork building in Mumbai?",
+    "answer": "The WeWork building at Spectrum, Mumbai features services by Dietico. The available offering is: Community cafe, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "spectrum", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the VD WeWork building in Mumbai?",
+    "answer": "The WeWork building at VD, Mumbai features services by Dietico. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "vd", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Nesco WeWork building in Mumbai?",
+    "answer": "The WeWork building at Nesco, Mumbai features services by Dietico. The available offering is: Community cafe, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "nesco", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Hiranandani Lightbridge WeWork building in Mumbai?",
+    "answer": "The WeWork building at Hiranandani Lightbridge, Mumbai features services by Dietico. The available offering is: Community cafe, set up in a Mini tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["mumbai", "hiranandani lightbridge", "dietico", "mini tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Futura WeWork building in Pune?",
+    "answer": "The WeWork building at Futura, Pune features services by Dietico. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["pune", "futura", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Raheja Woods WeWork building in Pune?",
+    "answer": "The WeWork building at Raheja Woods, Pune features services by Dietico. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["pune", "raheja woods", "dietico", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the 11 West WeWork building in Pune?",
+    "answer": "The WeWork building at 11 West, Pune features services by Kitch World. The available offering is: Food Counter, set up in a Temporary set up layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["pune", "11 west", "kitch world", "temporary setup"]
+  },
+  {
+    "question": "What F&B services are available at the ETV WeWork building in Bangalore?",
+    "answer": "The WeWork building at ETV, Bangalore features services by Premier Kitchen. The available offering is: Community cafe, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "etv", "premier kitchen", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Symbiosis WeWork building in Bangalore?",
+    "answer": "The WeWork building at Symbiosis, Bangalore features services by Cafe Fast n Fresh. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "symbiosis", "cafe fast n fresh", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Vaishnavi Signature WeWork building in Bangalore?",
+    "answer": "The WeWork building at Vaishnavi Signature, Bangalore features services by Premier Kitchen. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "vaishnavi signature", "premier kitchen", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Central WeWork building in Bangalore?",
+    "answer": "The WeWork building at Central, Bangalore features services by Blue Tokai. The available offering is: Cafe, set up in a Cafe layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "central", "blue tokai", "cafe"]
+  },
+  {
+    "question": "What F&B services are available at the Central (Vedic Chai) WeWork building in Bangalore?",
+    "answer": "The WeWork building at Central, Bangalore also features services by Vedic Chai. The available offering is: Cafe, set up in a Chai cafe/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "central", "vedic chai", "chai cafe"]
+  },
+  {
+    "question": "What F&B services are available at the Galaxy WeWork building in Bangalore?",
+    "answer": "The WeWork building at Galaxy, Bangalore features services by Maverick & Farmer |Sq burger & CO. The available offering is: Cafe, set up in a Cafe/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "galaxy", "maverick farmer", "cafe qsr"]
+  },
+  {
+    "question": "What F&B services are available at the Quest WeWork building in Bangalore?",
+    "answer": "The WeWork building at Quest, Bangalore features services by Cafe Fast n Fresh. The available offering is: Community cafe + chai bar, set up in a Chai bar layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "quest", "cafe fast n fresh", "chai bar"]
+  },
+  {
+    "question": "What F&B services are available at the Magnificia WeWork building in Bangalore?",
+    "answer": "The WeWork building at Magnificia, Bangalore features services by Matri. The available offering is: Food counter, set up in a Mini food counter layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "magnificia", "matri", "mini food counter"]
+  },
+  {
+    "question": "What F&B services are available at the Atlanta WeWork building in Bangalore?",
+    "answer": "The WeWork building at Atlanta, Bangalore features services by Matri. The available offering is: Cafe, set up in a Terrace cafe layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "atlanta", "matri", "terrace cafe"]
+  },
+  {
+    "question": "What F&B services are available at the Pavillion WeWork building in Bangalore?",
+    "answer": "The WeWork building at Pavillion, Bangalore features services by Falafel jee & Mitra. The available offering is: Cafe, set up in a Cafe/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "pavillion", "falafel jee mitra", "cafe qsr"]
+  },
+  {
+    "question": "What F&B services are available at the Cube WeWork building in Bangalore?",
+    "answer": "The WeWork building at Cube, Bangalore features services by Levista Cafe. The available offering is: Cafe, set up in a Chai cafe/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "cube", "levista cafe", "chai cafe"]
+  },
+  {
+    "question": "What F&B services are available at the RMZ WeWork building in Bangalore?",
+    "answer": "The WeWork building at RMZ, Bangalore features services by Levista & Didi's meal box. The available offering is: Community cafe, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "rmz", "levista didis meal box", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Kalyani Roshni WeWork building in Bangalore?",
+    "answer": "The WeWork building at Kalyani Roshni, Bangalore features services by Chaatify. The available offering is: Community cafe + chai bar, set up in a Community kitchen layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "kalyani roshni", "chaatify", "community kitchen"]
+  },
+  {
+    "question": "What F&B services are available at the D3 WeWork building in Bangalore?",
+    "answer": "The WeWork building at D3, Bangalore features services by Chaatify. The available offering is: Food counter + chai bar, set up in a Temp Food counter layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "d3", "chaatify", "temp food counter"]
+  },
+  {
+    "question": "What F&B services are available at the Cinnabar Hills WeWork building in Bangalore?",
+    "answer": "The WeWork building at Cinnabar Hills, Bangalore features services by Chaatify. The available offering is: Food counter, set up in a Temp Food counter - Mini tuckshop planned during refurb layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "cinnabar hills", "chaatify", "temp food counter", "refurbishment"]
+  },
+  {
+    "question": "What F&B services are available at the Cherryhills WeWork building in Bangalore?",
+    "answer": "The WeWork building at Cherryhills, Bangalore features services by Chaatify. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "cherryhills", "chaatify", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Manyata F2 WeWork building in Bangalore?",
+    "answer": "The WeWork building at Manyata F2, Bangalore features services by Chaatify. The available offering is: Community cafe + chai bar, set up in a Mini Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["bangalore", "manyata f2", "chaatify", "mini tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the KRC WeWork building in Hyderabad?",
+    "answer": "The WeWork building at KRC, Hyderabad features services by Happie Bellie. The available offering is: Cafe, set up in a Terrace cafe/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["hyderabad", "krc", "happie bellie", "terrace cafe"]
+  },
+  {
+    "question": "What F&B services are available at the Krishe WeWork building in Hyderabad?",
+    "answer": "The WeWork building at Krishe, Hyderabad features services by Daily Fix. The available offering is: Community cafe + chai bar, set up in a Community kitchen layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["hyderabad", "krishe", "daily fix", "community kitchen"]
+  },
+  {
+    "question": "What F&B services are available at the RMZ Spire WeWork building in Hyderabad?",
+    "answer": "The WeWork building at RMZ Spire, Hyderabad features services by The Blend. The available offering is: Community cafe + chai bar, set up in a Mini tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["hyderabad", "rmz spire", "the blend", "mini tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Raj Pushpa WeWork building in Hyderabad?",
+    "answer": "The WeWork building at Raj Pushpa, Hyderabad features services by Daily Fix. The available offering is: Community cafe + chai bar, set up in a Community kitchen layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["hyderabad", "raj pushpa", "daily fix", "community kitchen"]
+  },
+  {
+    "question": "What F&B services are available at the DLF Bldg 10 WeWork building in Chennai?",
+    "answer": "The WeWork building at DLF Bldg 10, Chennai features services by TBA. The available offering is: Community cafe + chai bar, set up in a Mini tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["chennai", "dlf bldg 10", "tba", "mini tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the 2 HC WeWork building in NCR?",
+    "answer": "The WeWork building at 2 HC, NCR features services by Moonwalk Coffee. The available offering is: Cafe, set up in a Coffee kiosk/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "2 hc", "moonwalk coffee", "coffee kiosk"]
+  },
+  {
+    "question": "What F&B services are available at the 2 HC (Dinette) WeWork building in NCR?",
+    "answer": "The WeWork building at 2 HC, NCR also features services by Dinette. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "2 hc", "dinette", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Forum WeWork building in NCR?",
+    "answer": "The WeWork building at Forum, NCR features services by Dinette. The available offering is: Community cafe + chai bar, set up in a Tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "forum", "dinette", "tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Forum (Moonwalk) WeWork building in NCR?",
+    "answer": "The WeWork building at Forum, NCR also features services by Moonwalk Coffee. The available offering is: Cafe, set up in a Coffee kiosk/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "forum", "moonwalk coffee", "coffee kiosk"]
+  },
+  {
+    "question": "What F&B services are available at the Berger WeWork building in NCR?",
+    "answer": "The WeWork building at Berger, NCR features services by Indie Zayka. The available offering is: Temp Food Counter, set up in a Food counter - Food cart will be deployed in Aug end layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "berger", "indie zayka", "temp food counter"]
+  },
+  {
+    "question": "What F&B services are available at the Blue 1 WeWork building in NCR?",
+    "answer": "The WeWork building at Blue 1, NCR features services by Dinette. The available offering is: Food Counter, set up in a Terrace cafe layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "blue 1", "dinette", "terrace cafe"]
+  },
+  {
+    "question": "What F&B services are available at the Platina WeWork building in NCR?",
+    "answer": "The WeWork building at Platina, NCR features services by Indie Zaika. The available offering is: Food Counter, set up in a Food counter layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "platina", "indie zaika", "food counter"]
+  },
+  {
+    "question": "What F&B services are available at the Platina (Moonwalk) WeWork building in NCR?",
+    "answer": "The WeWork building at Platina, NCR also features services by Moonwalk Coffee. The available offering is: Cafe, set up in a Coffee kiosk/QSR layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "platina", "moonwalk coffee", "coffee kiosk"]
+  },
+  {
+    "question": "What F&B services are available at the Eldeco WeWork building in NCR?",
+    "answer": "The WeWork building at Eldeco, NCR features services by Sheffy. The available offering is: Food Counter, set up in a Food counter layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "eldeco", "sheffy", "food counter"]
+  },
+  {
+    "question": "What F&B services are available at the Vi John WeWork building in NCR?",
+    "answer": "The WeWork building at Vi John, NCR features services by Sacred Salsa. The available offering is: Food Counter, set up in a Food counter layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "vi john", "sacred salsa", "food counter"]
+  },
+  {
+    "question": "What F&B services are available at the HQ 27 WeWork building in NCR?",
+    "answer": "The WeWork building at HQ 27, NCR features services by Dinette. The available offering is: N/A, set up in a N/A layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "hq 27", "dinette", "not available"]
+  },
+  {
+    "question": "What F&B services are available at the DLF - Bldg 6 WeWork building in NCR?",
+    "answer": "The WeWork building at DLF - Bldg 6, NCR features services by Dinette. The available offering is: Community cafe + chai bar, set up in a Mini tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "dlf bldg 6", "dinette", "mini tuckshop"]
+  },
+  {
+    "question": "What F&B services are available at the Embassy Galaxy WeWork building in NCR?",
+    "answer": "The WeWork building at Embassy Galaxy, NCR features services by Indie Zayka. The available offering is: Community cafe, set up in a Mini tuckshop layout.",
+    "user_type": "Community Cafeteria",
+    "tags": ["ncr", "embassy galaxy", "indie zayka", "mini tuckshop"]
+  },
+  {
+    "question": "What food and beverage services are available at my WeWork building?",
+    "answer": "WeWork offers a variety of F&B options, including community cafes, vending machines, Employee meal programs, Company paid snack stations, chai bars with complimentary tea and coffee, and rotational food pop-ups featuring different cuisines. The availability depends on the specific building.",
+    "user_type": "General FAQ",
+    "tags": ["f&b options", "building specific", "availability"]
+  },
+  {
+    "question": "Do all WeWork buildings have a cafe or food counter?",
+    "answer": "Not all locations have full-service cafes, but many feature a food counter, vending machines, or chai bars. You can check with your community team for specific details about your building.",
+    "user_type": "General FAQ",
+    "tags": ["cafe availability", "food counter", "community team"]
+  },
+  {
+    "question": "Are there any vending machines in my building?",
+    "answer": "Yes, WeWork buildings have vending machines stocked with snacks, beverages, and quick bites.",
+    "user_type": "General FAQ",
+    "tags": ["vending machines", "snacks", "beverages"]
+  },
+  {
+    "question": "Does my building have a chai bar or free coffee station?",
+    "answer": "Many WeWork buildings feature a chai bar offering complimentary tea and coffee throughout the day. You can check availability with your community team.",
+    "user_type": "General FAQ",
+    "tags": ["chai bar", "free coffee", "complimentary"]
+  },
+  {
+    "question": "What are the cafe operating hours?",
+    "answer": "Cafe hours typically align with standard business hours (9 AM – 6 PM), but some locations may operate for extended hours or have flexible timings based on demand.",
+    "user_type": "General FAQ",
+    "tags": ["operating hours", "business hours", "flexible timings"]
+  },
+  {
+    "question": "What type of food is available in the cafe?",
+    "answer": "Menus vary by location and vendor but generally include breakfast options, hot meals, quick bites, salads, sandwiches, and a variety of beverages.",
+    "user_type": "General FAQ",
+    "tags": ["menu options", "breakfast", "hot meals", "beverages"]
+  },
+  {
+    "question": "Can I arrange catering for a team lunch or event?",
+    "answer": "Yes, catering can be arranged for corporate meetings, team lunches, and special events. Menus range from Indian meals to continental cuisine, with vegetarian and non-vegetarian options.",
+    "user_type": "Event Catering",
+    "tags": ["catering", "team lunch", "corporate meetings", "cuisine options"]
+  },
+  {
+    "question": "How do I request catering for a festival or corporate event?",
+    "answer": "You can submit your catering request through the WeWork community team, specifying your preferred cuisine, event size, and budget and ask them to connect you to the f&b team. Or email the team directly about your requirement at foodandbeverage@wework.co.in",
+    "user_type": "Event Catering",
+    "tags": ["catering request", "community team", "f&b team", "email"]
+  },
+  {
+    "question": "How far in advance do I need to book catering services?",
+    "answer": "Ideally, catering requests should be placed at least 3-5 days in advance to ensure availability and customization.",
+    "user_type": "Event Catering",
+    "tags": ["advance booking", "3-5 days", "availability"]
+  },
+  {
+    "question": "What type of cuisine options are available for catering?",
+    "answer": "Catering options include Indian, Asian, continental, and healthy meal plans. Availability depends on the building and vendor partnerships.",
+    "user_type": "Event Catering",
+    "tags": ["cuisine options", "indian", "asian", "continental", "healthy meals"]
+  },
+  {
+    "question": "Can WeWork assist with setting up a food pop-up at my building?",
+    "answer": "Yes, WeWork regularly curates food pop-ups featuring different brands. These can include specialty cuisines, healthy food, desserts, and beverages.",
+    "user_type": "Food Pop-Ups",
+    "tags": ["food pop-up", "specialty cuisines", "healthy food", "desserts"]
+  },
+  {
+    "question": "How can I find out about upcoming food pop-ups at my location?",
+    "answer": "Pop-ups are announced through internal communication channels, including email updates, posters in common areas, and newsletters.",
+    "user_type": "Food Pop-Ups",
+    "tags": ["pop-up announcements", "email updates", "newsletters", "communication"]
+  },
+  {
+    "question": "Can I suggest a vendor for a pop-up?",
+    "answer": "Yes, members are encouraged to share recommendations for new food vendors. Vendor selection is based on suitability and availability.",
+    "user_type": "Food Pop-Ups",
+    "tags": ["vendor suggestions", "recommendations", "vendor selection"]
+  },
+  {
+    "question": "Can my company arrange for daily employee meals at WeWork?",
+    "answer": "Yes, WeWork facilitates corporate meal programs where companies can provide daily or subsidized meals for employees.",
+    "user_type": "Employee Meal Programs",
+    "tags": ["daily meals", "corporate meal programs", "subsidized meals"]
+  },
+  {
+    "question": "How do I request a company-paid meal program for my team?",
+    "answer": "Meal programs can be tailored based on budget, cuisine preferences, and meal frequency you can email your requirement to the team at foodandbeverage@wework.co.in",
+    "user_type": "Employee Meal Programs",
+    "tags": ["company-paid meals", "meal programs", "budget", "email request"]
+  },
+  {
+    "question": "Are there options for setting up a dry pantry in my office space?",
+    "answer": "Yes, companies can opt for a dry pantry setup that includes snacks, tea, coffee, and other essentials at an additional charge and get it customized based on your requirement.",
+    "user_type": "Employee Meal Programs",
+    "tags": ["dry pantry", "office space", "additional charge", "customized"]
+  },
+  {
+    "question": "Can we request fresh fruits or other pantry amenities?",
+    "answer": "Fresh fruits, beverages, and additional pantry items can be provided as part of customized pantry services for additional charges.",
+    "user_type": "Employee Meal Programs",
+    "tags": ["fresh fruits", "pantry amenities", "customized services", "additional charges"]
+  },
+  {
+    "question": "What are the costs for additional pantry services?",
+    "answer": "The cost varies based on the number of employees and the items selected.",
+    "user_type": "Employee Meal Programs",
+    "tags": ["pantry costs", "employee count", "item selection"]
+  },
+  {
+    "question": "Who should I contact for assistance with employee meal plans?",
+    "answer": "Contact the WeWork F&B team at foodandbeverage@wework.co.in. Meal programs can be structured as prepaid, postpaid, or direct vendor transactions.",
+    "user_type": "Employee Meal Programs",
+    "tags": ["f&b team contact", "meal plans", "payment options"]
+  },
+  {
+    "question": "How do I pay at the WeWork cafe?",
+    "answer": "You can pay at the WeWork cafe using the Qwik Cafe app. Simply scan the QR code available at the community cafe counter to download and use the app. Some vendors also accept UPI, credit/debit cards, and select digital wallets. Please note that only digital payments are accepted.",
+    "user_type": "Payment Methods",
+    "tags": ["qwik cafe app", "qr code", "digital payments", "upi", "cards"]
+  },
+  {
+    "question": "Can I use digital wallets at the cafe?",
+    "answer": "Digital wallets are widely accepted, this setup needs to be approved by the company and is only done based on request.",
+    "user_type": "Payment Methods",
+    "tags": ["digital wallets", "company approval", "request based"]
+  },
+  {
+    "question": "Do vending machines accept cash or only card/digital payments?",
+    "answer": "Vending machines at WeWork do not accept cash. To make a purchase, you need to download the BB Instant app or log in to their website, where you can complete your payment digitally.",
+    "user_type": "Payment Methods",
+    "tags": ["vending machines", "no cash", "bb instant app", "digital payment"]
+  },
+  {
+    "question": "Can I set up a corporate account for F&B purchases?",
+    "answer": "Yes, companies can establish corporate billing accounts for bulk purchases or employee meal plans.",
+    "user_type": "Payment Methods",
+    "tags": ["corporate account", "billing", "bulk purchases", "meal plans"]
+  },
+  {
+    "question": "Are there vegetarian, vegan, or gluten-free meal options available?",
+    "answer": "Yes, many vendors offer vegetarian, vegan, and gluten-free options, which are labeled accordingly.",
+    "user_type": "Dietary Options",
+    "tags": ["vegetarian", "vegan", "gluten-free", "labeled options"]
+  },
+  {
+    "question": "Can I request special dietary meals in advance?",
+    "answer": "Pre-orders for dietary-specific meals can be arranged with sufficient notice.",
+    "user_type": "Dietary Options",
+    "tags": ["special dietary", "pre-orders", "advance notice"]
+  },
+  {
+    "question": "Do the vending machines have healthy snack options?",
+    "answer": "Yes, vending machines include a mix of healthy snacks, protein bars, and traditional quick bites.",
+    "user_type": "Dietary Options",
+    "tags": ["healthy snacks", "protein bars", "vending machines"]
+  },
+  {
+    "question": "Are there halal or Jain food options available at my location?",
+    "answer": "Select vendors offer halal and Jain meals based on location-specific demand.",
+    "user_type": "Dietary Options",
+    "tags": ["halal", "jain food", "location specific", "vendor dependent"]
+  },
+  {
+    "question": "How do I share feedback about the cafe or vending machines?",
+    "answer": "Feedback can be shared through QR-based surveys available at food counters and vending machines.",
+    "user_type": "Feedback & Support",
+    "tags": ["feedback", "qr surveys", "food counters", "vending machines"]
+  },
+  {
+    "question": "Who do I contact for F&B-related concerns?",
+    "answer": "The WeWork community team can assist with basic concerns, and escalations can be addressed through vendor partners or you can email them directly to the F&B team at foodandbeverage@wework.co.in",
+    "user_type": "Feedback & Support",
+    "tags": ["f&b concerns", "community team", "escalations", "email support"]
+  },
+  {
+    "question": "What should I do if a vending machine or coffee machine is not working?",
+    "answer": "Malfunctioning vending machines or coffee machine issues can be reported to the community team for immediate resolution.",
+    "user_type": "Feedback & Support",
+    "tags": ["machine malfunction", "community team", "immediate resolution"]
+  },
+  {
+    "question": "How can I contact the WeWork F&B team?",
+    "answer": "For any F&B inquiries, reach out to the WeWork F&B team at foodandbeverage@wework.co.in",
+    "user_type": "Contact Information",
+    "tags": ["f&b team", "contact", "email", "inquiries"]
+  },
+  {
+    "question": "Who can i contact for F&B?",
+    "answer": "For any F&B inquiries, reach out to the WeWork F&B team at foodandbeverage@wework.co.in",
+    "user_type": "Contact Information",
+    "tags": ["f&b team", "contact", "email", "inquiries"]
+  }
+]

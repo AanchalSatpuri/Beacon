@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Can I book a day pass on Sunday?",
+    "answer": "Our locations are operational from 9 AM to 8 PM Monday to Friday and 10 AM to 4 PM on Saturdays. We are not operational on Sundays. Day passes only allow access to our spaces during these hours.",
+    "user_type": "On-demand Members",
+    "tags": ["day pass", "sunday", "operational hours", "weekend"]
+  },
+  {
+    "question": "I left my laptop charger in Enam Sambhav while I was there on a day pass. How do I contact the team?",
+    "answer": "To retrieve your item, please contact the community team of the building for assistance.",
+    "user_type": "On-demand Members",
+    "tags": ["lost and found", "belongings", "community team", "building assistance"]
+  },
+  {
+    "question": "Is lunch included with a day pass?",
+    "answer": "With a day pass (on-demand), you receive access to unlimited coffee, high-speed Wi-Fi, a common shared workspace, phone booths, and a games room to unwind. However, food and beverage services (lunch, breakfast, and meals) beyond coffee are not included and may be available at an additional cost at the building.",
+    "user_type": "On-demand Members",
+    "tags": ["food", "beverages", "lunch", "meal inclusions", "day pass"]
+  },
+  {
+    "question": "Can I store things?",
+    "answer": "Currently, storage is not available at any of our locations.",
+    "user_type": "All Users",
+    "tags": ["storage options", "availability", "personal items"]
+  },
+  {
+    "question": "How do I sign up?",
+    "answer": "To sign up for a membership, please visit our website and drop a lead with us www.wework.co.in. Once you've submitted your details, our team will reach out to guide you through the next steps. If you have any further questions, feel free to ask!",
+    "user_type": "Prospective Members",
+    "tags": ["signup", "registration", "website", "lead submission"]
+  },
+  {
+    "question": "Can someone reach out to me?",
+    "answer": "Absolutely! Please visit our website and drop a lead with us. Fill out your details, and our team will reach out to assist you further. You can also call us at 1800 123 777 888 for information related to our offerings. We are available from 9 AM to 6 PM on weekdays.",
+    "user_type": "Prospective Members",
+    "tags": ["contact request", "team outreach", "assistance", "callback"]
+  },
+  {
+    "question": "Are there any active discounts or promotions?",
+    "answer": "For details on promotions and discounts, please drop a lead with us.",
+    "user_type": "Prospective Members",
+    "tags": ["discounts", "promotions", "special offers", "pricing details"]
+  },
+  {
+    "question": "How do I raise a support ticket?",
+    "answer": "The support contact varies based on your membership type:\n- For On-demand or Virtual Office members: Please reach out to contactwwod@myhq.in\n- For Private Office or All Access members: You can reach out to WeWork Support",
+    "user_type": "All Members",
+    "tags": ["support ticket", "contact information", "membership-specific support"]
+  },
+  {
+    "question": "How do I book a conference room / meeting room / cabin / meeting space / boardroom / war room?",
+    "answer": "You can book on-demand conference rooms through our website or app. The process varies slightly depending on your membership type. If you need a specific size (such as a 2-seater, 4-seater, or other configuration), we have various options available to accommodate your needs.",
+    "user_type": "All Users",
+    "tags": ["meeting rooms", "booking", "conference facilities", "room types"]
+  },
+  {
+    "question": "I want to rent my own space / I have a commercial space available for rent / Do you consider partnerships for new coworking locations? / I have a property available / I own a space suitable for a coworking setup / Would you be interested in renting it? / I have office space available / Are you looking to expand to new locations? / Do you lease properties for your coworking spaces?",
+    "answer": "Thank you for your interest! For any queries related to partnership with WeWork, please visit our brokers page https://wework.co.in/brokers/, and drop a lead with us. We will reach out to you.",
+    "user_type": "Property Owners",
+    "tags": ["property rental", "partnerships", "leasing", "expansion", "space for rent"]
+  }
+] 

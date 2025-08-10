@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What types of brands does WeWork collaborate or partner with?",
+    "answer": "We collaborate with a diverse range of brands across industries such as business, technology, wellness, and lifestyle. Our primary criteria for partnerships are alignment with our business values, goals, and member experience.",
+    "user_type": "Prospective Partners",
+    "tags": ["collaborations", "brand partnerships", "values alignment", "business partners"]
+  },
+  {
+    "question": "What information do I need to provide when applying for a collaboration?",
+    "answer": "We require details about your brand, your products or services, your target audience, and the objectives you aim to achieve through the collaboration.",
+    "user_type": "Prospective Partners",
+    "tags": ["application process", "brand details", "information requirements"]
+  },
+  {
+    "question": "How long does the collaboration approval process take?",
+    "answer": "The approval process generally takes 1-2 weeks. We will review your application and respond as soon as possible. If the partnership is finalised, our legal team will review the agreement for sign-off.",
+    "user_type": "Prospective Partners",
+    "tags": ["approval process", "timeline", "legal review", "agreement"]
+  },
+  {
+    "question": "What types of collaboration opportunities do you offer?",
+    "answer": "We provide various collaboration opportunities, including sponsorships, product offerings, giveaways, branding, and long-term partnerships.",
+    "user_type": "Prospective Partners",
+    "tags": ["collaboration types", "sponsorships", "product offerings", "giveaways"]
+  },
+  {
+    "question": "Do you charge a fee for collaborations?",
+    "answer": "Collaboration fees vary depending on the project's type and scope. We can provide a detailed pricing guide upon request and are open to barter collaborations based on mutually defined benefits.",
+    "user_type": "Prospective Partners",
+    "tags": ["collaboration fees", "pricing", "barter", "mutual benefits"]
+  },
+  {
+    "question": "What is the WeWork Services Store?",
+    "answer": "Our Services Store features exclusive deals with local businesses, offering a one-stop listing of offers ranging from business services to lifestyle, entertainment, and wellness perks exclusively for WeWork members.",
+    "user_type": "All Members",
+    "tags": ["services store", "member benefits", "exclusive deals", "local businesses"]
+  },
+  {
+    "question": "How do you partner with WeWork?",
+    "answer": "To partner with WeWork, please contact us via email at brandandmarketing@wework.co.in",
+    "user_type": "Prospective Partners",
+    "tags": ["partnership process", "contact information", "brand team"]
+  },
+  {
+    "question": "How can I reach out to the WeWork Partnerships team?",
+    "answer": "To partner with WeWork, please contact us via email at brandandmarketing@wework.co.in",
+    "user_type": "Prospective Partners",
+    "tags": ["partnerships team", "contact information", "outreach"]
+  },
+  {
+    "question": "What advertising options are available inside a WeWork location?",
+    "answer": "WeWork offers various advertising options within our spaces, including digital screens, A4 posters, easel boards, community newsletters, and promotional spaces. Choose the method that best suits your target audience and budget - https://wework.co.in/advertise/",
+    "user_type": "Prospective Advertisers",
+    "tags": ["advertising options", "digital screens", "posters", "newsletters"]
+  },
+  {
+    "question": "How can I get started with advertising at WeWork?",
+    "answer": "To begin advertising at WeWork, please contact the advertising team via the link on our website. They will guide you through the available options and help you select the best strategy.",
+    "user_type": "Prospective Advertisers",
+    "tags": ["advertising process", "getting started", "contact information"]
+  },
+  {
+    "question": "What are the costs associated with advertising in WeWork?",
+    "answer": "Advertising costs vary based on the type of advertisement, duration, and location within the space. For detailed pricing information tailored to your requirements, please contact the WeWork team.",
+    "user_type": "Prospective Advertisers",
+    "tags": ["advertising costs", "pricing", "advertisement types", "location factors"]
+  },
+  {
+    "question": "Can I target specific WeWork locations for my advertisement?",
+    "answer": "Yes, you can target specific WeWork locations based on your desired audience and geographic preferences. Discuss your target locations with the WeWork team to create a customised advertising plan.",
+    "user_type": "Prospective Advertisers",
+    "tags": ["targeted advertising", "location selection", "audience targeting"]
+  },
+  {
+    "question": "What kind of businesses typically advertise in WeWork buildings?",
+    "answer": "A wide range of businesses advertise in WeWork buildings, including tech companies, service providers, local businesses, and startups. This diverse member base provides excellent opportunities to reach various professionals and entrepreneurs.",
+    "user_type": "Prospective Advertisers",
+    "tags": ["advertiser types", "business diversity", "member demographics"]
+  },
+  {
+    "question": "What types of events can be hosted in your space?",
+    "answer": "Our versatile event spaces can accommodate various events, including corporate meetings, workshops, seminars, networking events, social gatherings, and training sessions. For unique events, please reach out to us at events@wework.co.in to discuss your needs, or you can learn more at https://wework.co.in/events/",
+    "user_type": "Event Planners",
+    "tags": ["event types", "corporate meetings", "workshops", "seminars", "space versatility"]
+  },
+  {
+    "question": "What is the capacity of the event space?",
+    "answer": "Our event spaces can comfortably host up to 450 people, depending on the layout and the type of event. We offer flexible seating arrangements and can provide capacity details for different setups.",
+    "user_type": "Event Planners",
+    "tags": ["capacity", "event size", "layout options", "seating arrangements"]
+  },
+  {
+    "question": "How can I book the event space?",
+    "answer": "To book the event space, please contact us at events@wework.co.in or fill out the form on our website at https://wework.co.in/events. We will provide availability, pricing, and other details. It's best to book in advance to ensure availability.",
+    "user_type": "Event Planners",
+    "tags": ["event booking", "reservation process", "contact information"]
+  },
+  {
+    "question": "What is included in the rental fee?",
+    "answer": "The rental fee includes access to the event space, basic furniture (tables and chairs), Wi-Fi, pantry services (coffee and tea), and use of shared amenities. Additional services, such as AV equipment, catering, and event setup, can be arranged for an extra fee.",
+    "user_type": "Event Planners",
+    "tags": ["rental fee", "inclusions", "basic amenities", "additional services"]
+  },
+  {
+    "question": "Can I bring my own catering or beverages?",
+    "answer": "Yes, you can bring your own catering or beverages. Please note that gas is not permitted for cooking in our buildings. We also have partnerships with local catering services if you need recommendations. Let us know in advance if you plan to bring in outside food or drink.",
+    "user_type": "Event Planners",
+    "tags": ["catering options", "outside food", "beverage policy", "restrictions"]
+  },
+  {
+    "question": "Is there parking available?",
+    "answer": "Most of our buildings have valet facilities available at a cost, however, parking is on a first-come, first-serve basis.",
+    "user_type": "Event Planners",
+    "tags": ["parking", "valet facilities", "availability", "first-come basis"]
+  },
+  {
+    "question": "What kind of technical equipment is available?",
+    "answer": "Most of our event spaces are equipped with projectors, TV screens, microphones, and speakers. If you have specific technical requirements, please inform us in advance so we can make the necessary arrangements.",
+    "user_type": "Event Planners",
+    "tags": ["technical equipment", "projectors", "microphones", "AV requirements"]
+  },
+  {
+    "question": "Can I tour the space before booking?",
+    "answer": "Absolutely! We encourage you to tour the space before making a booking to ensure it meets your requirements. Please contact us at events@wework.co.in to schedule a visit.",
+    "user_type": "Event Planners",
+    "tags": ["space tour", "pre-booking visit", "scheduling"]
+  },
+  {
+    "question": "What is the cancellation policy?",
+    "answer": "We require 100% advance payment for event booking confirmation. Once the payment is made, we have a no-cancellation policy.",
+    "user_type": "Event Planners",
+    "tags": ["cancellation policy", "advance payment", "booking confirmation"]
+  },
+  {
+    "question": "What types of shoots are allowed?",
+    "answer": "We permit various shoots, including ad films, video productions for movies and TV shows, product photoshoots, and professional photoshoots for individuals.",
+    "user_type": "Production Teams",
+    "tags": ["shoot types", "ad films", "photoshoots", "video productions"]
+  },
+  {
+    "question": "Are there any restrictions on the types of shoots allowed?",
+    "answer": "Yes, restrictions include limiting the shoot to the designated area, controlling the number of people, maintaining noise levels, avoiding disturbances to other members, and adhering to safety regulations.",
+    "user_type": "Production Teams",
+    "tags": ["shoot restrictions", "noise levels", "area limitations", "member disturbance"]
+  },
+  {
+    "question": "What if I need to cancel or reschedule my shoot?",
+    "answer": "If you need to cancel or reschedule your shoot, please notify us as soon as possible. Once the payment has been cleared, we have a zero-cancellation policy.",
+    "user_type": "Production Teams",
+    "tags": ["cancellation", "rescheduling", "payment policy"]
+  },
+  {
+    "question": "Are there any additional fees for using the space for a shoot?",
+    "answer": "Additional fees may apply for extra hours, HVAC (Heating, Ventilation and Air Conditioning) charges for post-work hours or weekends, or special setups.",
+    "user_type": "Production Teams",
+    "tags": ["additional fees", "extra hours", "HVAC charges", "special setups"]
+  },
+  {
+    "question": "Is there parking available for crew and equipment?",
+    "answer": "Yes parking available, but as an add-on the cost of which will need to be borne by you.",
+    "user_type": "Production Teams",
+    "tags": ["parking", "crew access", "equipment", "additional costs"]
+  },
+  {
+    "question": "What are the licence and payment terms for the shoot?",
+    "answer": "For shoots, licences need to be procured by the production house, and payment terms vary based on the requirements.",
+    "user_type": "Production Teams",
+    "tags": ["license", "payment terms", "production requirements"]
+  },
+  {
+    "question": "Who should I contact if I have additional questions or need assistance during the shoot?",
+    "answer": "For additional questions regarding shoots, please contact the venue's point of contact or the on-site manager for any issues or assistance during your shoot. For further escalations, please write to events@wework.co.in or you can learn more at https://wework.co.in/events/",
+    "user_type": "Production Teams",
+    "tags": ["contact information", "on-site assistance", "shoot support"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus All Access Pay Per Use -, aappu, all access pay per use, aa pay per use Virtual Office - VO, WeWork VO, vo WeWork Labs - WW Labs, WWL, wwl, wwlabs On-demand - OD, WeWork OD, od On-demand meeting rooms - conference rooms, od meeting rooms Managed Offices - managed offices, mo, MO WeWork Business Solutions - WBS, wework business solutions Advertise at WeWork - advertise at wework, advertise at ww, Studios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology"]
+  }
+] 

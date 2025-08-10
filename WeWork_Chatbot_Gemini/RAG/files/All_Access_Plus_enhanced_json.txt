@@ -1,0 +1,254 @@
+[
+  {
+    "question": "What WeWork locations do I have access to? / Can I use my All Access Plus or Pay-Per-Use membership to access international WeWork locations?",
+    "answer": "You can book workspaces and meeting rooms at 50+ locations across 8 cities in India and over 450+ locations globally through the WeWork app. Locations included in the All Access Plus or Pay-Per-Use membership are subject to availability and may change periodically.",
+    "user_type": "All Access Members",
+    "tags": ["global access", "locations", "international", "availability"]
+  },
+  {
+    "question": "What is the cost of WeWork All Access Pay-Per-Use (AA PPU)?",
+    "answer": "The WeWork All Access Pay-Per-Use membership provides a flexible, pay-as-you-go pricing model:\n- ₹1,000 per credit used for booking a desk\n- Bookable meeting rooms as per usage\n- One-time setup fee of ₹1,500 + taxes per user\n\nA refundable service retainer will also be charged, calculated based on the number of users in your account and fully refundable upon membership exit. With this membership, you gain access to 450+ WeWork locations worldwide, along with shared amenities to enhance your work experience.",
+    "user_type": "Prospective Members",
+    "tags": ["pay-per-use", "cost", "pricing", "credits", "setup fee"]
+  },
+  {
+    "question": "What is the cost of a WeWork All Access Plus membership?",
+    "answer": "The WeWork All Access Plus membership is available at a subscription cost of ₹15,000 + taxes per user.",
+    "user_type": "Prospective Members",
+    "tags": ["all access plus", "cost", "subscription", "pricing"]
+  },
+  {
+    "question": "What spaces do I get access to as part of my WeWork All Access Plus monthly membership?",
+    "answer": "The monthly membership includes one coworking space booking per day and the ability to book meeting rooms by the hour using credits. For your first booking at a new location, please check in with the Community team at the front desk to receive your WeWork keycard. Your first booking must occur on a non-holiday weekday during business hours.",
+    "user_type": "All Access Plus Members",
+    "tags": ["space access", "coworking", "booking", "keycard", "features"]
+  },
+  {
+    "question": "What spaces do I get access to as part of my WeWork Pay-Per-Use monthly membership?",
+    "answer": "The monthly membership includes access to coworking space and the ability to book meeting rooms by the hour using credits. For your first booking at a new location, please check in with the Community team at the front desk to receive your WeWork keycard. Your first booking must occur on a non-holiday weekday during business hours.",
+    "user_type": "Pay-Per-Use Members",
+    "tags": ["space access", "coworking", "booking", "keycard", "features"]
+  },
+  {
+    "question": "Does my WeWork All Access Plus membership include credits?",
+    "answer": "Yes, you get 5 credits per membership, per month, which can be used to book conference rooms across any WeWork locations. They refresh at the start of every month and do not roll over. You can make additional bookings beyond your credit limit which will be billed as overages and added to your upcoming month's invoice.",
+    "user_type": "All Access Plus Members",
+    "tags": ["credits", "conference rooms", "monthly refresh", "overages"]
+  },
+  {
+    "question": "Does my WeWork All Access Pay-Per-Use membership include credits?",
+    "answer": "No, the WeWork All Access Pay-Per-Use membership follows a pay-as-you-go model, meaning you start each month with zero credits. Credits are deducted based on your bookings, allowing you the flexibility to pay only for what you use—without any fixed monthly costs.",
+    "user_type": "Pay-Per-Use Members",
+    "tags": ["credits", "pay-as-you-go", "flexibility", "usage-based"]
+  },
+  {
+    "question": "Is mail and package handling included with the WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "Member companies can receive mail and packages at their home WeWork location with the WeWork All Access Plus and Pay-Per-Use membership, which is displayed on their account in the member web portal or app. This service is subject to terms and conditions.",
+    "user_type": "All Access Members",
+    "tags": ["mail handling", "package handling", "home location"]
+  },
+  {
+    "question": "During what hours can I book a space with my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "You can access WeWork locations between 8:00 am to 8:00 pm from Monday to Friday and 10:00 am to 4:00 pm on Saturdays. You can book the location of your choice, subject to availability. The spaces are not accessible on Sundays and public holidays.",
+    "user_type": "All Access Members",
+    "tags": ["operating hours", "access times", "weekends", "holidays"]
+  },
+  {
+    "question": "What spaces do I get access to as part of my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "You have access to designated seating in shared workspaces as well as common areas in the building. Seating is subject to booking and availability.",
+    "user_type": "All Access Members",
+    "tags": ["workspace types", "shared spaces", "common areas"]
+  },
+  {
+    "question": "Is printing included with a WeWork All Access Plus membership?",
+    "answer": "Yes, printing and scanning are included in your membership. Each month, members receive 120 complimentary black-and-white pages and 20 color pages per membership.",
+    "user_type": "All Access Plus Members",
+    "tags": ["printing", "scanning", "complimentary pages", "color prints"]
+  },
+  {
+    "question": "Is printing included with a WeWork All Access Pay-Per-Use membership?",
+    "answer": "No, printing is not included in this membership. However, members can use printing services at an additional charge of ₹4 per black-and-white print and ₹20 per color print.",
+    "user_type": "Pay-Per-Use Members",
+    "tags": ["printing", "additional charges", "pay-per-print"]
+  },
+  {
+    "question": "Can I book a workspace on the weekend with my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "Yes, with your WeWork All Access Plus and Pay-Per-Use membership, you can book a workspace on Saturdays from 10:00 AM to 4:00 PM, subject to availability. However, Sundays are not available for bookings, and certain amenities may only be offered during business hours.",
+    "user_type": "All Access Members",
+    "tags": ["weekend access", "Saturday bookings", "limited hours"]
+  },
+  {
+    "question": "Can I book a workspace on a public holiday as a WeWork All Access Plus or Pay-Per-Use member?",
+    "answer": "No, WeWork workspaces are not available on public holidays for All Access Plus and Pay-Per-Use members.",
+    "user_type": "All Access Members",
+    "tags": ["public holidays", "availability", "closures"]
+  },
+  {
+    "question": "How can I access the WeWork All Access Plus or Pay-Per-Use workspace that I reserved?",
+    "answer": "For your first All Access Plus or Pay-Per-Use booking, ensure you come in on a weekday, which is not a public holiday, between 9 AM and 6 PM, in order to pick up your keycard and be welcomed by our Community team. Once you have your registered keycard, you can access WeWork locations, including workspaces and meeting rooms (30 minutes before the booking). The earliest access time is 9 AM on your first day, and 8 AM thereafter.",
+    "user_type": "All Access Members",
+    "tags": ["keycard", "first booking", "access times", "community team"]
+  },
+  {
+    "question": "How do I cancel my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "To cancel your WeWork All Access Plus or Pay-Per-Use membership, you must provide at least five (5) days notice before the last day of the calendar month, provided you are at the end of your commitment term, as per your membership plan. For additional help, please submit a support request.",
+    "user_type": "All Access Members",
+    "tags": ["cancellation", "notice period", "commitment term"]
+  },
+  {
+    "question": "Can I reserve multiple WeWork All Access Plus or Pay-Per-Use bookings and workspaces on the same day?",
+    "answer": "With a WeWork All Access Plus membership, you receive one free workspace booking per day. Additional bookings at other locations on the same day will be charged 1 credit per booking within India.\n\nFor members under the WeWork All Access Pay Per Use plan, multiple bookings can be made in a single day, with each booking charged through credits. Additionally, you can book different types of spaces on the same day, and each will be charged individually.",
+    "user_type": "All Access Members",
+    "tags": ["multiple bookings", "same day", "credits", "charges"]
+  },
+  {
+    "question": "How do I get a keycard and start using my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "To start using your WeWork All Access Plus or Pay-Per-Use membership, book a coworking space or a meeting room on a non-holiday weekday during business hours. You may receive your keycard from:\na) A WeWork building within the same country as your primary location, or\nb) A WeWork building in any country, by providing a government-issued ID from the same country as your primary location or other documentation linking you to that country (e.g., an employment letter, residency visa).",
+    "user_type": "All Access Members",
+    "tags": ["keycard", "getting started", "first booking", "ID verification"]
+  },
+  {
+    "question": "How do I book a WeWork All Access Plus or Pay-Per-Use desk or workspace?",
+    "answer": "As a WeWork All Access Plus or Pay-Per-Use member, you can book a coworking space through the WeWork app or member web, subject to availability. Remember that your first booking must be made on a non-holiday weekday during business hours.",
+    "user_type": "All Access Members",
+    "tags": ["workspace booking", "app", "member web", "availability"]
+  },
+  {
+    "question": "How do I book a meeting room with my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "As a WeWork All Access Plus or Pay-Per-Use member, meeting rooms can be booked through the WeWork app or member web, subject to availability. Similar to workspace bookings, ensure your first booking is on a non-holiday weekday during business hours.",
+    "user_type": "All Access Members",
+    "tags": ["meeting room", "booking process", "app", "member web"]
+  },
+  {
+    "question": "With my WeWork All Access Plus or Pay-Per-Use membership, do I need to book a workspace before arriving at that location?",
+    "answer": "Yes, booking is mandatory. To access a WeWork location, you must reserve a coworking space or meeting room, subject to availability. As the number of workspaces is limited, we recommend booking in advance to guarantee your spot.",
+    "user_type": "All Access Members",
+    "tags": ["advance booking", "mandatory reservation", "availability"]
+  },
+  {
+    "question": "Once I've booked a workspace through my All Access Plus or Pay-Per-Use membership and arrived at the location, where can I find a workspace?",
+    "answer": "Upon arrival, visit the front desk on the floor indicated in your confirmation email. If you have any trouble locating a workspace, the Community team at the front desk will be available to assist you.",
+    "user_type": "All Access Members",
+    "tags": ["finding workspace", "front desk", "confirmation email", "assistance"]
+  },
+  {
+    "question": "Can I bring guests as a WeWork All Access Plus or Pay-Per-Use member?",
+    "answer": "WeWork All Access Plus or Pay-Per-Use members can register guests only when booking a meeting room. The number of guests allowed is limited to the room's capacity, including the member who booked the room. Guests are permitted to use the booked room, pantries, and restrooms during the reservation period. Please note that guests do not receive keycards; therefore, members must greet their guests at the front desk upon arrival and escort them within the space.",
+    "user_type": "All Access Members",
+    "tags": ["guest policy", "meeting rooms", "capacity", "escorts"]
+  },
+  {
+    "question": "Where can I manage my company's All Access Plus or Pay-Per-Use account or membership details?",
+    "answer": "You can manage your company's All Access Plus or Pay-Per-Use account through Account Central.",
+    "user_type": "All Access Members",
+    "tags": ["account management", "Account Central", "membership details"]
+  },
+  {
+    "question": "How do I see my company's WeWork All Access Plus or Pay-Per-Use account's booking history?",
+    "answer": "To view your account's booking history, navigate to 'Account Central, click on 'Usage Reports', and select 'See Booking History'.",
+    "user_type": "All Access Members",
+    "tags": ["booking history", "usage reports", "account central"]
+  },
+  {
+    "question": "How do I invite and remove members from my All Access Plus or Pay-Per-Use membership?",
+    "answer": "You can invite and remove members in Account Central.",
+    "user_type": "All Access Admins",
+    "tags": ["invite members", "remove members", "account central"]
+  },
+  {
+    "question": "Can active WeWork members from my team share keycards or app access with other employees for our All Access Plus or Pay-Per-Use memberships?",
+    "answer": "No, active WeWork members from your team cannot share keycards or access to the WeWork app or member web with other employees. Each WeWork All Access Plus or Pay-Per-Use member's account created on the WeWork Member Network is specific to that individual. Members must not share their account passwords, transfer keycards or other access devices, or allow anyone else to use their account, even if the individual is associated with the same company.",
+    "user_type": "All Access Members",
+    "tags": ["keycard sharing", "account sharing", "security policy"]
+  },
+  {
+    "question": "Where can I update my payment settings for my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "For your WeWork All Access Plus or Pay-Per-Use membership, you can head to Payment settings that can be updated in Account Central. Head to Accounts Central, and click on Billing >> Payment Methods to update your payment settings.",
+    "user_type": "All Access Admins",
+    "tags": ["payment settings", "account central", "billing management"]
+  },
+  {
+    "question": "How do I assign roles or team admins for my WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "You can assign Account Admins and Billing Contacts through Account Central for your WeWork All Access Plus or Pay-Per-Use membership. You could also reach out to your Community Team and they'd be happy to help you.",
+    "user_type": "All Access Admins",
+    "tags": ["admin assignment", "roles", "billing contacts", "account central"]
+  },
+  {
+    "question": "Where can I view my WeWork All Access Plus or Pay-Per-Use membership invoices?",
+    "answer": "For your WeWork All Access Plus or Pay-Per-Use membership, you can view invoices through Account Central. Head to Account Central, select Billing >> Invoices & Retainers to view your details.",
+    "user_type": "All Access Admins",
+    "tags": ["invoices", "billing", "account central", "payment records"]
+  },
+  {
+    "question": "For my WeWork All Access Plus or Pay-Per-Use membership, can I receive mail and packages at more than one WeWork location?",
+    "answer": "No, you will only be able to receive mail and packages at your home location. Your home location is specified in your WeWork All Access Plus or Pay-Per-Use membership plan.",
+    "user_type": "All Access Members",
+    "tags": ["mail delivery", "multiple locations", "home location", "packages"]
+  },
+  {
+    "question": "Is a service retainer applicable for WeWork All Access Plus membership?",
+    "answer": "Yes, a service retainer is applicable for accounts with five or more All Access Plus memberships.",
+    "user_type": "All Access Plus Members",
+    "tags": ["service retainer", "multiple memberships", "account size"]
+  },
+  {
+    "question": "Is a service retainer applicable for WeWork All Access Pay-Per-Use membership?",
+    "answer": "Yes, a service retainer is required based on the number of users under the account. This amount is fully refundable upon membership exit.",
+    "user_type": "Pay-Per-Use Members",
+    "tags": ["service retainer", "refundable deposit", "user count"]
+  },
+  {
+    "question": "When is my WeWork All Access Plus or Pay-Per-Use membership's service retainer due? When is my first month's membership fee due?",
+    "answer": "Service retainers for WeWork All Access Plus or Pay-Per-Use memberships are due before your move-in date and will be collected between your signing date and your move-in date. Your first month's membership fee is due on the first of the month. Both must be paid before moving into your WeWork space.",
+    "user_type": "All Access Members",
+    "tags": ["service retainer", "payment timing", "move-in date", "first month"]
+  },
+  {
+    "question": "Is there a minimum commitment term for the WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "Yes, the minimum commitment term for both memberships is one month. However, committing to a longer term may offer better pricing.",
+    "user_type": "Prospective Members",
+    "tags": ["commitment term", "minimum duration", "contract length"]
+  },
+  {
+    "question": "Is storage available with a WeWork All Access Plus or Pay-Per-Use membership?",
+    "answer": "No, storage is not included with this membership.",
+    "user_type": "All Access Members",
+    "tags": ["storage", "availability", "included features"]
+  },
+  {
+    "question": "How do I sign up for a WeWork All Access Plus membership?",
+    "answer": "To sign up, visit our website or contact our sales or community teams.",
+    "user_type": "Prospective Members",
+    "tags": ["signup", "enrollment", "website", "sales team"]
+  },
+  {
+    "question": "How do i sign-up for a WeWork All Access Pay-Per-Use membership?",
+    "answer": "To sign up, visit our website or contact our sales or community teams.",
+    "user_type": "All Access Members Pay Per Use",
+    "tags": ["signup", "pay-per-use", "enrollment", "website"]
+  },
+  {
+    "question": "How do I sign up or purchase WeWork Office Space or Private Office?",
+    "answer": "To sign up for WeWork office space, follow these steps:\n* Go to the official WeWork Website - https://wework.co.in/\n* Submit a Lead \n   * Request by clicking on \"Get in Touch\"\n   * Fill out the required details in the lead request form.\n   * Wait for Contact from WeWork\n   * A WeWork representative will reach out to understand your requirements and discuss membership details, pricing, and availability.",
+    "user_type": "All Access Members",
+    "tags": ["signup", "private office", "office space", "lead form"]
+  },
+  {
+    "question": "Is All Access Plus the same as Growth Campus’ All Access Plus offering?",
+    "answer": "Growth Campus is part of WeWork Labs offering, which is a program designed to help Indian startups launch their businesses with space and resources that enable them to scale faster. The terms and benefits of All Access Membership associated with Growth Campus are different from a regular All Access Plus membership and the former is restricted to only those enterprises part of WeWork Labs.",
+    "user_type": "All Access Members Pay Per Use",
+    "tags": ["growth campus", "wework labs", "all access plus", "startup support"]
+  },
+  {
+    "question": "What are WeWork Centres?",
+    "answer": "WeWork Centres are buildings where WeWork operates and offers its workspace solutions.",
+    "user_type": "General Public",
+    "tags": ["wework centres", "locations", "workspaces"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po\nAll Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus\nAll Access Pay Per Use - aappu, all access pay per use, aa pay per use\nVirtual Office - VO, WeWork VO, vo\nWeWork Labs - WW Labs, WWL, wwl, wwlabs\nOn-demand - OD, WeWork OD, od\nOn-demand meeting rooms - conference rooms, od meeting rooms\nManaged Offices - managed offices, mo, MO \nWeWork Business Solutions - WBS, wework business solutions\nAdvertise at WeWork - advertise at wework, advertise at ww\nStudios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology"]
+  }
+] 

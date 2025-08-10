@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How do I book a tour of a Private Office workspace?",
+    "answer": "To book a workspace tour:\n1. Visit wework.co.in/workspaces/private-office-space/.\n2. Choose the city and specific location you'd like to tour.\n3. Click 'Enquire Now' to fill in your details, or call us at 1800 123 777 888.\n4. Our team will reach out to you to discuss your needs.\nPlease note: Tours are available for those interested in Private Office only. For further assistance, call us at 1800 123 222333.",
+    "user_type": "Prospective Members",
+    "tags": ["tour booking", "private office", "inquiry", "visit"]
+  },
+  {
+    "question": "Are WeWork Private Office spaces open 24/7?",
+    "answer": "If you have a WeWork Private Office space, you have 24/7 access to your WeWork location. Our Community team is available from Monday to Friday, between 9 AM and 6 PM. To access your WeWork location outside of our regular business hours, please ensure that you have your keycard.\n\nPlease note: Our team will be unavailable on all weekends and national holidays.",
+    "user_type": "Private Office Members",
+    "tags": ["24/7 access", "hours", "keycard", "community team"]
+  },
+  {
+    "question": "How much does a WeWork Private Office space cost?",
+    "answer": "The cost of our office spaces varies by location. After selecting your preferred location on our website, you can view the cost per desk. For a detailed breakdown of costs, click 'Enquire now', fill out the form, and our sales team will provide a customised quote to meet your needs.",
+    "user_type": "Prospective Members",
+    "tags": ["cost", "pricing", "per desk", "quote", "customized pricing"]
+  },
+  {
+    "question": "Can I work from another WeWork location as a Private Office member?",
+    "answer": "Yes, you can book a desk at any other location using a credit as a Private Office member.",
+    "user_type": "Private Office Members",
+    "tags": ["other locations", "booking", "credits"]
+  },
+  {
+    "question": "How do I book a tour of a workspace or Private Office space?",
+    "answer": "To book a workspace tour:\n1. Visit wework.co.in/workspaces/private-office-space/.\n2. Choose the city and specific location you'd like to tour.\n3. Click on Enquire Now and fill in your details, or call us at 1800123999000\n4. Our team will reach out to you to discuss your needs\nPlease note: Tours are available for those interested in Private Office only",
+    "user_type": "Prospective Members",
+    "tags": ["tour booking", "workspace", "inquiry process", "contact"]
+  },
+  {
+    "question": "What is the minimum commitment term for a private office membership?",
+    "answer": "Get an office space for a term of one month to 10 years, or more. With our private office solutions, you can enjoy monthly billing with no commitment.",
+    "user_type": "Prospective Members",
+    "tags": ["commitment term", "duration", "monthly billing", "flexibility"]
+  },
+  {
+    "question": "What is a Private Office or PO?",
+    "answer": "Fully-equipped, ready-to-move-in or customisable private office spaces for teams of every scale, industry, and stage\n\nThis is a fully-equipped, ready-to-move-in, customisable private office space that can accommodate teams of every industry, stage and scale, typically ranging from 1 to 100+ people. Private offices offer more privacy and can be customised to fit your team's needs.\n\nTo learn more reach out to us on 1800123777888",
+    "user_type": "All Users",
+    "tags": ["private office", "definition", "customizable", "team spaces"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po\nAll Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus\nAll Access Pay Per Use - aappu, all access pay per use, aa pay per use\nVirtual Office - VO, WeWork VO, vo\nWeWork Labs - WW Labs, WWL, wwl, wwlabs\nOn-demand - OD, WeWork OD, od\nOn-demand meeting rooms - conference rooms, od meeting rooms\nManaged Offices - managed offices, mo, MO \nWeWork Business Solutions - WBS, wework business solutions\nAdvertise at WeWork - advertise at wework, advertise at ww\nStudios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology", "reference"]
+  }
+] 

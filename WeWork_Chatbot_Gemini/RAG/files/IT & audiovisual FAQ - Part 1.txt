@@ -1,0 +1,934 @@
+﻿WIFI
+
+
+
+
+How do I connect my device to the WeWorkWiFi?
+Your network credentials (username and password) are required to connect to the network WeWorkWiFi. See the article How do I find my username and password for connecting to the WiFi?
+
+
+If you are a guest or a visitor, please see the help article How do visitors and guests connect to the WiFi at WeWork? for steps to connect to the WeWorkGuest network.
+macOS
+  
+
+1. In the WiFi menu, select WeWorkWiFi.
+
+
+2. Select Automatic in the field “Mode”.
+
+
+3. Enter your username and password.
+
+
+4. Click Join.
+
+
+5. Proceed with any certificate authentication prompts.
+	iOS
+  
+
+1. In the WiFi menu, select WeWorkWiFi.
+
+
+2. Enter your username and password.
+
+
+3. Tap Join.
+
+
+4. Proceed with any certificate authentication prompts
+	Windows 10
+  
+
+1. In the WiFi menu, select WeWorkWiFi.
+
+
+2. Enter your username and password.
+
+
+3. Click OK.
+
+
+4. Proceed with any certificate authentication prompts
+	Android
+  
+
+1. In the WiFi menu, select WeWorkWiFi.
+
+
+2. Adjust the following settings as needed for your particular Android device. Not all Android devices require all fields below:
+a. Security: EAP
+b. EAP method: PEAP
+c. EAP Phase 2 authentication: Automatic or MSCHAPV2
+d. Server CA certificate: Default
+Or, you may have to select Use system certificates (see below).
+e. MAC Address Type: Phone MAC
+f. Domain: wenw.net OR nac.wenw.net 
+g. Identity: Insert your network username
+h. Password: Insert your network password
+i. Anonymous Identity: Leave this field blank
+
+
+3. Tap Connect.
+
+
+4. Proceed with any certificate authentication prompts.
+	Use system certificates
+Some Android devices may not display "Use system certificates" as an option. You will need to download the DigiCert Global Root Certificate for the device. 
+ 
+Follow the steps below to download the certificate:
+
+
+1. From your wireless device browser, navigate to https://www.digicert.com/digicert-root-certificates.htm.
+
+
+2. Select Download PEM under the section “DigiCert Global Root CA”.
+  
+
+3. Install the Root CA on your device. Verify your identity by scanning your fingerprint or entering your phone security PIN.
+
+
+4. A new window will appear to install the downloaded certificate. Adjust the following settings:
+a. Certificate name: DigiCert Global Root CA
+b. Credential Use: Wi-Fi
+
+
+5. After installing the DigiCert Global Root CA, you should now have the option under CA Certificate to select DigiCert Global Root CA.
+  
+
+Require further assistance?
+See the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+How do I find my username and password for connecting to the WiFi?
+WeWork members can connect to the internet by joining the network WeWorkWiFi. For this, you will need your network credentials.
+ 
+If you are a guest or a visitor, please see the help article How do visitors and guests connect to the WiFi at WeWork? for steps to connect to the WeWorkGuest network.
+ 
+How do I find my WiFi credentials?
+Via the member web
+Your network credentials can be found via https://wifi.we.co. Here, you can view your username and password for connecting to the WeWorkWiFi network. Include all hyphens and characters of your username and password.
+​​  
+ For information on how to join the WeWorkWiFi network, see the help article How do members connect to the WiFi at WeWork?
+
+
+Via the WeWork app
+1. In the WeWork app, tap Account > Centre Guide.[a]
+  
+
+2. Tap WiFi.
+  
+
+3. Your WiFi credentials are on this page. Tap the eye icon to reveal your password.
+  
+
+Credentials not appearing?
+If your WiFi credentials do not appear, please visit wifi.we.co and click Reset credentials.
+
+
+You will need to wait 60 seconds for the system to sync before attempting to join the WeWorkWiFi network.
+Need further assistance?
+Please see the on-site Community team or submit a support request.
+
+
+
+
+How do I connect to the Wi-Fi at WeWork?
+WeWork members can connect to the internet via the WeWorkWiFi network with their unique Wi-Fi credentials.
+
+
+Guests can join the WeWorkGuest network.
+How do I view my Wi-Fi credentials?
+We recommend visiting the WeWork Wi-Fi portal (wifi.we.co) as it contains your Wi-Fi credentials and setup instructions to connect your device to the WeWorkWiFi network. You can also connect devices such as a wireless printer or TV via the “WeWork Device” section.
+  
+
+Other ways to view your Wi-Fi credentials:
+* The WeWork app
+   * Account > centre Guide > Wi-Fi
+* The member web
+   * See the "Handy Information" section on the Home page of the member web
+
+
+Enter all hyphens and characters when logging in. You may need to work with your IT department to ensure permissions are set on your device to install the wireless certificate.
+Need Further Assistance?
+See your on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+
+
+
+
+How do I connect my device to the WeWorkDevice Network?
+Have a device that you want to connect to the WiFi? Have it connect to the WeWorkDevice network.
+ 
+What is the WeWorkDevice network?
+The WeWorkDevice wireless network is intended for secondary devices that:
+* Do not support 802.1X authentication (username and password) to connect to WiFi.
+* Require a connection from a primary device or other secondary devices.
+   * Such as a printer, network-attached storage, etc.
+* For a list of devices that are supported on the WeWorkDevice network, see the article Which devices are supported on WeWorkDevice?
+
+
+Please note: The WeWorkDevice network is being deployed gradually and you will be notified by your Community team when this network is added to your location. 
+
+
+If you are looking to connect a device such as a smartphone, tablet, or laptop to the WiFi, please see the help article How do members connect to the WiFi at WeWork?
+How do I connect my device to the WeWorkDevice network?
+You can connect your device to the WeWorkDevice network via the WeWork “My Access” portal - https://wifi.we.co. 
+1. Login to https://wifi.we.co using your WeWork member credentials.
+2. Click the tab WeWorkDevice.
+3. Complete in the fields:
+   1. Device type: Select the device type.
+   2. MAC address: Enter the device's MAC address.
+   3. Device name: Enter the name of the device.
+4. Click Add device.
+  
+
+Once the device is added, you will receive confirmation and be provided with the shared key to enter in the password field of your device and allow it to connect to the WeWorkDevice network. You will also see the list of up to five registered devices on this page, as well as setup instructions.
+Member-provided printers (personal printers) will need to be added via their IP address after being registered on the WeWorkDevice network. This is because WeWorkDevice is a different Network than the WeWorkWiFi or WeWork wired networks
+Need support?
+If you experience any issues with this process, please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support When submitting a request, please provide the following information:
+* The device type.
+* The MAC address of the device.
+* The device name or description.
+After the Service Desk team has completed adding the device, a shared key to connect to the WeWorkDevice network will be provided.
+
+
+
+
+
+
+Which devices are supported on WeWorkDevice?
+The WeWorkDevice wireless network is intended for member's secondary devices that:
+* Do not support 802.1X authentication (username and password) to connect to WiFi.
+* Require a connection from a primary device or other secondary devices.
+   * Such as a printer, network attached storage (NAS), etc.
+
+
+Please note: The WeWorkDevice network is being deployed gradually and you will be notified by your Community team when this network is added to your location. centres in China and Russia will see no change to their WiFi networks.
+
+
+ 
+Which devices are supported on the WeWorkDevice network?
+Examples of devices that can be connected to the WeWorkDevice network include, but are not limited to:
+* Network printers
+* Network Attached Storage (NAS)
+   * QNAP
+   * Synology
+   * Etc.
+* Streaming video players
+   * Apple TV
+   * Google Chromecast
+   * Etc.
+* Streaming music players
+   * Amazon Alexa devices
+   * Etc.
+* Televisions
+* Gaming systems
+   * Playstation
+   * Xbox
+   * Etc.
+ 
+Some devices are not currently supported by the WeWorkDevice network. These include, but are not limited to:
+* SONOS speakers
+* Google Home/Nest
+ 
+How do I connect a device to WeWork Device?
+For instructions on how to connect your device(s) to the WeWorkDevice network, please see the article How do I connect my device to the WeWorkDevice Network?
+ 
+Need Further Assistance?
+Please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+What changes can I anticipate with the new WeWorkWifi?
+Do I need to remove the original WeWork wireless network?
+There is no need for you to actively remove the legacy WeWork network from your device, as it will automatically connect to the WeWorkWiFi network once set up. After the WeWork network is decommissioned, it will no longer appear as in the network list for any users.
+ 
+My printer can not connect to the new WiFi.
+Peer-to-Peer devices, such as member-owned printers, media streaming devices, workplace file share, and network-attached storage are not able to connect to WeWorkWiFi, as they do not support the 802.1x network authentication protocol. These devices will need to be connected to the WeWorkDevice network.
+ 
+Is the legacy WeWork wireless network going away?
+The legacy WeWork wireless network will be decommissioned as the WeWorkDevice network is rolled out. There will be an interim period between the launch of WeWorkDevice and the removal of the legacy WeWork network and will be communicated to the members via the Community team. During this time, all devices still connected to the WeWork network should be transitioned to WeWorkWiFi or WeWorkDevice as appropriate. After this interim period, the legacy WeWork network will be removed from the centre's network.
+ 
+Will my remote access or VPN to my office be affected?
+As the legacy WeWork network is decommissioned, remote access and VPN devices will need to be configured to connect through the new networks. We understand how important it is not to interrupt the network for those working remotely at this time, and delayed the network upgrades to accommodate these needs. The security improvements that the new WeWorkWiFi network provides will offer greater security to all members, both in-person and remote. If you need remote access, please work with your company's IT team to configure your connection.
+ 
+Will this wireless upgrade affect my company’s private network configuration?
+This wireless upgrade only affects members who connect to the WeWork wireless network. If your company has its own WiFi network then there is no change required.
+ 
+Certificate “Not Trusted” appears when connecting
+This is expected behavior. When connecting, devices will prompt a security alert about the server's certificate. The certificate is untrusted initially but once it is used it will become trusted and the alert will not appear again.
+It may prompt one of the following:
+* Not Trusted
+* Authenticating to network "WeWorkWiFi"
+ 
+ 
+Need Further Assistance?
+Please submit a support request.
+
+
+Which devices are supported on WeWorkWiFi
+The WeWorkWiFi wireless network is for members to use to connect their primary devices. These devices must require a username and password for sign-in (802.1x authentication) for them to connect to the WeWorkWiFi network.
+
+
+ 
+Which devices are supported on WeWorkWiFi?
+Examples for these devices include but are not limited to:
+ 
+Personal computers or laptops
+* Windows
+* macOS
+Tablets
+* Windows
+* Apple iPadOS
+* Android
+Smartphones
+* Apple iOS
+* Android
+
+
+Some consumer devices are not supported on the new WeWorkWiFi network because they do not support the 802.1x protocol. These devices should be connected using the WeWorkDevice network.
+
+
+ 
+Need Further Assistance?
+Please see the Community team on-site or you can submit a support request here - https://members.wework.com/workplaceone/content2/wework-support.
+How do visitors and guests connect to the WiFi at WeWork?
+Welcome to WeWork! As a guest in one of our spaces, you can connect to the WeWorkGuest WiFi network at any time.
+ 
+ 
+How to connect to the WeWorkGuest WiFi network
+1. In the WiFi menu on your device, select WeWorkGuest.
+2. Open your internet browser and once redirected to the landing page, accept WeWork's terms and privacy policy.
+3. Enter your name and email/Mobile Number in the fields and click Continue.
+4. Validate your email address/Mobile Number in the email sent to your inbox.
+  
+
+Please ensure you use the correct email address as you will need to validate it after connecting. Failure to complete the email validation will result in you being disconnected after 15 minutes.
+
+
+For returning guests, the guest portal page will reappear after 24 hours. If reconnecting with the same device, you will not need to repeat the email validation process.
+ 
+ 
+Need Further Assistance?
+Please see the Community team on-site or you can submit a support request.
+
+
+Please note: China and Russia will not experience any adjustments to their centre’s current WiFi setup.
+
+
+
+
+How can I change my WeWorkWiFi password?
+You can view your WiFi information and reset your WiFi password by visiting https://wifi.we.co/. Please note, you will need to enter your WeWork credentials to access this page.
+  
+
+Resetting your credentials
+To change your WeWorkWiFi password, click Reset credentials. This will generate a new random password for you to connect to the WeWorkWiFi network. Please wait for 60 seconds to allow the change to sync throughout the system before attempting to sign on.
+ 
+ 
+Need support?
+If you are having issues logging in to your account, you can use the “Forgot password?” link to reset your password. Or, you can submit a support request here - https://members.wework.com/workplaceone/content2/wework-support where one of the team can assist you.
+
+
+
+
+I have lost internet connection, what do I do?
+If your WiFi connection stops working, make sure your device is connected to the WeWorkWiFi network. For instructions on how to join this network, see the help article How do members connect to the WiFi at WeWork?
+
+
+If the problem persists, please try rebooting your device and reconnecting. For further assistance with troubleshooting, please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+What do I do if I have slow internet connection?
+There could be various reasons why the internet speed can drop or be slow:
+* The device is connected to a WiFi Access Point that is far from the office due to moving from one part of the centre to another.
+* Devices can have hardware restrictions that affect the internet speed.
+ 
+Troubleshooting
+Before raising a support request, we kindly ask that you:
+* Turn off and back on WiFi. This will ensure that you are connected to the closest WiFi Access Point. 
+* Perform a hard reset on your computer and connect to the WiFi again. This will help to make a refresh in the computer equipment and it can help enable a better connection.
+ 
+Raising a support request
+If the issue persists, please create a support request here - https://members.wework.com/workplaceone/content2/wework-support where one of our support specialists will be able to help you troubleshoot.
+When submitting a support request, it is important to include:
+* A WiFi speed ​​test to help specialists get a better insight into the issue. Please use this page when performing speed tests.
+* We will also need to have your device’s MAC address which you can obtain following the steps below.
+Windows:
+1. Click Start >  Run.
+2. Type: cmd
+3. Type: getmac
+4. You will see the address of all network connections on the device. For example: 00-15-E9-2B-99-3C
+
+
+Mac:
+1. Click Apple Menu > System Preferences > Network.
+2. Click Advanced.
+3. You will see the Wi-Fi MAC Address at the bottom of the window. For example: a4:64:e8:73:01:dc
+
+
+What is Business Internet Services?
+What is Business Internet Services?
+
+
+Business Internet Services is WeWork’s enterprise-grade internet solution. 
+ 
+With our standard offering, all members in the centre share internet bandwidth. With Business Internet Services, members are able to reserve a portion of bandwidth for exclusive use to guarantee performance, increase security, and support their team’s productivity.
+
+
+
+
+What are the benefits?
+* Guaranteed Internet Speed: Business Internet Services guarantees you a minimum speed to eliminate any speed reductions during peak consumption hours on our shared network.
+* Enhanced Privacy: Included with Business Internet Services is a password protected SSID, which is private to your company and employees, and is not open to the other members in the centre.
+* Turnkey Set-up and Configuration: WeWork’s Tech Leads and engineers do all setup and configuration, and have the connection live within 2 days.
+* 24/7 Monitoring: WeWork’s Mission Control team monitors the health of the service to proactively address and resolve any issues and ensure the promised speeds are being delivered.
+* Back-up circuit (if subscribed): Each Business Internet Services offering comes with a primary and backup internet provider. If our primary provider has an issue or outage at the centre, our secondary provider will automatically take over to ensure a seamless always-on internet experience. 
+ 
+What is included in the price? 
+1. Business Internet Services - the always on, guaranteed internet connection exclusively for your company and employees. 
+2. Private VLAN  or Public  IP  - the two options available for how we deliver the Business Internet Services to your office. 
+3. SSID - a password protected wireless network that is exclusively for your company and employees. 
+4. Primary and Secondary ISP Circuits (if subscribed) - every WeWork centre has 2 providers so we can seamlessly switch the service to a “backup” provider should one provider have an issue or outage in the area.
+5. Monthly flexibility - there are no commitment terms needed - the service is month to month and will be added to your WeWork invoice.
+ 
+What is the price?
+
+
+  
+
+1 Set-up Fee is one-time cost that is included in the first month of billing only
+
+
+Please note: Pricing is based on regional currency and varies by market. If you have additional questions  regarding Business Internet Services (BIS) or do not see your regional pricing listed above, please raise a support request here - https://members.wework.com/workplaceone/content2/wework-support 
+
+
+To raise a support ticket related to Business Internet Services (BIS) - please raise a ticket here - https://members.wework.com/workplaceone/content2/wework-support or reach out to your community team to learn more.
+
+
+How much bandwidth do I need? 
+Our recommendations:
+
+
+10 - 50 desks = 100 Mbps 
+51 - 125 desks = 200 Mbps 
+126 - 200 desks = 400 Mbps 
+200 + = contact Account manager/Community teams
+ 
+How long does it take to set up? 
+2 days on average. Time varies slightly by centre. If you went directly to an Internet Service provider it typically takes 60-90 days to get installed by the ISP, assuming they have lines in the centre.
+ 
+Why should I go with WeWork?  
+WeWork:
+* Pricing: 100 Mbps includes primary line and VLAN and SSID as well..
+* Term: Month to Month
+* Set Up Time: Up and running in 2 days. Set up and monitoring is owned by WeWork
+Market: 
+* Pricing: Differs per market, but typically 100 Mbps from Rs 50,000 per month for one line only 
+* Term: This will vary depending on the ISP but competitive pricing usually requires a 2-3 year term
+* Set Up Time: It can take 60-90 days for installation if the ISP has fiber in the centre otherwise 120 + days to run the fiber
+
+
+
+
+Who is this available to?
+
+
+This is available to all members in all regions, excluding China. 
+
+
+
+
+How do I request this/ sign up?
+
+
+There are a few ways you can sign up for this offering: 
+* The Account Manager Portal 
+* By contacting your community manager or account manager
+* By submitting a support request here - https://members.wework.com/support on the member network.
+
+
+What is WeWork’s Wi-Fi policy? What is the Internet speed in the centre?
+Wireless access is provided to our members via our shared "WeWorkWifi" network. This wireless network is available throughout all of our centres. We encourage guests and non-members to utilize our "WeWorkGuest" network, which is also available at all of our locations.
+Internet bandwidth at each WeWork location is shared, but our members should expect reliable network services to perform standard tasks. 
+
+
+
+
+TV SCREENS
+I am having trouble connecting to a meeting room TV. What should I do?
+Use this article to help with basic troubleshooting.
+Check your WiFi connection
+Make sure you are connected to one of the following WiFi networks:
+* WeWorkWiFi
+* WeWorkGuest
+If you are connected to another network or have a VPN running, this may affect your connection to the TV.
+  
+
+Enterprise Meeting Room Solution
+Usage Instructions
+1.         Screen Sharing from Laptops - App
+With Zoapi Hub, up to 16 users can wirelessly present and collaborate. You can install the Zoapi Client app on your Windows, Mac, or Linux laptop and present it simply by entering a 4-digit PIN. Zoapi supports both single-view and quad-view presentation modes for seamless collaboration. Zoapi wireless presentations work over the WeWorkWiFi or WeWorkGuest networks, and no media content is sent to the cloud, ensuring security for all types of meetings.
+ 
+1.         First time users can download and install the Zoapi Client from https://share.zoapi.com on your browser.
+  
+
+2.         Make sure you are on the same network as the Zoapi Hub or Zoapi Hub is reachable through the LAN. Also make sure your laptop is not connected to any VPN. There is a 4-digit PIN shown on the bottom center of the Zoapi Hub display in your meeting room. Enter this pin in the Zoapi Client app.
+  
+
+
+
+  
+
+3.         You can choose to Share your screen as soon as you join by selecting the highlighted checkbox. This setting will be saved for future use.
+  
+
+ 
+4.         Zoapi Hub tries to match your laptop’s resolution to the Hub display’s resolution, so that the quality of the text remains sharp. You can choose not to change your laptop’s resolution by selecting the highlighted checkbox. This setting will be saved for future use.
+           
+5.         Click on Join to connect to the Zoapi hub. Once connected, you should see the Zoapi application bar shown below.
+You can share your screen by pressing the Share button. (MAC users will be prompted for screen and audio recording permissions on first use)
+Clicking on Share Audio will play your laptop’s audio on the Zoapi Hub.
+Note: Sharing audio might increase the video latency, as Zoapi will introduce some buffering to ensure audio playout is smooth and glitch free.  
+6. If multiple presenters are sharing, you can switch between the presenters by using the Presenter tab. You can also switch between single-view or quad-view modes. In single-view, the screen will show one presenter, and in quad-view, upto 4 can be viewed.
+   
+7.     You can pause your screen sharing using the Pause button.
+  
+
+
+
+8.         When you click on the Stop Share button, your screen sharing is stopped, however you will remain connected to the hub.
+Clicking on Leave will disconnect you completely from the Hub.
+  
+
+
+
+2. Screen Sharing from Laptops - Browser
+If you wish to share your laptop screen without installing any app, then you can use the browser sharing feature to share directly from Chrome/Firefox/Edge/Safari browser using WebRTC technology.
+Note: Support for sharing system audio is not available on all browsers for Linux and Firefox/Safari browsers on Windows/Mac.
+ 1.     Go to https://share.zoapi.com and click on screen share from the browser option. (You can also go to https://share.zoapi.com/web directly). Bookmark this page for future use.
+  
+
+
+
+
+
+
+
+
+
+
+
+2.     Enter your Nickname and the Zoapi Hub Pin displayed on the TV and Click on Join. Note: On MAC, the browser will require permission for screen and audio recording.
+  
+
+  
+
+
+
+3.    Select Entire Screen/an app window/chrome tab.
+Select Share system audio to play laptop audio on the meeting room display.
+Note: If you are sharing an app window, make sure window is not minimized (it can be in background but not minimized)
+  
+
+
+
+4.     Click on Disconnect to stop sharing. You can also close the tab/browser or close from the floating browser shortcut.
+  
+
+
+
+3.         Zoapi Remote Control
+Remote Control app lets you control the Zoapi Hub Room System directly from your laptop. No more hassles with remotes and confusing touch panels. You can use your laptop keyboard and mouse to control the Zoapi Hub. Imagine using your own laptop to control the entire room system for launching apps, browsing, opening media files and documents etc.
+ 
+1. Open the Apps tab on the Zoapi Client running on your laptop and choose Remote.
+  
+
+2.  Now your laptop’s Keyboard and Mouse will be wirelessly connected to the Zoapi Hub and you can control it for using 3rd Party apps.
+◦   F2 - Opens the app-drawer
+◦   F6 - Show/Hide Info bar
+Exit the Hub Control mode by pressing Alt+Tab (Windows/Linux) or Command+Tab (Mac). Note that your laptop will not respond to keyboard and mouse events when Remote-Control mode is ON and your laptop screen will look like the image shown below.
+  
+
+
+
+4.        Video Conference – Meeting Links
+Do you have a meeting link that you wish to open on the Zoapi Room System but hate to type lengthy URLs? Use the Weblink option to launch any link, be it a meeting link, a shared document, a presentation from a cloud drive, a video link, or anything else.
+Note: We use MS Teams as an example here. You can use any conferencing app of your choice (Zoom/Google Meet/WebEx etc).
+1.     Video Conferencing apps can be used in one of the two modes.
+a.         As Guest: Follow step2 onwards to join the conferencing call.
+b.         As Host: If you are the host for the meeting, follow one of the two below methods.
+i.     Host the call on your laptop/phone and mute the mic (on-call) and speaker (system) to avoid echo and follow step2 onwards to join the call on Zoapi Hub as a guest.
+OR
+ii.     Login to the conferencing app on the Zoapi Hub (You may also have a dedicated account that is always logged in) and follow step2 onwards to host the meeting.
+2.     Open the Apps tab on the Zoapi Client running on your laptop and choose Weblink.
+  
+
+3.         Enter the Meeting Link (Zoom/Teams/Meet/Webex or any other link) you wish to open and click Ok.
+  
+
+4.         While Zoapi Hub launches the meeting, the app on your laptop will pop up asking if you would like to use the Remote App. Click Ok.
+  
+
+5.         Use the Remote App to control Zoapi Hub using your laptop keyboard/trackpad/mouse. (You can also use a physical keyboard/remote instead). Click on Join Now (Eg. Teams) on the Conferencing app window displayed on the Zoapi Hub to start the meeting as shown below.
+  
+
+6. Use Remote/Mouse/Remote App to control the conferencing meeting app running on Zoapi Hub
+a. Share screen (Entire Screen/Desktop) on conferencing app (Zoom/Teams/Meet/ Webex etc) to share the entire Room display.
+b. Enable/Disable Room camera in the conferencing app.
+c. Mute/Unmute Room mic in the conferencing app.
+  
+
+7.         Use wireless presentation for locally presenting from your laptops to Zoapi Hub. The remote party will see the entire meeting room display.
+8.     Use Zoapi Taskbar to switch between open windows as explained in Third Party Apps.
+9.     Leave the meeting by clicking on the Leave meeting button.
+  
+
+5.         Video Conference – One click join
+Join Video Conferencing meetings with just a single click by integrating the Zoapi Hub to your room calendar. After integration, Zoapi Hub will display all the meetings booked in the room and users can launch meetings using the meeting information present in the meeting description.
+1.         Video Conferencing apps can be used in one of the two modes.
+a. As Guest: Follow step2 onwards to join the conferencing call.
+b. As Host: If you are the host for the meeting, follow one of the two below methods.
+i.     Host the call on your laptop/phone and mute the mic (on-call) and speaker (system) to avoid echo and follow step2 onwards to join the call on Zoapi Hub as a guest.
+OR
+ii.     Login to the conferencing app on the Zoapi Hub (You may also have a dedicated account that is always logged in) and follow step2 onwards to host the meeting.
+2. Click on a meeting icon (Zoom/Teams/Meet/WebEx etc) using Remote/Mouse/Remote App to join that meeting.
+Note: While booking the room, the meeting body/description must contain the meeting link.
+  
+
+
+
+3.     Use the Remote/Mouse/Remote App and click on Join Now (Eg. Teams) on the Conferencing app window displayed on the Zoapi Hub to start the meeting as shown below.
+  
+
+
+
+4.     Use Remote/Mouse/Remote App to control the conferencing meeting app running on Zoapi Hub
+a.         Share screen (Entire Screen/Desktop) on conferencing app (Zoom/Teams/Meet/Webex etc) to share the entire Room display.
+b.         Enable/Disable Room camera in the conferencing app.
+c.         Mute/Unmute Room mic in the conferencing app.
+  
+
+5.     Use wireless presentation for locally presenting from your laptops to Zoapi Hub. The Remote- party will see the entire meeting room display.
+6.         Use Zoapi Taskbar to switch between open windows as explained in Third Party Apps
+7.         Leave the meeting by clicking on the Leave meeting button.
+  
+
+
+
+6.         Frequently Asked Questions
+1.      Getting connection error while connecting from Zoapi Client app.
+If you are not able to connect to Zoapi Hub from Zoapi Client app or Zoapi Browser app or if the app is requesting for an IP address, please check the following.
+a.      Make sure your laptop is not connected to VPN
+b.      Make sure your laptop has a valid network (Wifi/LAN) which can access Zoapi Hub. Your laptop should be able to reach Zoapi Hub over local area connection.
+c.       Make sure you can open https://share.zoapi.com on your browser (proxy setting should not block this)
+d.      Make sure you are entering the correct PIN. Sometimes application might fail to connect while PIN is changing.
+e.      Try connecting to Zoapi Wifi AccessPoint (if available) and connect.
+2.  Can we share screen over the internet?
+No. Zoapi uses a local network for screen sharing and media data does not go out of the internal corporate network. So screen sharing will not work unless you are part of the WeWorkWiFi or WeWorkGuest.
+3.  When I try to share my screen on Mac using the Zoapi App, I see a black screen on the Zoapi display / I get a popup asking for permissions.
+
+
+To be able to share a screen with the Zoapi App, make sure ZoapiClient is selected under the "Screen Recording" section in System Preferences > Security & Privacy.
+
+
+4.  When I click on Share Audio button while using Zoapi App on my MacBook, I don't hear any audio / I get a popup asking for permissions.
+
+
+To be able to share audio with the Zoapi App, make sure ZoapiClient is selected under "Microphone" section in System Preferences > Security & Privacy.
+
+
+5.  When I try to share my screen on Mac using the Browser, I get an error (TWS00005) / I get a popup asking for permissions.
+
+
+To be able to share a screen from the Browser, make sure the browser is selected under the "Screen Recording" section in System Preferences > Security & Privacy.
+
+
+6.      Zoapi Hub displays a yellow warning icon next to PIN.
+This happens if Zoapi Hub is not connected to the internet. Please reach out to us or your IT admin. The Internet might be blocked due to the following reasons.
+a.      Zoapi MAC address is blocked in the corporate network.
+b.      Network has a proxy and is not configured on the Zoapi Hub.
+c.       Zoapi Hub IP address is blocked in the corporate firewall.
+d.       Zoapi is configured to use a static IP address but the network has conflicting IP addresses.
+
+
+
+
+ Require further assistance?
+Please see the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+
+
+
+
+PRINTING
+How do I troubleshoot Print by We Issues?
+If you are experiencing any trouble when printing using Print by We, take a look at the details below to assist in resolving the issue. 
+Which devices and browser types are supported?
+
+
+Drag and drop through Print Hub
+* All current of Firefox, Internet Explorer, Safari, and Chrome versions are supported.
+* We do not support Firefox 2 and 3 or Opera 10 to 11.5.
+
+
+Print by We
+* The driver supports MacOS 10.13 and up. It also supports Windows 7 and 10.
+I cannot install Print by We due to username and password permissions.
+Your WeWork username and password are required when downloading Print by We.
+
+
+Some users may  be unable to install Print by We due to administrator permissions on their computers. Please reach out to your internal company IT team.
+My printing job is missing from the queue.
+1. Ensure you have downloaded the installer from we.co/print found under "More flexibility in your printing."
+2. Ensure you select WeWork from the printer menu.
+3. If you are print using the print installer on your computer, attempt to print using drag and drop, and vice versa. 
+4. Try the drag and drop option in a new incognito window. If incognito mode resolved the issue, please clear your cache & cookies and reinstall Print by We for a permanent fix.
+
+
+If the above does not resolve the issue, submit a support request.
+The printer does not recognize my keycard.
+The printers at WeWork require you to have an up-to-date dual-format keycard. Your keycard should have two sets of numbers on it.
+
+
+If your keycard is not working at the printer, please see the on-site Community team.
+I am having issues with printing via drag and drop.
+1. Check what web browser you are using. See “Which devices and browser types are supported?” above.
+2. Make sure the size of your print job does not exceed 80MB.
+3. If the document is for a custom paper size, change the paper size to Letter, A4, or any standard paper size that printer supports. Auto is the default option.
+4. Check what file type you are trying to print. Drag and drop only supports the following file types: .jpeg, .png, .pdf, .doc/x, .ppt/x, .xls/x.
+5. Try the drag and drop option in a new incognito window. If incognito mode resolved the issue, please clear your cache & cookies for a permanent fix.
+
+
+If the issue persists, try downloading the installer for more flexibility when printing.
+Require further assistance?
+Please see the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+Is Print by We Secure?
+If you have questions about the security of Print By We, please review the information below. 
+Is my print job secure? 
+WeWork has deployed a new managed print solution that is industry-leading in experience and security. Print by We stores no data and encrypts all data from members when sending files to the printer. It also requires members to authenticate to release the print job from the printer  using their keycard.
+When I scan a document, is it stored on a WeWork server?
+We use a localized email service server relay for scanning at WeWork locations. The scan is processed and sent to the input email address. We retain no data after processing.
+Why is my ability to use a USB no longer accessible? 
+All USB ports are disabled on printers to protect members against malicious intent.
+Need further assistance?
+Please see the on-site Community team or submit a support request.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can I bring my printer?
+Only Private Office members can bring their printers. 
+Wireless printers
+We recommend that you register the printer to the WeWorkDevice wireless network. Please see How do I connect my device to the WeWorkDevice Network? for more information.
+Printers not capable of connecting via WiFi
+iPlease submit a support request here https://members.wework.com/workplaceone/content2/wework-support if you do not have a printer capable of connecting via WiF. Our IT team will help you with a wired installation remotely.
+Require further assistance?
+Please see the on-site Community team or submit a support request.
+
+
+How do I print at a WeWork centre?
+To print at WeWork, you can choose from one of the following options:
+ 
+1. Installing the Print by We driver (recommended)
+2. Using the Drag and drop feature on the Member network
+
+
+Please note:
+* Connection to the WeWork WiFi is required.
+* Printing from USB is no longer supported globally
+* These printing options are not available for locations in Russia or China. Members from these locations are to follow the article How Do I Install WeWork Printing Services?
+Installing the Print by We driver (recommended)
+This option includes more flexible settings and allows you to print through applications on your computer.
+Our Print by We driver option provides more flexibility with the applications you can print from, the file types you want to print, and supports Mac and Windows computers.
+ 
+* The link to download the driver can be found here.
+* You may need to work with your IT department to ensure your computer has the correct permissions to download the installer.
+* After installing the Print by We driver, select the printer “WeWork” when sending a file to print.
+Using the Drag and drop feature on the Member Network
+This option requires no installation and can be found in the "Print hub" section of the Member Network. 
+Once on this page, you can drag and drop or browse to upload your files to the Print hub, configure how you want them to be printed, and send them to your print queue.
+ 
+* Make sure you have the correct centre selected on your Member Network profile.
+* It supports the following file types:.jpeg, .png, .pdf, .doc(x), .ppt(x), .xls(x)
+* The maximum drag and drop file size is 80MB and supports printing up to three documents simultaneously.
+* Retrieving files from the printer
+1. Once your files have been shared to be printed, head over to any printer in your centre.
+2. Tap your keycard on the printer to sign in to your account.
+3. Tap Print to view your print queue and print your documents.
+ 
+
+
+If you’re having issues with your keycard, please see this troubleshooting FAQ.
+Frequently asked questions
+
+
+Are the documents sent to WeWork printers secure?
+Yes. Your files are encrypted while being uploaded and stored in our printing service and only you will be able to access the files you send to your print queue. Documents will be automatically deleted from our storage after 72 hours if you have not released them.
+ 
+
+
+What if I no longer need to print a document after sending it to the printer?
+You can manually delete documents from your queue on the printer. 
+ 
+If you require further assistance, either speak with the Community team on-site or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+How do I print in black and white?
+You can print documents in either colour or black and white. For more information on how to send files to a printer, see the article: How do I print at a WeWork centre?
+
+
+
+
+See below how you can print in black and white.
+Via the Print by We drivers
+Downloading the Print by We Driver in the Member Network will allow you to print directly from your browser or computer application. It is the recommended option for printing at a WeWork location.
+Adobe
+1. Select Printer, towards the bottom of the Print dialog box. 
+2. Select WeWork in the “Printer” field.
+3. Select the checkbox “Black & White”.
+ 
+Other software
+If you are using any other software, there should be a "Print using system​ dialog" box (or a similar option) that you can use.
+
+
+Tip: when printing next time, select Last Used Settings in the “Presets” field so that you do not have to repeat the steps above.
+
+
+ [KB-2868] Help Center - How do I print in black and white - Jira 2021-05-19 at 5.47.16 pm.jpg 
+
+Via the Drag and Drop feature
+1. Use Drag and Drop in the "Print hub" section of the Member Network and select a document to print.
+2. Select Black & White in the "Colour" field
+ WeWork 2021-05-19 at 5.29.46 pm.jpg 
+
+
+
+For more information on Drag and Drop, please see the article: How do I print at a WeWork centre?
+Selecting black and white at the printer
+Once you have sent your printing to a "WeWork" printer, visit the nearest printer and scan your keycard to log in. After selecting the document from the print queue, it should show "Black/White" as the colour choice. Tap the right arrow if you need to change these settings.
+Need further assistance?
+Please see the Community team on-site or submit a support request.
+How Do I Install WeWork Printing Services?
+This help article is for members based in Russia or China locations only.
+
+
+
+
+Please see the article " How do I print at a WeWork centre " for members based in other locations?
+
+
+For Russia and China members:
+
+
+Step 1: Connect to the WeWork Network 
+Confirm you are on the WeWork network either by being connected with an ethernet cable or connected to the WeWork WiFi network.
+  
+Step 2: Download the Install Package
+1. Please close all applications to help the installation process go faster.
+2. Download the Mac or PC installer.
+   1. Click for Mac Installer
+   2. Click for PC Installer
+3. Please enter the computer credentials (username and password) at the prompt to begin the installation process.
+ 
+MAC:
+
+
+  
+   
+ 
+ 
+PC:
+
+
+  
+
+ 
+Step 3: Start the Install
+ 
+MAC:
+
+
+  
+
+ 
+ 
+PC:
+
+
+  
+
+ 
+Note: Some PC users may receive the following notification: please install and restart.
+  
+
+
+
+How do I scan on a WeWork printer?
+
+
+
+
+All printers in WeWork locations  can scan documents to email.
+ 
+How to scan to email:
+1. At a WeWork printer, log in by swiping your WeWork keycard.
+2. Tap Scan to Email.
+3. In the "To" field, type in your email address. The printer has a physical keyboard that slides out for use and is located under the printer screen.
+4. Enter the subject line.
+5. Enter the file name.
+6. Tap Send.
+Your scan should now have been sent to your email inbox. If you do not receive it, please try again making sure you  type in the correct email address and also check your spam folder.
+
+
+Due to security reasons, there is no option to scan documents to USB.
+
+
+For further support, please see one of the Community team on site or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support where one of the Global Support team can assist.
+
+
+
+
+
+
+________________
+
+
+List of product abbreviations
+Private Office -  PO, WeWork PO, WeWork Private Office, po
+All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus
+All Access Pay Per Use -, aappu, all access pay per use, aa pay per use
+Virtual Office - VO, WeWork VO, vo
+WeWork Labs - WW Labs, WWL, wwl, wwlabs
+On-demand - OD, WeWork OD, od
+On-demand meeting rooms - conference rooms, od meeting rooms
+Managed Offices - managed offices, mo, MO 
+WeWork Business Solutions - WBS, wework business solutions
+Advertise at WeWork - advertise at wework, advertise at ww,
+Studios - WeWork Studios, wwstudios, wws
+
+
+[a]@shweta.vani@wework.co.in this needs to be changed on the app as well
+_Assigned to shweta.vani@wework.co.in_
