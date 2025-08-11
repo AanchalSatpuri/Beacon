@@ -1,0 +1,77 @@
+This file contains all the properties / buildings/ centeres located in different cities. Includes cities like Bangalore, Mumbai, Delhi, etc.
+
+Following is the list of all centers buildings properties in Mumbai
+1. Hiranandani Lightbridge ( https://www.wework.com/buildings/hiranandani-lightbridge--mumbai )
+2. Spectrum Tower ( https://www.wework.com/buildings/spectrum-tower--mumbai )
+3. Express Towers ( https://www.wework.com/buildings/express-towers--mumbai )
+4. VIjay Diamond ( https://www.wework.com/buildings/vijay-diamond--mumbai )
+5. Vaswani Chambers ( https://www.wework.com/buildings/vaswani-chambers--mumbai )
+6. Raheja Platinum ( https://www.wework.com/buildings/raheja-platinum--mumbai )
+7. Enam Sambhav ( https://www.wework.com/buildings/enam-sambhav--mumbai )
+8. NESCO IT Park ( https://www.wework.com/buildings/nesco-it-park--mumbai )
+9. 247 Park ( https://www.wework.com/buildings/247-park--mumbai )
+10. Zenia ( https://www.wework.com/buildings/zenia--mumbai )
+11. Oberoi Commerz II ( https://www.wework.com/buildings/oberoi-commerz-ii--mumbai )
+
+Following is the list of all centers buildings properties in Chennai
+1. Littlewood Tower, TRIL Info Park ( https://www.wework.com/buildings/littlewood-tower-tril-info-park--chennai )
+2. DLF Cyber City - Block 10 ( https://www.wework.com/buildings/dlf-cyber-city-block-10--chennai )
+3. Olympia Cyberspace ( https://www.wework.com/buildings/olympia-cyberspace--chennai )
+
+Following is the list of all centers buildings properties in Bengaluru
+1. Embassy TechVillage ( https://wework.co.in/bangalore/bellandur/embassy-techvillage/ )
+2. Vaishnavi Signature ( https://wework.co.in/bangalore/bellandur/vaishnavi-signature/ )
+3. Salarpuria Symbiosis ( https://wework.co.in/bangalore/bannerghatta-main-rd/salarpuria-symbiosis/ )
+4. 37 Cunningham ( https://wework.co.in/bangalore/cunningham-road/37-cunningham/ )
+5. Cherry Hills, Embassy GolfLinks ( https://wework.co.in/bangalore/domlur/cherry-hills-egl/ )
+6. Cinnabar Hills, Embassy GolfLinks ( https://wework.co.in/bangalore/domlur/embassy-golflinks-cinnabar-hills/ )
+7. Princeville, Embassy GolfLinks ( https://wework.co.in/bangalore/domlur/princeville-egl/ )
+8. Sunriver, Embassy GolfLinks ( https://wework.co.in/bangalore/domlur/sunriver-egl/ )
+9. Embassy One Pinnacle ( https://wework.co.in/bangalore/hebbal/embassy-one/ )
+10. Manyata Mahogany F2 ( https://wework.co.in/bangalore/hebbal/manyata-mahogany/ )
+11. Manyata Redwood ( https://wework.co.in/bangalore/hebbal/manyata-redwood/ )
+12. Manyata NXT Towers ( https://wework.co.in/bangalore/hebbal/manyata-tech-park/ )
+13. RMZ Latitude Commercial ( https://wework.co.in/bangalore/hebbal/rmz-latitude-commercial/ )
+14. Prestige Central ( https://wework.co.in/bangalore/infantry-road/prestige-central/ )
+15. Prestige Atlanta ( https://wework.co.in/bangalore/koramangala/prestige-atlanta/ )
+16. Prestige Cube ( https://wework.co.in/bangalore/koramangala/prestige-cube-laskar-hosur-road/ )
+17. Salarpuria Magnificia ( https://wework.co.in/bangalore/mahadevapura/salarpuria-magnificia-tin-factory/ )
+18. Prestige Tech Park - Jupiter Block ( https://wework.co.in/bangalore/marathahalli/jupiter-prestige-tech-park/ )
+19. Roshni Tech Hub ( https://wework.co.in/bangalore/marathahalli/kalyani-roshni-tech-hub/ )
+20. Embassy Quest ( https://wework.co.in/bangalore/mg-road/embassy-quest-magrath-road/ )
+21. Galaxy ( https://wework.co.in/bangalore/mg-road/galaxy-residency-road/ )
+22. The Pavilion ( https://wework.co.in/bangalore/mg-road/the-pavilion-church-street/ )
+23. IWF Campus ( https://wework.co.in/bangalore/whitefield/iwf-campus/ )
+
+Following is the list of all centers buildings properties in Pune
+1. WTC, Tower - 5 ( https://www.wework.com/buildings/wtc-tower-5--pune )
+2. Futura ( https://www.wework.com/buildings/futura--pune )
+3. Amanora Crest ( https://www.wework.com/buildings/amanora-crest--pune )
+4. EON IT Park ( https://www.wework.com/buildings/eon-it-park--pune )
+5. Eleven West ( https://www.wework.com/buildings/eleven-west--pune )
+6. Raheja Woods ( https://www.wework.com/buildings/raheja-woods--pune )
+7. Gera Commerzone ( https://www.wework.com/buildings/gera-commerzone--pune )
+
+Following is the list of all centers buildings properties in Hyderabad
+1. Rajapushpa Summit ( https://www.wework.com/buildings/rajapushpa-summit--hyderabad )
+2. Krishe Emerald ( https://www.wework.com/buildings/krishe-emerald--hyderabad )
+3. RMZ Spire ( https://www.wework.com/buildings/rmz-spire--hyderabad )
+4. Raheja Mindspace - Building 9 ( https://www.wework.com/buildings/raheja-mindspace-building-9--hyderabad )
+
+Following is the list of all centers buildings properties in Gurugram
+1. Vi-John Tower ( https://www.wework.com/buildings/vi-john-tower--gurugram--HR )
+2. Forum ( https://www.wework.com/buildings/forum--gurugram--HR )
+3. Blue One Square ( https://www.wework.com/buildings/blue-one-square--gurugram--HR )
+4. DLF Building 6 ( https://www.wework.com/buildings/dlf-building-6--gurugram--HR )
+5. Two Horizon Center ( https://www.wework.com/buildings/two-horizon-center--gurugram--HR )
+6. HQ 27 ( https://www.wework.com/buildings/hq-27--gurugram--HR )
+7. WeWork 9A ( https://www.wework.com/buildings/wework-9a--gurugram--HR )
+8. Platina Tower ( https://www.wework.com/buildings/platina-tower--gurugram--HR )
+
+Following is the list of all centers buildings properties in Noida
+1. Berger Delhi One ( https://www.wework.com/buildings/berger-delhi-one--ncr-delhi )
+2. Galaxy Business Park ( https://www.wework.com/buildings/galaxy-business-park--ncr-delhi )
+3. KP Towers ( https://www.wework.com/buildings/kp-towers--ncr-delhi )
+
+Following is the list of all centers buildings properties in New Delhi
+1. Eldeco Center ( https://www.wework.com/buildings/eldeco-center--ncr-delhi )

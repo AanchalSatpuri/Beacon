@@ -1,0 +1,699 @@
+﻿PHONES
+How do I use WiFi calling?
+What is it?
+WiFi Calling allows you to make calls using your mobile phone over a WiFi data network. You don't need any special software or carrier plans and it is supported by all major carriers. It is essentially no different than making calls over the new LTE networks, and call recipients still see your mobile phone number. If you are in an area with poor cell coverage, but good WiFi, your phone will automatically take advantage of the WiFi network you are connected to to make the call. Calls made over WiFi still count towards your carrier minutes plan.
+Why should I use it?
+If you're in a location with poor cellular coverage and you frequently experience dropped calls or cannot initiate calls, we strongly encourage you to enable WiFi Calling. Some areas may experience weak signal strength, but if your mobile device is connected to the WeWork WiFi network, you can take advantage of the WiFi Calling feature. Enabling WiFi Calling should greatly improve the ability to make and receive calls in these areas when enabled.
+Does my phone support WiFi calling?
+If you bought your phone in the last year or two, it almost certainly supports WiFi Calling. Popular devices such as the Apple iPhone and Samsung Galaxy line of phones all support WiFi Calling. To be sure, follow the steps below to locate the setting for enabling WiFi Calling.
+How do I enable WiFi calling?
+Follow the instructions below for your device. Instructions are provided for iOS and Android only at this time, but if you are running a different mobile operating systems, this feature may still be supported.
+IOS
+Settings > Phone > Wi-Fi Calling
+  
+
+Note: Your carrier may ask to verify your primary address for Emergency 100 purposes. All 100 calls are routed over cellular, when possible, to properly route based on location. In the event that cellular is not available, the location provided will be used. An often overlooked benefit of WiFi Calling is the ability to make emergency calls when cell signal is poor or unavailable. 
+ANDROID
+Note: Depending on your Android device, these settings might be in a different location. 
+SAMSUNG GALAXY S
+Settings > Wireless & Networks > More... > Wi-Fi Calling
+  
+
+GOOGLE NEXUS
+Phone > Settings > Calls > Configure Wi-Fi Calling
+  
+
+ 
+
+
+How do I order a phone or phone line?
+Members with Private Offices can take advantage of our partnership offerings to order phones and phone lines.
+To order a phone, the primary member of your company will need to:
+Telephone services are not part of standard offering however Member can opt for telephone lines which come with additional cost.
+
+
+1. Members can reach out to the Building community team for charges associated with telephone lines. 
+2. Members can submit a support request here - https://members.wework.com/workplaceone/content2/wework-support for telephone line or telephone services. 
+
+
+How do I troubleshoot phone issues?
+In order to troubleshoot phone issues, please unplug your phone from the ethernet port, wait 30 seconds, and plug it back in. If this does not work and you have another phone in the office to test this port, please try again with this phone. If the problem persists, please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support and include as much relevant information as possible - i.e. phone provider, company name, office number.
+
+
+
+
+
+
+
+
+WEBSITE & APP (THE MEMBER NETWORK)
+SERVICES STORE
+What if a partner does not honour or stops honouring an offer?
+
+
+Please first reach out to the specific the partner and reference the offer with a link to their page in the store. If that does not work, please let WeWork know by submitting a support request and we’ll do our best to help!
+
+
+
+
+Can I redeem an offer if I currently use a product or service?
+
+
+Offer eligibility varies by partner and is always shown below the "Redeem Offer" button. Please check before attempting to redeem to ensure that you qualify for the offer.
+What do I do if the method to redeem does not work?
+Please double check that you have followed all instructions. If that is still the case, please submit a support request here - https://members.wework.com/workplaceone/content2/wework-support with WeWork so our team can address.
+
+
+
+
+ACCOUNT MANAGER 
+How do I add credit packages to my account? How do I remove them?
+
+
+Primary, Admin and Billing members of Private Offices can purchase credit packages for printing, meeting rooms and workspaces. These packages can be a cost-effective alternative if you often incur overages on your invoice.
+How do I add credit packages to my account?
+1. In Account Central, click Overview on the left-hand side under the “Membership” section.
+2. Select the location you want the credit package(s) added to in the top-right.
+3. Click Upgrade next to the type of package you want to upgrade under “Current Credit Usage”.
+4. Select the desired package in the sidebar and click Continue.
+5. Review the details and click Continue to confirm the purchase.
+ 
+ GIF showing how to upgrade credit package 
+
+
+
+Your updated credit package will begin at the start of the following month and will show on your invoice in the local currency of the office. Pricing varies by market.
+How do I remove credit packages from my account?
+1. In Account Central, click Overview on the left-hand side under the “Membership” section.
+2. Select the location you want the credit package(s) added to in the top-right.
+3. Click Upgrade next to the type of package you want to upgrade Under “Current Credit Usage”.
+4. Select Included in the sidebar to select the base credit plan and click Continue.
+5. Review the details and click Continue to confirm the purchase. 
+ Downgrade credit plan.gif 
+
+
+
+The original credit allotment will reinstate the following month and the package pricing removed from your invoice.
+
+
+The number of credits you have depends on your membership type. To view the credits included in your membership, select the “Included” option.
+Need additional support?
+See the Community team on-site or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+
+
+
+
+
+
+How do I change the Primary Member on my account?
+How do I change the Primary Member?
+To change the Primary Member on your account, the current Primary Member is to submit a support request here https://members.wework.com/workplaceone/content2/wework-support with the following details of the new Primary Member:
+* Name
+* Email
+* Phone number (including country code)
+*Or be looped in on a support request to provide approval.
+
+
+Once we have the details and approval, we will prepare an amendment to your Membership Agreement. This preparation can take a few days.
+
+
+The Membership Agreement amendment is sent to you (the Primary Member) on the open support request. Once you receive it, please follow these steps:
+ 
+1. Proofread the amendment and, if everything is correct, have the outgoing Primary Member sign it.
+2. Attach the signed amendment to the open support request for WeWork to countersign it.
+3. Once we receive the signed and countersigned amendment, we will process the change.
+
+
+It may take a few days before the new Primary Member has access to Account Central.
+Additional information
+* The Primary Member must be an active member with WeWork to be assigned to the role.
+* There can be only one Primary Member per account.
+   * You can have more than one Account Admin on the account.
+* You cannot be the Primary Member on more than one account.
+   * You can be an Account Admin on many accounts.
+The Primary Member has left my company. What do I do?
+If your Primary Member is no longer with your company, we will need approval and signature from the Authorized Signatory on your account. As a last resort, we will accept approval from a senior colleague in your company (CEO, Director, etc.).
+Need further assistance?
+Please see the on-site Community team or submit a support request.
+How do I add an Account Admin in Account Central?
+The Account Admin role allows a Primary Member to grant colleagues access to Account Central. Here, Account Admins can:
+* View previous, current and upcoming invoices and Service Retainer(s)
+* Access membership agreements
+* Add or remove team members
+* Update payment methods
+* Add new services to your account, such as IT services (eg. Private VLAN) or purchase additional booking or printing credits.
+
+
+Adding an Account Admin in Account Central
+1. In Account Central, on the left hand-side under “Employees” click Team and select the person who you want to grant an admin role to.
+2. Click Edit Role and select Admin Access.
+3. Click Save.
+ 
+The new Admin member will receive a notification email to confirm that they have been granted admin access.
+
+
+If you’re still having trouble after following these steps, submit a support request here - https://members.wework.com/workplaceone/content2/wework-support and a member of the Global Support team will assist you.
+
+
+I want to add a member to my account. How do I invite them?
+Primary Members and Account Admins can add members to their WeWork account(s) by sending them invites. For this, you will need access to Account Central and have spare capacity on your account.
+How do I invite someone?
+1. In Account Central, click Team in the left-hand menu under “Employees”.
+2. Click Invite member(s).
+3. Fill in the required fields for the new member:
+   1. Full name
+   2. Email address
+   3. Membership type
+   4. Telephone number (including the country code)
+   5. Keycard and Access details (these fields are optional, see below for more)
+4. Click invite.
+ pasted image 0.png 
+
+What happens from here?
+* The member will receive an invite email. Only that member can accept this.
+* Acceptance of the invite enables keycard assignment and access to the Member Network and WeWork app.
+* The pending invite will take up a seat on your account.
+* The invitation link will expire after 90 days.
+Assigning a keycard and access with the invite
+When inviting a new member, you can assign them a keycard and access to your office(s). For this, you will need an available keycard.
+1. Locate the left and right numbers (hotstamps) on the keycard and enter these under the “Keycard” section.
+2. Select the building(s) and offices(s) under the “Building & office access” that you want the member to have and click Save after adding each. If they require access to all the offices, use the “Select all buildings and offices” toggle.
+ pasted image 0 (1).png 
+
+ 
+* The keycard will activate when the member accepts the invitation and goes through the Netverify process - either manually in-app or in person with the on-site Community team.
+* If you have sent the invitation and want to add the keycard information, the member will need to accept the invitation first. Details on editing keycard and access here.
+View, resend or cancel invitations
+Once invites are sent, you can view, resend or cancel invitations.
+1. In Account Central, click Team on the left-hand side under “Employees”.
+2. Pending invites are under the “Invited” section.
+3. Click the three dots to the right of a person to either resend or cancel the invite.
+ pasted image 0 (2).png 
+
+Need further assistance?
+Please see the Community team on-site or submit a support request. Help with keycards requires in-person checks by the Community team.
+
+
+Updating keycard information and access in Account Central
+Primary and Admin members who have access to Account Central can assign new keycards and update access for members on their account(s).
+How do I update keycards and access?
+1. In Account Central, click Team under “Employees”.
+2. Select the member and click Edit access on the right-hand side under “Building & office access”.
+3. Edit the necessary information:
+   1. Updating keycards: input the left and right numbers (hotstamps) found on the keycard.
+   2. Updating access: select the building and office (if applicable) and click Save for each one.
+4. Click Save to confirm the updates.
+
+
+ Update keycard and access.gif 
+
+
+
+ 
+* An available keycard is required to assign it to someone.
+* Members receiving their first keycard must go through the Netverify process to activate their access (either manually in-app or in person with the on-site Community team)
+* Members receiving a replacement keycard from the Community team may result in a fee on your account. More on Keycard replacement fees for your country here.
+Need additional support?
+Please see the Community team on-site or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support. Help with keycards requires in-person checks by the Community team.
+
+
+How do I manage multiple accounts in Account Central?
+
+
+If you are assigned a Billing Contact or an Account Admin role in more than one WeWork account, you will be able to switch accounts through Account Central.
+* There can only be one Primary Member per account.
+* There can be multiple Billing Contacts or Account Admins.
+How do I view multiple accounts in Account Central?
+
+
+1. In the top-left of Account Central, click your Company name.
+ 
+2. Select the account you wish to access.
+
+
+ Account Central selecting multiple accounts 
+
+Why am I not able to select another company account? 
+Inability to access Account Central or select another account within it means you do not have the appropriate role assigned for that account.
+How do I request Account Central access to another account?
+Please reach out to the account’s Primary Member or Account Admin to be assigned as an Account Admin or Billing Contact.
+Need additional support?
+Please see the on-site Community team or submit a support request.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMAILS & NOTIFICATIONS
+How do I opt-out or opt-in to notifications?
+Notifications that you can change:
+* Building and Community Management updates
+   * Including important building information and current events.
+* Booking reminders and confirmations
+   * Receive a message when a room or workspace booking is about to begin.
+   * You cannot opt-out of booking confirmations sent to your email.
+
+
+Changing your notifications may lead to you missing out on updates from the Community team.
+Via the WeWork app
+1. In the WeWork app, tap the Account icon > Settings.
+ Profile-Settings.jpg 
+
+ 
+2. Tap Notifications.
+ Settings-Notifications 
+
+
+
+3. Use the checkboxes under the “Notifications preferences” section to choose your preferences and tap Save.
+ Notifications page of app 
+
+ 
+Via the member web
+1. In the member web, click your avatar in the top-right and select Settings.
+ Avatar list 
+
+
+
+2. Use the checkboxes under the “Notifications preferences” section to choose your preferences.
+There is an option to unsubscribe from all notifications.
+ member web settings page 
+
+
+
+3. Click Save.
+Marketing and transactional emails
+To opt-out of marketing and transactional emails, send an email privacy@wework.com stating that you no longer wish to receive email communications from WeWork.
+Need further support?
+Please see the Community team on-site or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+WEWORK COMMUNITY GUIDELINES
+What are the WeWork Community Guidelines?
+The WeWork Community Guidelines can be found here. These guidelines are meant to help our Members get the most out of their WeWork experience. We detail the “do’s and do not’s” of the Member Network to help our Members feel safe and supported. 
+
+
+
+
+
+
+
+
+USING THE MEMBER NETWORK
+
+
+How do I reset my password?
+Resetting your password on the WeWork app:
+1. In the WeWork app, tap Log in.
+ wework app - log in 
+
+
+
+2. Tap Forgot password?
+ wework app - forgot password 
+
+
+
+3. Enter your email address and tap Send email.
+ wework app - reset password 
+
+
+
+4. Open the Reset your password email and follow the prompts.
+Resetting your password on the member web:
+1. In the member web, click Forgot password?
+ member web - log in 
+
+
+
+2. Enter your email and click Send email.
+ member web - reset password 
+
+
+
+3. Open the Reset your password email and follow the prompts.
+Require further help?
+Please see the on-site Community team or reach out on our contact us page.
+
+
+How do I book a meeting room? What happens once I make a reservation?
+Booking via the WeWork app:
+1. In the WeWork App, tap the Search icon > Rooms.
+ WeWork app - Rooms feature 
+
+
+
+2. Use the filters to select the date, location, size, and amenities.
+ WeWork app - basic filters 
+
+
+
+You can also tap the filter icon to select your filters and tap Show # Rooms.
+To clear your filters, tap Clear in the top-right.
+ WeWork app - advanced filters 
+
+ 
+3. Scroll through the available rooms at the bottom.
+Or select a location on the map to see the rooms available there.
+ WeWork app - Room search results 
+
+
+
+4. Select the room you want to book. Review the details and tap Book for # credits.
+On-demand users are shown a monetary charge.
+ WeWork App - Book meeting room review page 
+
+
+
+5. A confirmation page shows you options to register a guest and add the booking to your calendar. Click Done.
+ WeWork app - Meeting room booking confirmation 
+
+Booking via the member web
+1. In the member web, click Book space and select Rooms.
+ member web - Book space - Room 
+
+ 
+2. Use the filters to select the date, location, size, and amenities.
+ Book a room filters 
+
+ 
+3. Find a room.
+The results will show available rooms at that location and also those nearby.
+ Room results 
+
+ Room results nearby locations 
+
+
+
+4. Choose the time you want it for and click Book for # Hours.
+ Book meeting room 
+
+Important information:
+* Once the booking is confirmed, you will receive an email confirmation of your reservation along with a visit checklist to help you on the day.
+* You can add the meeting room booking to your calendar and view and manage upcoming bookings in the member web or WeWork app.
+* Amenities showed when booking.
+* Availability may vary by location and is shown when booking.
+* The total credit amount for the meeting room booking depends on the location and the size of the room and is shown before you confirm the booking.
+   * On-demand members are shown a monetary charge.
+* The person who books the meeting room must attend the booking as it is their card that is activated. They will be responsible for guests. The number of guests is limited to room capacity.
+* Your keycard is granted access to the building 30 minutes before the booking.
+* You can cancel up to one hour before the start of the reservation.
+   * On-demand users must cancel 24 hours before the start time of their reservation. Or within 5 minutes of booking on-the-day reservations.
+* If you are booking a meeting room on a weekend or national holiday, the Community team may not be in the building and have reduced amenities. Guests are required to sign in using the touch screens. You are to collect them when they arrive.
+
+
+What is WeWork's guest policy?
+As a WeWork member*, you are welcome to invite guests into our buildings.
+
+
+
+
+Pre-register your guests before arrival to optimize their experience. Guests will need to sign in at the front desk upon arrival. WeWork uses its proprietary system to document all guests entering a WeWork-operated location. Please make sure the guest brings their photo ID to check-in.
+
+
+
+
+As a member, you are responsible for all actions conducted by your guests. You are required to be present in the building when your guests visit. Guests are not allowed in the building if the member is not there to collect them.
+
+
+
+
+*Please note if you have a  All Access Plus (including Global Access), or On-demand Membership, it is required you have a meeting room booked to host guests at any WeWork location. You can book meeting rooms on the member web or the WeWork app.
+
+
+
+
+If you have any questions or require assistance, please see the on-site Community team or submit a support request.
+ 
+I am facing issues with the member web, Account Central, or other WeWork portals. How do I troubleshoot this?
+Are you facing difficulties with the member web, Account Central, or other WeWork India portals or pages? You can try troubleshooting the issue first, and check if  your internet browser is causing this issue.
+
+
+We recommend using Google Chrome for WeWork India portals and pages. 
+Try what you are doing in a private browser window
+Google Chrome
+1. In Google Chrome, at the top-right, click on More (three dots) and select New Incognito Window.
+ Google Chrome - open private browser 
+
+
+
+2. Try performing the task in the incognito window.
+3. If this resolves your issue, you will need to clear your cookies and cache (see below).
+Safari
+1. In Safari, click on File and select New Private Window.
+ Safari - Open Private Window 
+
+
+
+2. Try performing the task in the private window.
+3. If this resolves your issue, you will need to clear your cookies and cache (see below).
+Microsoft Edge
+1. In Microsoft Edge, click on Settings and more, and select New InPrivate window.
+2. Try performing the task in the InPrivate window.
+3. If this resolves your issue, you will need to clear your cookies and cache (see below).
+Clearing cache and cookies
+Google Chrome
+1. In Google Chrome, clickon More (three dots) and select History > History.
+ Google Chrome - Accessing Browsing History 
+
+ 
+ 
+2. Click on Clear browsing data.
+ Google Chrome - Clear browsing data 
+
+
+
+3. Select ‘Cookies and other sites’ and ‘Cached images and files’ tick box, and click on Clear data.
+ Google Chrome - Clear data 
+
+Safari
+1. In Safari, click on Safari and select Preferences.
+ Safari - File -Preferences 
+
+
+
+2. Click on Privacy > Manage Website Data.
+ Safari - Privacy - Manage website data 
+
+
+
+3. Click on Remove All > Remove Now.
+ Safari - Remove all 
+
+Microsoft Edge
+1. In Microsoft Edge, click on the menu icon, and select Settings > Privacy & services.
+2. Under Clear browsing data, click on Choose what to clear.
+3. Select ’Cached images and files’ and ’Cookies and other site data’ check box and click on Clear.
+Require further assistance?
+Please see the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+How do I view my company’s remaining printing and booking credits?
+Want to view your remaining printing or booking credits for the current month? You can do this via the WeWork app or member web.
+
+
+On-demand users are charged on a pay-per-use basis when booking and do not have printing or booking credits.
+Members who have access to Account Central
+You can view the remaining monthly credits in your account, in the “Overview” section of Account Central. The types of members who have access to Account Central are:
+* Primary Members
+* Billing Contacts
+* Account Admins
+Members who do not have access to Account Central
+
+
+Viewing your remaining printing credits
+* * You can view your print usage under Membership found in the “Account” section of the WeWork app.
+* Access to Account Central is restricted.
+ 
+Viewing your remaining booking credits
+* In the member web
+   * You can view your company’s remaining booking credits before confirming a reservation for a meeting room or workspace.
+* In the WeWork app
+   * You can view your remaining booking credits under ’Membership’, found in the Account section of the app.
+How do printing and booking credits work?
+* Credit charges for printing occur when you release the print job from the printer.
+* Credit charges for meeting room and workspace bookings occur at the start of the reservation.
+* Deductions apply to the monthly credit allotment that arises from the reservation or printing.
+* Booking and printing credit allotments restart at the first of the month and do not rollover.
+* You will be charged overages when you exceed your monthly printing or booking credits. These may vary depending on the currency.
+Require additional support?
+Please visit the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+
+
+
+
+What can I do on the member web and WeWork app?
+The member web and the WeWork app is a network for our members.
+
+
+
+
+Here are some features of the member web.
+* Book workspace or meeting rooms at any WeWork location.
+* Get updates from the Community team about events or building alerts.
+* Manage your account and view invoices via Account Central.
+* Register your guests to give them the best, most professional welcome to your office.
+* View and RSVP to exclusive WeWork events (member web only).
+* Access exclusive member benefits like discounts on the Services Store.
+* Get support: if you ever have a question, issue, or concern, you can submit a support request here - https://members.wework.com/workplaceone/content2/wework-support
+How do I register my keycard?
+Have a WeWork keycard that you need to register? You can do this on the WeWork app.
+
+
+If you have just joined as a member of WeWork:
+* Make sure you have set up your account and set a password via the Welcome to WeWork email sent to you.
+* Download the WeWork app.
+* A Government-issued ID is needed to register your keycard.
+* For the best in-app experience, make sure the app is up-to-date.
+How do I register my keycard?
+Before you start, you will need a WeWork keycard. You can get this from the Community team at the Community Bar, or your Primary Member may have one.
+
+
+1. In the WeWork app, tap on the Account icon > Settings.
+ WeWork app - Account - Settings 
+
+
+
+2. Tap on Keycard.
+ WeWork App - Settings - Keycard 
+
+
+
+3. Follow the prompts to input your keycard information and submit your ID.
+
+
+
+
+Once you submit your verification request, you will receive a confirmation email.
+
+
+If your keycard verification is unsuccessful, retry the process. If unsuccessful for a second time, please visit the on-site Community team. WeWork cannot register keycards remotely as ID verification requires an in-person check.
+Have questions?
+Please visit the on-site Community team or submit a support request here - https://members.wework.com/workplaceone/content2/wework-support

@@ -1,0 +1,94 @@
+﻿General
+* What is WeWork On-demand?
+WeWork On-demand allows you to book day passes at over 40 coworking spaces, paying only for what you use. With flexible access, you can reserve a workspace with a day pass or bundle, available Monday to Friday from 9 AM to 8 PM and Saturdays from 10 AM to 4 PM. Additionally, you can book conference rooms by the hour at any of our 40+ locations.
+* How do I sign up for WeWork On-demand?
+To book a day pass: 
+1. Visit wework.co.in/workspaces/on-demand
+2. Choose your preferred location
+3. Click "Buy a Day Pass"
+4. Select your date(s)
+5. Complete the checkout process
+You'll receive a confirmation email once your booking is complete.
+
+
+* Where is WeWork On-demand available?
+WeWork On-demand is available at over 40 locations across 8 cities: Bengaluru, Mumbai, Delhi, Gurugram, Hyderabad, Noida, Pune, and Chennai.
+* How do I access the On-demand workspace?
+When you arrive at the building, check in with a member of our Community team to get set up with a keycard. For all future reservations, remember to bring your keycard for smooth access into the building.
+* What amenities are included with WeWork On-demand?
+With WeWork On-demand, you can enjoy complimentary amenities and various add-ons. These amenities include unlimited access to high-speed Wi-Fi and coffee, along with dedicated support from our community team. Additionally, you have the option to add on services like parking and access to conference rooms.
+* Can I bring guests as an On-demand member?
+Guests are allowed only if you’ve booked a conference room, with capacity limited to the room's designated seating.
+* How can I get more privacy as an On-demand member?
+To conduct meetings with privacy, you have access to:
+1) Phone booths: Enclosed, single-member phone booths are available free of charge, subject to availability.
+2) Conference rooms: Book a conference room with your day pass or on-site for an additional cost, also subject to availability.
+
+
+* Are pets allowed for On-demand members?
+Most of our buildings are pet-friendly. Check the amenities of your selected building on our On-demand website to confirm its pet-friendly status before booking.
+New Developments
+* Why is the On-demand checkout transitioning to myHQ?
+We have partnered with myHQ as our technology provider to manage our entire On-demand business. Under this partnership, WeWork day passes can be purchased through both the WeWork website and the myHQ app. In both cases, the sales and booking processes will be handled by myHQ. Rest assured, your transaction experience will remain seamless and secure.
+
+   * Does this partnership of WeWork and myHQ affect my On-demand booking?
+No, all your existing and future WeWork bookings, memberships, and orders will not be affected in any way.
+   * Who will send the invoices for On-demand purchases?
+The payments are processed by myHQ and hence you will receive your confirmation and invoice from them.
+   * Who should I contact for my On-demand booking inquiries?
+For any inquiries about your bookings, payments, or orders, please reach out to the dedicated WeWork support team at myHQ by emailing them at contactwwod@myhq.in
+   * Why am I receiving WeWork On-demand bookings via myHQ?
+We have partnered with myHQ as our technology provider to manage our entire On-demand business. Through this partnership, WeWork day passes can be purchased via both the WeWork website and the myHQ app, with the sales and booking processes handled by myHQ. Rest assured, your transaction experience will remain seamless and secure.
+
+   * Is my WeWork On-demand payment information safe with myHQ?
+Absolutely, your On-demand payment information is safe because myHQ utilises secure payment practices:
+      1. Encryption: Uses industry-standard SSL technology to encrypt data transmission.
+      2. Payment gateway: Partners with Razorpay, a trusted and secure gateway.
+      3. Data handling: Follows strict protocols to not store your card data on their servers.
+      4. Security audits: Conducts regular audits to identify and address vulnerabilities.
+      5. User authentication: May implement multi-factor authentication for additional security.
+      6. Compliance: Adheres to data protection regulations.
+
+
+      * Can I trust the third-party payment vendor for my WeWork On-demand purchases?
+myHQ has partnered with Razorpay, a trusted and reputable payment gateway that complies with stringent security standards. This is the same gateway previously used by WeWork. Both myHQ and Razorpay do not store your card data on their servers. All data is encrypted according to the Payment Card Industry Data Security Standard (PCIDSS) during payment processing.
+Your transaction data is used only as long as necessary to complete your purchase. Once the transaction is complete, this information is not retained. Our payment gateway adheres to PCIDSS standards, as managed by the PCI Security Standards Council, which includes major brands like Visa, MasterCard, American Express, and Discover.
+These PCIDSS requirements ensure the secure handling of credit card information by our platform and its service providers. For more information, you can read Razorpay's terms and conditions at razorpay.com.
+      * What payment methods does WeWork On-demand accept?
+As an On-demand user, you can pay for your workspace or meeting room bookings with a valid debit or credit card. Accepted cards include Visa, Mastercard, RuPay, and Amex. All bookings are charged directly to your card; cash, cheques, or any physical forms of payment are not accepted.
+      * Can I pay in a different currency for WeWork On-demand services?
+If you are using an international payment method enabled on Razorpay, you can pay in a non-local currency.
+      * How do I modify or cancel my WeWork On-demand booking?
+Once you purchase a day pass, it cannot be refunded or cancelled. However, you can modify your booking via the rescheduling option by 12 AM on the day of booking. To reschedule your day pass, follow these steps:
+      1. Log in to WeWork On-demand.
+      2. Click on the "Booking" tab under "My Account".
+      3. Select the booking you wish to reschedule, click the reschedule button, choose your new dates, and click confirm.
+      4. You will receive a confirmation email with your new booking date.
+Please note that conference room bookings cannot be cancelled. For any rescheduling requests regarding a conference room, contact us at contactwwod@myhq.in.
+
+      * What are the fees for printing and keycard replacement for WeWork On-demand members?
+Below is the pricing for printing and keycard replacement for WeWork On-demand members
+      * Black and white printing: ₹4.00 per sheet
+      * Colour printing: ₹20.00 per sheet
+      * Key replacement fee: ₹500.00 
+
+         * Who do I contact for On-demand related support?
+For queries related to On-demand, day passes, conference rooms, bundles, loyalty passes, or spacepoints, please write to contactwwod@myhq.in.
+
+
+
+
+
+
+List of WeWork product abbreviations
+Private Office -  PO, WeWork PO, WeWork Private Office, po
+All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus
+All Access Pay Per Use -, aappu, all access pay per use, aa pay per use
+Virtual Office - VO, WeWork VO, vo
+WeWork Labs - WW Labs, WWL, wwl, wwlabs
+On-demand - OD, WeWork OD, od
+On-demand meeting rooms - conference rooms, od meeting rooms
+Managed Offices - managed offices, mo, MO 
+WeWork Business Solutions - WBS, wework business solutions
+Advertise at WeWork - advertise at wework, advertise at ww,
+Studios - WeWork Studios, wwstudios, wws

@@ -1,0 +1,76 @@
+1. Day Pass Operational Hours
+Question Asked: Can I book a day pass on Sunday?
+Response:
+Our locations are operational from 9 AM to 8 PM Monday to Friday and 10 AM to 4 PM on Saturdays. We are not operational on Sundays. Day passes only allow access to our spaces during these hours.
+
+2. Lost and Found Assistance
+Question Asked: I left my laptop charger in Enam Sambhav while I was there on a day pass. How do I contact the team?
+Response:
+To retrieve your item, please contact the community team of the building for assistance
+3. Food and Beverage Clarification
+Question Asked: Is lunch included with a day pass?
+Response:
+With a day pass (on-demand), you receive access to unlimited coffee, high-speed Wi-Fi, a common shared workspace, phone booths, and a games room to unwind. However, food and beverage services (lunch, breakfast, and meals)  beyond coffee are not included and may be available at an additional cost at the building
+New Qualification Questions for Users
+Question to Ask: "Could you please confirm your membership type? Are you an On Demand, Private Office, All Access, or Virtual Office member?"
+Integration with Existing Responses
+If the user's membership is not clear in the original query:
+Chatbot: Could you please confirm your membership type? Are you an On Demand, Private Office, All Access, or Virtual Office member?
+User Response: On Demand.
+Chatbot: Proceeds with the appropriate response tailored to On Demand users.
+
+If the membership type is clear in the question (e.g., "I’m on a day pass"):
+Chatbot: Directly provides the relevant response without asking for membership clarification.
+
+Example Scenarios
+Scenario 1: Membership Not Clear
+User Question: How do I extend my workspace access beyond 4 PM?
+Chatbot: Could you please confirm your membership type? Are you an On Demand, Private Office, All Access, or Virtual Office member?
+User Response: On Demand.
+Chatbot Response: Day passes allow access only till 8 PM on weekdays and 4 PM on Saturdays. Extended hours are not available for day pass holders.
+Scenario 2: Membership Evident in Question
+User Question: I have an All Access pass; can I access locations on Sundays?
+Chatbot Response: Our locations are operational from 9 AM to 8 PM Monday to Friday and 10 AM to 4 PM on Saturdays. We are not operational on Sundays.
+
+1. Storage Availability
+Question Asked: Can I store things?
+Response:
+Currently, storage is not available at any of our locations. 
+2. Sign-Up Process
+Question Asked: How do I sign up?
+Response:
+To sign up for a membership, please visit our website and drop a lead with us
+www.wework.co.in.
+Once you’ve submitted your details, our team will reach out to guide you through the next steps.If you have any further questions, feel free to ask!
+
+3. Requesting Contact
+Question Asked: Can someone reach out to me?
+Response:
+Absolutely! Please visit our website and drop a lead with us,. Fill out your details, and our team will reach out to assist you further.
+You can also call us at  1800 123 777 888 for information related to our offerings. We are available from 9 AM to 6 PM on weekdays.
+
+4. Discount and Promotions 
+Question: Are there any active discounts or promotions?
+Response: For details on promotions and discounts, please drop a lead with us,
+
+
+
+
+If any user asks to raise ticket for support, we need to ask their membership type first
+If it’s an On demand or Virtual office member- they need to reach out to contactwwod@myhq.in 
+If it’s a Private office or All access member- they can reach out to WeWork Support
+
+Conference room can also be called Meeting Room, Cabin, Meeting Space, Boardroom, War Room
+
+If user asks about 2/4/[number] seater conference room or any synonym of the same, share details about booking on demand conference rooms
+
+Partnership with Wework
+Question 1: I want to rent my own space, I have a commercial space available for rent. Are you open to leasing it for your coworking operations?,
+Question 2 : Do you consider partnerships for new coworking locations?
+Question 3: I have a property available, I own a space suitable for a coworking setup. Would you be interested in renting it? 
+Question 4: I have office space available. Are you looking to expand to new locations? 
+Do you lease properties for your coworking spaces? 
+
+Answer for the above questions: Thank you for your interest! For any queries related to partnership with Wework. Please visit our brokers page https://wework.co.in/brokers/,  and drop a lead with us.  We will reach out to you 
+
+

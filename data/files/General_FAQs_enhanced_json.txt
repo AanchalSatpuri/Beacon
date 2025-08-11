@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What workspace solutions does WeWork offer?",
+    "answer": "WeWork provides a range of solutions for businesses of all sizes, offering flexibility and scalability: * OFFICE SPACES WeWork Private Offices: Fully-equipped, ready-to-move-in or customisable private office spaces for teams of every scale, industry, and stage. WeWork Managed Offices: Office spaces sourced, designed, built and operated for your business. * COWORKING SPACES  WeWork All Access Plus: A monthly coworking membership that gives you access to 450+ inspiring locations, globally. WeWork All Access Pay-Per-Use: A monthly postpaid membership for coworking spaces with access to 450+ locations globally for your hybrid teams. WeWork On-demand day passes: Book day passes at 40+ coworking spaces on-the-go and pay-per-use. WeWork On-demand meeting rooms: Book fully-equipped meeting rooms on-the-go and pay by the hour. WeWork Labs: Investments, acceleration and subsidised workspaces for startups. * ADDITIONAL SOLUTIONS  WeWork Workplace: One platform for workspace management and employee experience. Virtual Office by WeWork: Give your business a premium address for GST and company registration. Events and shoots: Host your shoots, pop-ups, and events at WeWork. Studios: Dedicated studio space to record podcasts or shoot with green screens. Advertise at WeWork: Advertise your brand in our 60 locations and reach a diverse audience. WeWork Business Solutions: A full suite of business services across HR, IT, admin, finance, and more. For membership changes, submit a support request and our team will assist you. You can raise a ticket here: https://members.wework.com/workplaceone/content2/wework-support",
+    "user_type": "All Users",
+    "tags": ["workspace", "solutions", "office spaces", "coworking", "product offerings"]
+  },
+  {
+    "question": "When can I access a WeWork location? What are the open hours?",
+    "answer": "If you have a Private Office at a WeWork location, you enjoy 24/7 access to that space. To access WeWork locations, other members need to book a meeting room or workspace in advance. The Community team is on-site at each location on weekdays from 9 AM to 6 PM (apart from holidays).",
+    "user_type": "All Members",
+    "tags": ["access", "hours", "private office", "24/7", "community team"]
+  },
+  {
+    "question": "What is a service retainer?",
+    "answer": "The Service Retainer is a refundable fee paid before you move in, functioning similarly to a security deposit. This retainer will not be applied to your monthly membership fee until the end of your membership term; at that point, any outstanding dues will be adjusted, and the remaining amount will be refunded to you. Funds will be returned to members 60-90 days after the move-out date upon termination of their agreement.",
+    "user_type": "All Members",
+    "tags": ["service retainer", "security deposit", "refund", "membership fee"]
+  },
+  {
+    "question": "What is WeWork's policy on working from another location?",
+    "answer": "Members can reserve meeting rooms or workspaces at other WeWork locations via the Member Network app. Costs are calculated in credits based on membership type, and a confirmation email will be sent upon booking, providing details on the reservation and pricing. Each membership includes a set number of credits, with any usage beyond this amount incurring an 'Overage' charge. WeWork All Access Plus All Access Plus members can book a desk at any WeWork location worldwide without deducting credits for accessing shared spaces. However, they must use their credits when booking conference rooms. Dedicated space Members with dedicated spaces, such as Private Offices, can also book a 'Desk' or 'Room' to access shared spaces or conference rooms through the Member Network app. These bookings will require the use of credits. WeWork On-demand On-demand users operate on a pay-per-use basis, allowing them to book day passes or conference rooms at any WeWork location. Pricing varies by location. Additionally, day pass bundles are only valid for the specific location for which they were purchased.",
+    "user_type": "All Members",
+    "tags": ["other locations", "member network app", "credits", "booking"]
+  },
+  {
+    "question": "How do I book a space at another WeWork location?",
+    "answer": "You can book a workspace or meeting room using the Member Network app. For more details, refer to the articles \"How to book a workspace\" or \"How to book a meeting room\".",
+    "user_type": "All Members",
+    "tags": ["booking", "workspace", "meeting room", "member network app"]
+  },
+  {
+    "question": "What is WeWork's keycard access policy?",
+    "answer": "Keycard access will be automatically activated once a booking is made. Members can access the reserved space 30 minutes before the reservation begins, and access will remain active for 30 minutes after the reservation ends. Please note the following details regarding access: 1. The earliest time for accessing a non-home WeWork location is 9:00 AM. 2. The latest access time is 5:59 PM. 3. Outside of the hours of 9:00 AM - 6:00 PM on weekdays, as well as during all weekends and some national holidays, there will be no Community team on-site and amenities will be reduced.",
+    "user_type": "All Members",
+    "tags": ["keycard", "access", "booking", "schedule", "hours"]
+  },
+  {
+    "question": "When can I start booking meeting rooms and workspaces?",
+    "answer": "You can start booking meeting rooms and workspaces from your membership start date, which is listed in your Membership Agreement*. This is also when you can obtain your keycard for accessing WeWork locations**. *All-Access members can book meeting rooms and workspaces immediately. **Keycards are available during operational hours, and you may need to book a meeting room or workspace to access a WeWork location.",
+    "user_type": "All Members",
+    "tags": ["booking", "meeting rooms", "workspaces", "membership start", "keycard"]
+  },
+  {
+    "question": "Can I move to another WeWork location?",
+    "answer": "Yes, you can transfer your membership to another WeWork location, which is one of the benefits of being a member. Please consult your on-site Community team for availability and the steps required to make the transfer. Please note that moving may affect your monthly membership fee for Private Offices and is subject to availability.",
+    "user_type": "All Members",
+    "tags": ["relocation", "transfer", "membership", "location change"]
+  },
+  {
+    "question": "What types of businesses does WeWork support?",
+    "answer": "Whether you are a team of one, a growing startup, or a Fortune 500 company - we have flexible solutions for all. From private workspaces, to coworking memberships and a space management software, WeWork gives you a full range of flexible solutions to make your real estate strategy work for you.Find the space that is right for you. Visit the workspace solutions page on our website for more details.",
+    "user_type": "Prospective Members",
+    "tags": ["business types", "flexibility", "startups", "enterprise", "solutions"]
+  },
+  {
+    "question": "Does WeWork charge for utilities?",
+    "answer": "No, WeWork does not charge members for utilities during regular WeWork business hours. Utilities such as water, air conditioning, heat, electricity, and internet are included in your monthly membership fee.",
+    "user_type": "All Members",
+    "tags": ["utilities", "charges", "monthly fee", "water", "electricity", "internet"]
+  },
+  {
+    "question": "What are WeWork member benefits?",
+    "answer": "As a WeWork member, you'll enjoy a variety of benefits designed to support your business and enhance your work-life experience. Whether you're setting up a business or expanding your team, our inspiring workspaces foster creativity and boost productivity, providing flexible solutions that meet the needs of everyone from freelancers to Fortune 500 companies. Membership benefits include discounted rates on numerous business and lifestyle services, such as healthcare, banking, fitness, and more. To view the full list of benefits and find offers tailored to your needs, visit our Services Store here",
+    "user_type": "All Members",
+    "tags": ["benefits", "discounts", "services", "perks", "member advantages"]
+  },
+  {
+    "question": "What is WeWork's policy on pets?",
+    "answer": "WeWork loves our members' pets! However, please note that some buildings do not permit animals due to building management policies. If you're unsure whether your building allows pets, submit a support request to confirm. Key points to remember: 1. Members must provide pet vaccination records or service dog paperwork when bringing a pet into our spaces. Submit these documents via a support ticket; our Community team will keep them on file. 2. Pets must be housebroken, remain in private offices, and must not roam unsupervised. In common areas, pets must be leashed. 3. If a pet is disruptive, noisy, or destructive, WeWork staff may ask the member to remove the pet from the space.",
+    "user_type": "All Members",
+    "tags": ["pets", "pet policy", "vaccination", "leashed", "building policy"]
+  },
+  {
+    "question": "What is WeWork's cancellation policy?",
+    "answer": "WeWork's cancellation policy allows All Access Plus members to cancel their membership at any time, effective at the end of the current month (if they are not under a commitment term). For instance, if a member cancels on March 17th, their membership will remain active until March 31st. For all other WeWork memberships, members should consult the cancellation provisions and notice requirements outlined in their Membership Agreement for specific details.",
+    "user_type": "All Members",
+    "tags": ["cancellation", "policy", "notice period", "membership agreement"]
+  },
+  {
+    "question": "What is the setup fee at WeWork?",
+    "answer": "The setup fee at WeWork is ₹5,000 per desk (amounts may vary by region). This fee is charged to cover expenses related to moving a member into a new office, including deep cleaning, maintenance checks, supplying keys and keycards, and backend support from the team. This fee applies to all office transfers and cannot be waived.",
+    "user_type": "All Members",
+    "tags": ["setup fee", "desk fee", "move-in costs", "office transfer"]
+  },
+  {
+    "question": "Is overnight parking allowed at WeWork locations?",
+    "answer": "No, overnight parking is not allowed at WeWork locations.",
+    "user_type": "All Members",
+    "tags": ["parking", "overnight", "policy"]
+  },
+  {
+    "question": "Does WeWork allow plants in offices?",
+    "answer": "WeWork maintains live plants in common areas for members to enjoy, with maintenance handled by our team and botanical partners. If you're interested in having plants in your office, you can explore our buy-up catalogue for options.",
+    "user_type": "All Members",
+    "tags": ["plants", "office decor", "common areas", "buy-up catalogue"]
+  },
+  {
+    "question": "Are WeWork memberships month-to-month?",
+    "answer": "Yes, WeWork offers flexible month-to-month memberships, providing the stability of an office with the flexibility to grow your business. Longer-term commitments are also available, for more information, get in touch with us at https://wework.co.in/lead-home/",
+    "user_type": "Prospective Members",
+    "tags": ["month-to-month", "flexibility", "commitment", "terms"]
+  },
+  {
+    "question": "What are the standard hours to collect mail and packages?",
+    "answer": "Mail and packages can be collected from Monday through Friday, from 9 AM to 6 PM, excluding holidays.",
+    "user_type": "All Members",
+    "tags": ["mail", "packages", "collection hours", "business hours"]
+  },
+  {
+    "question": "Are food and beverages available at WeWork locations?",
+    "answer": "Yes, vending machines are available in all locations, and some locations also offer food and beverage provisions. Additionally, food deliveries are permitted.",
+    "user_type": "All Members",
+    "tags": ["food", "beverages", "vending machines", "deliveries"]
+  },
+  {
+    "question": "Are there shower facilities at WeWork locations?",
+    "answer": "Shower facilities, along with gyms and pools, are available at some WeWork locations. Availability varies by building, so please reach out to our on-ground teams for specific details.",
+    "user_type": "All Members",
+    "tags": ["shower", "gym", "pool", "facilities"]
+  },
+  {
+    "question": "How can I find events hosted at WeWork locations?",
+    "answer": "Please check upcoming events in the WeWork app or weekly newsletters to stay updated.",
+    "user_type": "All Members",
+    "tags": ["events", "app", "newsletters", "updates"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus All Access Pay Per Use -, aappu, all access pay per use, aa pay per use Virtual Office - VO, WeWork VO, vo WeWork Labs - WW Labs, WWL, wwl, wwlabs On-demand - OD, WeWork OD, od On-demand meeting rooms - conference rooms, od meeting rooms Managed Offices - managed offices, mo, MO WeWork Business Solutions - WBS, wework business solutions Advertise at WeWork - advertise at wework, advertise at ww, Studios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology"]
+  }
+] 

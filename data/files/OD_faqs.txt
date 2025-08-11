@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Why is the OD checkout page transitioning to the myHQ page?",
+    "answer": "We have partnered with myHQ as our technology partner to manage our entire on-demand business. WW day passes can be purchased both through the WW website and the myHQ app. In both cases, the sales and the booking process will be conducted by myHQ. The transaction experience will continue to be seamless and secure.",
+    "user_type": "On demand members",
+    "tags": ["checkout", "myHQ", "OD page transition"]
+  },
+  {
+    "question": "Is my On-demand booking affected in any manner?",
+    "answer": "All your existing and future WeWork bookings, memberships and orders do not get affected in any manner.",
+    "user_type": "On demand members",
+    "tags": ["on-demand", "bookings", "effect"]
+  },
+  {
+    "question": "Will I get my invoices through WeWork or through myHQ?",
+    "answer": "Since the payment is being processed by myHQ, you will receive the confirmation and invoice from myHQ itself.",
+    "user_type": "On demand members",
+    "tags": ["invoices", "myHQ", "payments"]
+  },
+  {
+    "question": "Who should I reach out to in case of any questions regarding my booking?",
+    "answer": "You can reach out to the dedicated WeWork specific myHQ support team at contactwwod@myhq.in.",
+    "user_type": "On demand members",
+    "tags": ["support", "booking", "help"]
+  },
+  {
+    "question": "Why am I receiving the WeWork On-demand bookings via myHQ?",
+    "answer": "We have partnered with myHQ as our technology partner. In both WW website and the myHQ app, bookings will be processed by myHQ with a seamless and secure experience.",
+    "user_type": "On demand members",
+    "tags": ["myHQ", "bookings", "on-demand"]
+  },
+  {
+    "question": "Is my payment information safe when I'm redirected to the myHQ site?",
+    "answer": "Yes. myHQ uses the same secure payment gateway as WeWork. Your payment information is handled with care and encrypted via SSL and PCI DSS standards. Your data is not stored by myHQ. Security audits and multi-factor authentication add further safety.",
+    "user_type": "On demand members",
+    "tags": ["payments", "security", "myHQ"]
+  },
+  {
+    "question": "Can I trust the third-party payment vendor myHQ is using?",
+    "answer": "Yes. myHQ uses Razorpay, a trusted and compliant gateway. Card data is not stored, and all transactions comply with PCI DSS standards. Data is only used temporarily for transactions and not saved.",
+    "user_type": "On demand members",
+    "tags": ["Razorpay", "vendor", "PCI DSS"]
+  },
+  {
+    "question": "How do I sign up for a day pass?",
+    "answer": "Select your preferred city and centre, choose your date(s), complete the checkout. You’ll get an email confirmation once the booking is done.",
+    "user_type": "On demand members",
+    "tags": ["signup", "day pass", "how to"]
+  },
+  {
+    "question": "How do I access an On-demand workspace?",
+    "answer": "Check in with a member of the Community Team to get a keycard. For future reservations, carry necessary documents listed in your confirmation email. Workspaces are accessible from 9am–8pm.",
+    "user_type": "On demand members",
+    "tags": ["access", "workspace", "timings"]
+  },
+  {
+    "question": "What amenities do I get with a day pass?",
+    "answer": "Day pass gives access to unlimited coffee, high-speed Wifi, shared workspace, phone booths, and a games room. Additional facilities like conference rooms, gym, swimming pool and parking are subject to availability and may incur extra costs.",
+    "user_type": "On demand members",
+    "tags": ["amenities", "day pass", "facilities"]
+  },
+  {
+    "question": "How do I get privacy if needed?",
+    "answer": "You can book 'quiet space' zones, phone booths, or conference rooms (subject to availability). Some options may incur additional charges.",
+    "user_type": "On demand members",
+    "tags": ["privacy", "quiet space", "phone booth", "conference"]
+  },
+  {
+    "question": "How do I modify or cancel my booking?",
+    "answer": "Day passes are non-refundable and non-cancellable. To reschedule before the booking date, login at https://wework.co.in/workspaces/on-demand/, go to 'My Account', select and reschedule the booking. Contact contactwwod@myhq.in for help.",
+    "user_type": "On demand members",
+    "tags": ["modify", "cancel", "reschedule"]
+  },
+  {
+    "question": "What happens if I purchase day pass bundles before March 1st, 2024?",
+    "answer": "Bundles purchased before March 1st, 2024 are valid until February 28th, 2025.",
+    "user_type": "On demand members",
+    "tags": ["validity", "day pass", "bundle"]
+  },
+  {
+    "question": "What are the expiry terms for day pass bundles purchased on or after March 1st, 2024?",
+    "answer": "5-day bundles expire in 30 days. 10-day bundles expire in 60 days.",
+    "user_type": "On demand members",
+    "tags": ["expiry", "day pass", "bundle terms"]
+  }
+]

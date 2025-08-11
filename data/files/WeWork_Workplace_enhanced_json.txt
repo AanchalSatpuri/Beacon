@@ -1,0 +1,260 @@
+[
+  {
+    "question": "Can WeWork Workplace be used without a physical office with WeWork?",
+    "answer": "Yes, since WeWork Workplace is space-agnostic, it can be used to manage any office space and isn't limited to physical workspaces with WeWork.",
+    "user_type": "Prospective Members",
+    "tags": ["workplace", "physical office", "space-agnostic", "software"]
+  },
+  {
+    "question": "Is WeWork Workplace operational at all WeWork locations?",
+    "answer": "WeWork Workplace is operational at all WeWork locations, except for WeWork China.",
+    "user_type": "Prospective Members",
+    "tags": ["locations", "availability", "global presence"]
+  },
+  {
+    "question": "Is there a minimum commitment term for Workplace?",
+    "answer": "Yes, the minimum commitment term for WeWork Workplace is a period of 6 months.",
+    "user_type": "Prospective Members",
+    "tags": ["commitment", "term", "minimum period", "contract length"]
+  },
+  {
+    "question": "For WeWork Workplace, is the go-live date the same day as the billing date start date?",
+    "answer": "Yes, for WeWork Workplace the go-live date is the same as the billing start date.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["go-live date", "billing start date", "activation"]
+  },
+  {
+    "question": "For WeWork Workplace, can there be mid-month start dates?",
+    "answer": "Yes, please reach out to the dedicated WeWork Workplace team for assistance with the paperwork.",
+    "user_type": "Prospective Members",
+    "tags": ["mid-month start", "billing cycle", "paperwork"]
+  },
+  {
+    "question": "Is all billing done upfront for WeWork Workplace?",
+    "answer": "Yes, this is the standard for all SaaS products.",
+    "user_type": "Prospective Members",
+    "tags": ["upfront billing", "payment schedule", "SaaS"]
+  },
+  {
+    "question": "How much is billed upfront for agreements exceeding 12 months for WeWork Workplace?",
+    "answer": "For agreements longer than 12 months, billing will invoice the full term upfront unless otherwise specified in the agreement's billing notes.",
+    "user_type": "Prospective Members",
+    "tags": ["long-term agreements", "upfront payment", "billing terms"]
+  },
+  {
+    "question": "Do WeWork Workplace contracts auto-renew?",
+    "answer": "Yes, WeWork Workplace contracts automatically renew for 12 months unless a written notice is received 30 days before the end of the term. Even for deals exceeding 3 months, failure to provide a timely notice will result in a 12-month renewal.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["auto-renewal", "contract term", "notice period"]
+  },
+  {
+    "question": "Can WeWork Workplace members select a specific renewal term if they notify you before their notice period ends?",
+    "answer": "Yes, WeWork Workplace members can choose a specific renewal term by providing a notice before the end of the standard notice period.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["renewal term", "notice period", "term options"]
+  },
+  {
+    "question": "Can WeWork Workplace manage a company's non-WeWork spaces?",
+    "answer": "Yes, WeWork Workplace is space-agnostic and can be used in any type of space.",
+    "user_type": "Prospective Members",
+    "tags": ["non-WeWork spaces", "space-agnostic", "flexibility"]
+  },
+  {
+    "question": "Will WeWork Workplace members still have access to Account Central?",
+    "answer": "Yes, admins will continue to have access to Account Central and can manage their non-Workplace memberships, view billing and invoices.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["Account Central", "access", "billing management"]
+  },
+  {
+    "question": "Does having an On-demand account conflict with a WeWork Workplace booking?",
+    "answer": "Yes, it may interfere. The On-demand account should be removed by submitting a ticket, as it can cause access issues with the Workplace account.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["On-demand account", "conflicts", "access issues"]
+  },
+  {
+    "question": "Does a keycard grant access to booked desks or offices?",
+    "answer": "To access your private space at a WeWork location, you must make a booking for either a Private Office or a hot desk. Once your booking is confirmed, your keycard will grant you access to meeting rooms 30 minutes before and 30 minutes after your scheduled booking time.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["keycard", "desk access", "office access", "booking confirmation"]
+  },
+  {
+    "question": "How long does a keycard stay active for Private Office desk bookings?",
+    "answer": "The keycard remains active for 24 hours, from midnight to midnight.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["keycard", "activation period", "private office bookings"]
+  },
+  {
+    "question": "Is global access included with WeWork Workplace, regardless of the client being a WeWork member?",
+    "answer": "Yes, global access to WeWork locations is included with WeWork Workplace. This functionality can be turned on or off depending on the member's preference.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["global access", "WeWork locations", "preferences"]
+  },
+  {
+    "question": "How far in advance can members book space?",
+    "answer": "Users can book their company's private space without time limits, although this may be restricted by the company's admin. For public WeWork coworking spaces, the booking limit is 30 days in advance.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["advance booking", "timeframe", "limitations"]
+  },
+  {
+    "question": "Can bookings be made for half days or specific hours?",
+    "answer": "Desks, offices, and shared desks in private spaces require full-day bookings, while meeting rooms can be booked for partial days. Partial day booking is currently on the roadmap.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["partial bookings", "hourly bookings", "meeting rooms"]
+  },
+  {
+    "question": "Are there calendar invites for bookings?",
+    "answer": "We are integrated with Outlook via an Outlook Add-In, allowing users to invite attendees and book rooms directly through Outlook. Integration with Google Calendar is coming soon, ensuring real-time updates across both platforms.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["calendar invites", "Outlook", "Google Calendar"]
+  },
+  {
+    "question": "Can floorplans be divided for team-specific bookings?",
+    "answer": "Yes, admins can create User Groups and Booking Zones.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["floorplans", "team-specific bookings", "user groups", "booking zones"]
+  },
+  {
+    "question": "Can admins book on behalf of their teams?",
+    "answer": "Yes, WeWork Workplace users can book on behalf of others through the app. This feature currently applies only to desks in private offices and does not support multi-day bookings.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["booking on behalf", "delegation", "app features"]
+  },
+  {
+    "question": "Can office managers book multiple spaces for team collaboration?",
+    "answer": "Yes, users can book a group of desks in the office and assign other users to these desks via the WeWork Workplace app, granting them keycard access to the building.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["multiple spaces", "team booking", "keycard access"]
+  },
+  {
+    "question": "Multiple private offices and keycards",
+    "answer": "All WeWork Workplace users need a keycard regardless of the number of desks in a space.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["keycards", "multiple offices", "desk access"]
+  },
+  {
+    "question": "Private office with a few desks",
+    "answer": "Yes, WeWork Workplace can be used for a private office with 1-9 desks. However, there won't be a keycard reader in that office. Users would need to share keys or use a lockbox for their office door.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["private office", "small offices", "keycard reader"]
+  },
+  {
+    "question": "Limiting booking locations",
+    "answer": "WeWork Workplace companies can restrict booking capacities within their private office. Restrictions on booking WeWork shared workspaces, determine where employees can work, such as limiting access to specific locations (e.g., only to WeWork locations in London or restricting access to WeWork locations in Bangalore).",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["booking restrictions", "location limitations", "access control"]
+  },
+  {
+    "question": "WeWork Workplace, limiting booking days per zone",
+    "answer": "Currently, limits can only be set on a floor or building level for WeWork Workplace memberships, not for specific zones within a private office.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["booking limits", "zones", "floor restrictions"]
+  },
+  {
+    "question": "External app integrations",
+    "answer": "WeWork Workplace has APIs to receive data from other applications, allowing for automatic user provisioning and de-provisioning.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["external app integrations", "APIs", "user provisioning"]
+  },
+  {
+    "question": "Community notifications",
+    "answer": "WeWork Workplace members don't receive email notifications, but they can see events posted by the WeWork Community team for any location, regardless of whether they have a booking there.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["notifications", "community events", "email notifications"]
+  },
+  {
+    "question": "Using credits to book private spaces for WeWork Workplace",
+    "answer": "Booking a desk or meeting room within a company's WeWork office doesn't deduct credits from their monthly allotment, as part of your WeWork Workplace membership.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["private spaces", "credit usage", "monthly allotment"]
+  },
+  {
+    "question": "Using credits to book common areas for WeWork Workplace",
+    "answer": "Booking shared workspaces through WeWork Workplace requires 1 credit according to WeWork's credit system.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["common areas", "shared workspaces", "credit system"]
+  },
+  {
+    "question": "Admin purchasing credit bundles for WeWork Workplace",
+    "answer": "WeWork Workplace Admins cannot purchase credit bundles on Workplace. They should use Account Central for this purpose.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["credit bundles", "Account Central", "purchasing"]
+  },
+  {
+    "question": "Exceeding private office capacity for WeWork Workplace",
+    "answer": "If additional WeWork Workplace members need to use their personal keycards and book individually, it's recommended to use a credit. If they're just attending a meeting, only the meeting host needs to book the room, and others can attend as guests.",
+    "user_type": "WeWork Workplace Members",
+    "tags": ["exceeding capacity", "booking", "meetings", "guests"]
+  },
+  {
+    "question": "Booking permissions for WeWork Workplace admins",
+    "answer": "WeWork Workplace admins can set booking permissions for specific teams or user groups (team, business unit, department) via the WeWork Workplace admin tool. Initially, restricting access by certain days of the week won't be possible.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["booking permissions", "user groups", "team settings"]
+  },
+  {
+    "question": "Number of admins and access levels for WeWork Workplace memberships",
+    "answer": "There's no limit on the number of admins. All admins will have the same access level initially, for any WeWork Workplace membership.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["number of admins", "access levels", "permissions"]
+  },
+  {
+    "question": "How to add employees for WeWork Workplace memberships",
+    "answer": "WeWork Workplace admins can upload users (one by one or in bulk through CSV) via the WeWork Workplace admin tool, but not through Account Central.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["adding employees", "uploading users", "CSV"]
+  },
+  {
+    "question": "Adding new employees to existing companies",
+    "answer": "When an existing member company joins WeWork Workplace, they can choose which employees become WeWork Workplace users. Admins can add new users via the admin tool. However, it's recommended to add all users for better space management.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["existing companies", "new employees", "user addition"]
+  },
+  {
+    "question": "Adding/Removing licences for WeWork Workplace memberships",
+    "answer": "WeWork Workplace members with a commitment term cannot decrease the number of licences. To add users, they need to request an amendment to the agreement for additional users.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["adding/removing licenses", "commitment terms", "amendments"]
+  },
+  {
+    "question": "Admin self-service for WeWork Workplace user management",
+    "answer": "Yes, WeWork Workplace membership/company admins can self-service by deactivating a user when someone leaves and then activating another user to reassign existing passes. Deactivating a user deletes their historical data.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["self-service", "deactivation", "historical data"]
+  },
+  {
+    "question": "Viewing booking data for WeWork Workplace memberships",
+    "answer": "WeWork Workplace admins can see the names of employees who have booked on the app. In the 'Report' section of the admin view, they can click the 'Occupancy' tab to view specific users by day. This information can also be exported via CSV.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["booking data", "occupancy reports", "CSV export"]
+  },
+  {
+    "question": "WeWork employees cancelling bookings for WeWork Workplace memberships",
+    "answer": "WeWork employees cannot cancel WeWork Workplace member bookings. However, WeWork Workplace admins can cancel bookings by going into space approvals, then the approved tab, searching for the date or user, and selecting the option to cancel the booking.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["cancelling bookings", "space approvals", "admin controls"]
+  },
+  {
+    "question": "Third-party space management tools",
+    "answer": "WeWork Workplace doesn't integrate with competitor Enterprise Space Management (ESM) solutions (Envoy, Teem, Robin, Condeco) as it offers similar features.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["third-party tools", "space management", "competitors"]
+  },
+  {
+    "question": "Single Sign-On (SSO)",
+    "answer": "WeWork Workplace supports Single Sign-On (SSO).",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["SSO", "Single Sign-On", "authentication"]
+  },
+  {
+    "question": "Security Assertion Markup Language (SAML)",
+    "answer": "WeWork Workplace doesn't support SAML directly, but it does support OpenID Connect (OIDC). Most providers using SAML also use OIDC.",
+    "user_type": "WeWork Workplace Admins",
+    "tags": ["SAML", "OIDC", "authentication protocols"]
+  },
+  {
+    "question": "List of WeWork product abbreviations",
+    "answer": "Private Office -  PO, WeWork PO, WeWork Private Office, po All Access Plus - AA Plus or AA+, or WeWork AA Plus or WeWork AA+, aa+, aaplus, aa plus All Access Pay Per Use -, aappu, all access pay per use, aa pay per use Virtual Office - VO, WeWork VO, vo WeWork Labs - WW Labs, WWL, wwl, wwlabs On-demand - OD, WeWork OD, od On-demand meeting rooms - conference rooms, od meeting rooms Managed Offices - managed offices, mo, MO WeWork Business Solutions - WBS, wework business solutions Advertise at WeWork - advertise at wework, advertise at ww, Studios - WeWork Studios, wwstudios, wws",
+    "user_type": "Staff",
+    "tags": ["abbreviations", "products", "terminology"]
+  }
+] 
