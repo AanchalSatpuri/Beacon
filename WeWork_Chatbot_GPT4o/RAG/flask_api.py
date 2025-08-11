@@ -62,8 +62,8 @@ def query_with_gpt4o(question: str, context_chunks: list) -> str:
                 {"role": "system", "content": "You are a helpful WeWork customer service assistant."},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=1000,
-            temperature=0.7
+            max_tokens=8000,
+            temperature=0.15
         )
         
         return response.choices[0].message.content.strip()

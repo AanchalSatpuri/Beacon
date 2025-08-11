@@ -16,7 +16,6 @@ import pickle
 import time
 from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
-import google.generativeai as genai
 from dotenv import load_dotenv
 import re
 
@@ -25,17 +24,24 @@ load_dotenv("api_key.env")
 load_dotenv(".env")
 load_dotenv()
 
-# Configure Gemini API
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
-    raise ValueError(
-        "GEMINI_API_KEY environment variable not set. "
-        "Please copy env.example to api_key.env and add your API key. "
-        "Get one at: https://makersuite.google.com/app/apikey"
-    )
+# Shared data configuration
+# Prefer shared top-level data folder (../../data) if present, otherwise fall back to local RAG/files
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_SHARED_FILES = os.path.abspath(os.path.join(BASE_DIR, "..", "..", "data", "files"))
+DEFAULT_LOCAL_FILES = os.path.abspath(os.path.join(BASE_DIR, "files"))
 
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+DATA_BASE = os.getenv("WEWORK_DATA_DIR")
+if not DATA_BASE:
+    DATA_BASE = DEFAULT_SHARED_FILES if os.path.isdir(DEFAULT_SHARED_FILES) else DEFAULT_LOCAL_FILES
+
+DEFAULT_SHARED_URLS = os.path.abspath(os.path.join(BASE_DIR, "..", "..", "data", "url_files", "urls.txt"))
+DEFAULT_LOCAL_URLS = os.path.abspath(os.path.join(BASE_DIR, "url_files", "urls.txt"))
+
+URLS_FILE = os.getenv("WEWORK_URLS_FILE")
+if not URLS_FILE:
+    URLS_FILE = DEFAULT_SHARED_URLS if os.path.exists(DEFAULT_SHARED_URLS) else DEFAULT_LOCAL_URLS
+
+# Note: This GPT build intentionally contains no Gemini model usage.
 
 # Cache paths - Updated for local environment
 CACHE_DIR = './cache'
@@ -230,20 +236,8 @@ def multi_step_retrieve(retriever, query: str, k: int = 8):
     
     return final_chunks
 
-def generate_answer_with_gemini(question: str, context_chunks: list) -> str:
-    """Generate answer with complete Gemini-optimized WeWork prompt including all original features."""
-    from complete_gemini_prompt import get_complete_gemini_prompt
-    
-    chunks_retrieved = "\n\n".join([f"Chunk {i+1}:\n{chunk.page_content}" 
-                                   for i, chunk in enumerate(context_chunks)])
-    
-    prompt = get_complete_gemini_prompt(question, chunks_retrieved)
-
-    try:
-        response = model.generate_content(prompt)
-        return response.text.strip()
-    except Exception as e:
-        return f"Error generating answer: {str(e)}"
+def get_context_text(context_chunks: list) -> str:
+    return "\n\n".join([f"Chunk {i+1}:\n{chunk.page_content}" for i, chunk in enumerate(context_chunks)])
 
 def load_local_files():
     """Load local files from WeWork data directory."""
@@ -256,12 +250,12 @@ def load_local_files():
         print(f"Loaded {len(pages)} documents from cache in {time.time() - start_time:.2f} seconds")
         return pages
 
-    # Updated for local environment
-    UPLOAD_FOLDER = './files/'
+    # Prefer shared data directory (overridable via WEWORK_DATA_DIR)
+    UPLOAD_FOLDER = DATA_BASE
     pages = []
 
     if not os.path.exists(UPLOAD_FOLDER):
-        print(f"Warning: {UPLOAD_FOLDER} not found. Creating empty list.")
+        print(f"Warning: data folder not found at {UPLOAD_FOLDER}. Returning empty document list.")
         return []
 
     for file in tqdm(os.listdir(UPLOAD_FOLDER), desc="Processing local files"):
@@ -340,10 +334,10 @@ def load_web_documents():
         print(f"Loaded {len(web_docs)} web documents from cache in {time.time() - start_time:.2f} seconds")
         return web_docs
 
-    URL_FILE = './url_files/urls.txt'
+    URL_FILE = URLS_FILE
 
     if not os.path.exists(URL_FILE):
-        print(f"Warning: {URL_FILE} not found. Skipping web documents.")
+        print(f"Warning: URL file not found at {URL_FILE}. Skipping web documents.")
         return []
 
     with open(URL_FILE, 'r') as f:
@@ -418,61 +412,15 @@ def initialize_rag_system():
     
     print(f"RAG system initialized in {time.time() - start_time:.2f} seconds")
 
-def query_rag_system(question: str) -> str:
-    """Query the RAG system with a question."""
+def query_rag_system(question: str):
+    """Return retrieved chunks for external LLM (GPT-4o) to consume."""
     global retriever
-    
     if retriever is None:
         initialize_rag_system()
-    
-    try:
-        chunks = multi_step_retrieve(retriever, question)
-        answer = generate_answer_with_gemini(question, chunks)
-        return answer
-    except Exception as e:
-        return f"Error processing question: {str(e)}"
-
-def main():
-    """Main function for testing the RAG system."""
-    initialize_rag_system()
-    
-    questions = [
-        "what is po",
-        "discount on all access plus",
-        "what is the price of private office"
-    ]
-
-    print("\n" + "="*80)
-    print(f"OPTIMIZED RAG SYSTEM - MODEL: {EMBEDDING_OPTIONS[SELECTED_MODEL]}")
-    print("="*80)
-
-    for question in questions:
-        print(f"\n🎯 Question: {question}")
-        print("-" * 60)
-        
-        answer = query_rag_system(question)
-        print(f"\n🤖 Answer: {answer}")
-        print("\n" + "="*80)
-
-    # Interactive mode
-    print("\n🎮 INTERACTIVE MODE (OPTIMIZED EMBEDDINGS)")
-    print("="*50)
-    print(f"Using: {EMBEDDING_OPTIONS[SELECTED_MODEL]}")
-    print("Ask your own questions! (type 'quit' to exit)")
-    
-    while True:
-        user_question = input("\nYour question: ").strip()
-        
-        if user_question.lower() in ['quit', 'exit', 'q']:
-            print("Goodbye!")
-            break
-            
-        if not user_question:
-            continue
-        
-        answer = query_rag_system(user_question)
-        print(f"\n💡 Answer: {answer}")
-        print("-" * 50)
+    chunks = multi_step_retrieve(retriever, question)
+    return chunks
 
 if __name__ == "__main__":
-    main()
+    initialize_rag_system()
+    print("RAG initialized. Use the Flask API to query GPT-4o.")
+

@@ -37,6 +37,9 @@ fi
 
 # Start backend
 echo "🔥 Starting GPT-4o backend..."
+# Use shared data folder if present
+export WEWORK_DATA_DIR=${WEWORK_DATA_DIR:-"$(cd ../.. && pwd)/data/files"}
+export WEWORK_URLS_FILE=${WEWORK_URLS_FILE:-"$(cd ../.. && pwd)/data/url_files/urls.txt"}
 python flask_api.py &
 BACKEND_PID=$!
 

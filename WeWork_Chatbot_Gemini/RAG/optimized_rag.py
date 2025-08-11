@@ -25,6 +25,23 @@ load_dotenv("api_key.env")
 load_dotenv(".env")
 load_dotenv()
 
+# Shared data configuration
+# Prefer shared top-level data folder (../../data) if present, otherwise fall back to local RAG/files
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_SHARED_FILES = os.path.abspath(os.path.join(BASE_DIR, "..", "..", "data", "files"))
+DEFAULT_LOCAL_FILES = os.path.abspath(os.path.join(BASE_DIR, "files"))
+
+DATA_BASE = os.getenv("WEWORK_DATA_DIR")
+if not DATA_BASE:
+    DATA_BASE = DEFAULT_SHARED_FILES if os.path.isdir(DEFAULT_SHARED_FILES) else DEFAULT_LOCAL_FILES
+
+DEFAULT_SHARED_URLS = os.path.abspath(os.path.join(BASE_DIR, "..", "..", "data", "url_files", "urls.txt"))
+DEFAULT_LOCAL_URLS = os.path.abspath(os.path.join(BASE_DIR, "url_files", "urls.txt"))
+
+URLS_FILE = os.getenv("WEWORK_URLS_FILE")
+if not URLS_FILE:
+    URLS_FILE = DEFAULT_SHARED_URLS if os.path.exists(DEFAULT_SHARED_URLS) else DEFAULT_LOCAL_URLS
+
 # Configure Gemini API
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
@@ -256,12 +273,12 @@ def load_local_files():
         print(f"Loaded {len(pages)} documents from cache in {time.time() - start_time:.2f} seconds")
         return pages
 
-    # Updated for local environment
-    UPLOAD_FOLDER = './files/'
+    # Prefer shared data directory (overridable via WEWORK_DATA_DIR)
+    UPLOAD_FOLDER = DATA_BASE
     pages = []
 
     if not os.path.exists(UPLOAD_FOLDER):
-        print(f"Warning: {UPLOAD_FOLDER} not found. Creating empty list.")
+        print(f"Warning: data folder not found at {UPLOAD_FOLDER}. Returning empty document list.")
         return []
 
     for file in tqdm(os.listdir(UPLOAD_FOLDER), desc="Processing local files"):
@@ -340,10 +357,10 @@ def load_web_documents():
         print(f"Loaded {len(web_docs)} web documents from cache in {time.time() - start_time:.2f} seconds")
         return web_docs
 
-    URL_FILE = './url_files/urls.txt'
+    URL_FILE = URLS_FILE
 
     if not os.path.exists(URL_FILE):
-        print(f"Warning: {URL_FILE} not found. Skipping web documents.")
+        print(f"Warning: URL file not found at {URL_FILE}. Skipping web documents.")
         return []
 
     with open(URL_FILE, 'r') as f:

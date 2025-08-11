@@ -142,3 +142,20 @@ If you want to use GPT-4o instead, check out the `WeWork_Chatbot_GPT4o` folder f
 ## 📝 License
 
 Internal WeWork project - Not for public distribution.
+
+## 📂 Using Shared Data (Recommended)
+
+By default, this version will look for a shared knowledge base at `../../data/files` and URLs at `../../data/url_files/urls.txt`.
+
+- Override paths with environment variables:
+  ```bash
+  export WEWORK_DATA_DIR="../../data/files"
+  export WEWORK_URLS_FILE="../../data/url_files/urls.txt"
+  ```
+
+- If you change the data, rebuild vectors:
+  ```bash
+  curl -X POST http://localhost:5000/rebuild
+  # or delete the cache folder and restart
+  rm -rf RAG/cache/*
+  ```
